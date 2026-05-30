@@ -1,0 +1,129 @@
+---
+import { getCollection } from 'astro:content';
+import BaseHead from '../components/BaseHead.astro';
+import Footer from '../components/Footer.astro';
+import Header from '../components/Header.astro';
+import FormattedDate from '../components/FormattedDate.astro';
+import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
+
+const posts = (await getCollection('blog')).sort(
+	(a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf(),
+);
+---
+
+<!doctype html>
+<html lang="zh-CN">
+	<head>
+		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
+	</head>
+	<body>
+		<Header />
+		<main>
+			<section class="hero">
+				<h1>👋 你好，我是 MaoYo</h1>
+				<p class="tagline">思考 · 技术 · 生活 — 一位开发者的数字花园</p>
+				<div class="about-cards">
+					<div class="card">🎓 系统科学 / 机器学习方向的研究生</div>
+					<div class="card">💻 热爱自动化、AI 工具链、知识管理</div>
+					<div class="card">🏗️ 维护 Hermes Agent — 个人自动化信使体系</div>
+					<div class="card">📚 Obsidian 重度用户，1,683 张知识卡片，99.6% 互联</div>
+				</div>
+			</section>
+
+			<section class="posts-section">
+				<h2>📝 最新文章</h2>
+				<ul class="post-list">
+					{
+						posts.map((post) => (
+							<li class="post-item">
+								<a href={`/blog/${post.id}/`}>
+									<span class="post-title">{post.data.title}</span>
+									<span class="post-date"><FormattedDate date={post.data.pubDate} /></span>
+								</a>
+								{post.data.tags && (
+									<div class="tags">
+										{post.data.tags.map((tag) => <span class="tag">{tag}</span>)}
+									</div>
+								)}
+							</li>
+						))
+					}
+				</ul>
+			</section>
+		</main>
+		<Footer />
+	</body>
+</html>
+
+<style>
+	.hero {
+		text-align: center;
+		padding: 4em 1em 2em;
+	}
+	.hero h1 {
+		font-size: 2.5em;
+		margin-bottom: 0.3em;
+	}
+	.tagline {
+		font-size: 1.2em;
+		color: rgb(var(--gray));
+		margin-bottom: 2em;
+	}
+	.about-cards {
+		display: grid;
+		grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+		gap: 1em;
+		max-width: 800px;
+		margin: 0 auto;
+	}
+	.card {
+		background: rgb(var(--gray-light));
+		padding: 1.2em;
+		border-radius: 12px;
+		font-size: 0.95em;
+		transition: transform 0.2s;
+	}
+	.card:hover {
+		transform: translateY(-2px);
+	}
+	.posts-section {
+		max-width: 700px;
+		margin: 3em auto;
+		padding: 0 1em;
+	}
+	.post-list {
+		list-style: none;
+		padding: 0;
+	}
+	.post-item {
+		padding: 1em 0;
+		border-bottom: 1px solid rgb(var(--gray-light));
+	}
+	.post-item a {
+		display: flex;
+		justify-content: space-between;
+		align-items: baseline;
+		text-decoration: none;
+		color: inherit;
+	}
+	.post-title {
+		font-size: 1.1em;
+		font-weight: 500;
+	}
+	.post-date {
+		font-size: 0.85em;
+		color: rgb(var(--gray));
+	}
+	.tags {
+		margin-top: 0.5em;
+		display: flex;
+		gap: 0.5em;
+	}
+	.tag {
+		font-size: 0.75em;
+		background: rgb(var(--accent-light));
+		color: rgb(var(--accent));
+		padding: 0.2em 0.6em;
+		border-radius: 4px;
+	}
+</style>

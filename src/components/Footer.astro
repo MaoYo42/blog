@@ -1,0 +1,32 @@
+---
+const today = new Date();
+---
+
+<footer>
+	&copy; {today.getFullYear()} MaoYo. All rights reserved.
+	<div class="links">
+		<a href="https://github.com/MaoYo42">GitHub</a>
+		<a href="/blog/index.xml">RSS</a>
+	</div>
+</footer>
+<style>
+	footer {
+		padding: 2em 1em 4em 1em;
+		background: linear-gradient(var(--gray-gradient)) no-repeat;
+		color: rgb(var(--gray));
+		text-align: center;
+	}
+	.links {
+		display: flex;
+		justify-content: center;
+		gap: 1.5em;
+		margin-top: 0.5em;
+	}
+	.links a {
+		color: rgb(var(--accent));
+		text-decoration: none;
+	}
+	.links a:hover {
+		text-decoration: underline;
+	}
+</style>

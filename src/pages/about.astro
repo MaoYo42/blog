@@ -1,0 +1,52 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Footer from '../components/Footer.astro';
+import Header from '../components/Header.astro';
+---
+
+<!doctype html>
+<html lang="zh-CN">
+	<head>
+		<BaseHead title="关于" description="关于我和这个博客" />
+	</head>
+	<body>
+		<Header />
+		<main class="prose">
+			<h1>关于我</h1>
+
+			<h2>🧑‍💻 个人简介</h2>
+			<p>一个热爱技术和知识管理的开发者。目前攻读系统科学方向的研究生，研究方向涉及机器学习、路面裂缝检测等领域。</p>
+
+			<h2>🔧 技术栈</h2>
+			<ul>
+				<li><strong>语言</strong>: Python, TypeScript, Go</li>
+				<li><strong>ML/DL</strong>: PyTorch, ResNet, UNet</li>
+				<li><strong>工具</strong>: Obsidian, Neovim, Git, Linux</li>
+				<li><strong>自动化</strong>: Hermes Agent, GitHub Actions, cron</li>
+			</ul>
+
+			<h2>📖 这个博客</h2>
+			<p>
+				基于 <a href="https://astro.build/">Astro</a> 构建，一个现代化的内容驱动网站框架。
+			</p>
+			<p>写作风格：中文为主，偶尔穿插英文术语。追求清晰、实用、有深度的内容。</p>
+
+			<h2>🤝 联系我</h2>
+			<ul>
+				<li>GitHub: <a href="https://github.com/MaoYo42">MaoYo42</a></li>
+			</ul>
+		</main>
+		<Footer />
+	</body>
+</html>
+
+<style>
+	.prose {
+		max-width: 700px;
+		margin: 3em auto;
+		padding: 0 1em;
+		line-height: 1.8;
+	}
+	.prose h1 { font-size: 2em; margin-bottom: 1em; }
+	.prose h2 { font-size: 1.4em; margin-top: 2em; }
+</style>

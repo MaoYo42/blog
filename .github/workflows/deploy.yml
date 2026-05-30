@@ -14,13 +14,15 @@ concurrency:
   group: pages
   cancel-in-progress: true
 
+defaults:
+  run:
+    shell: bash
+
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
 
       - uses: actions/setup-node@v4
         with:
@@ -30,16 +32,13 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
-      - name: Install Quartz plugins
-        run: npx quartz plugin install
-
       - name: Build site
-        run: npx quartz build
+        run: npm run build
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: public
+          path: dist
 
   deploy:
     needs: build
