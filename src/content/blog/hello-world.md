@@ -1,10 +1,12 @@
 ---
 title: Hello World — 博客开篇
 description: 新博客的第一篇文章
-pubDate: 2026-05-31
+date: 2026-05-31T00:00:00+08:00
+categories: [随笔]
 tags:
-  - meta
   - 博客
+  - meta
+image: https://maoyo42.github.io/blog/img/site_header_800.webp
 ---
 
 # Hello World
@@ -22,14 +24,12 @@ tags:
 - **项目记录** — Hermes Agent、LLM 知识库等个人项目的思考
 - **生活与思考** — 偶尔的随笔
 
-## 关于 Obsidian → 博客的 workflow
+## 关于写作流程
 
 我的写作流程很简单：
 
 1. 在 **Obsidian** 中写草稿、改进
 2. 定稿后复制 `.md` 文件到博客的 `src/content/blog/` 目录
 3. 推送到 GitHub，触发自动部署
-
-这样既保留了 Obsidian 的写作体验，又让博客内容独立可控。
 
 期待在这里记录更多的思考和发现 🚀
