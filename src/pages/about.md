@@ -1,34 +1,66 @@
 ---
 layout: ../layouts/PageLayout.astro
-title: "About"
+title: "关于"
 coverTitle: "关于我"
-date: 2025-01-03 01:01:33
-description: "关于我？"
+date: 2026-05-31
+description: "MaoYo 的个人简介"
 ---
 
-## 你好，这里是余弦
+## 👋 你好，我是 MaoYo
 
-[![github badge](https://img.shields.io/badge/dynamic/json?color=blue&label=Github&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dyusixian)](https://github.com/yusixian)
+一个热爱技术和知识管理的开发者。
 
-cosine = 余弦 = cos
+[![GitHub](https://img.shields.io/badge/MaoYo42-181717?logo=github&logoColor=white)](https://github.com/MaoYo42)
 
-愿热情永存，愿热爱不灭，愿生活无憾
+> 保持好奇，持续输出，认真生活。
 
-> 我们 都只是无名之辈 \
-> 做你自己最喜欢的事 \
-> 像花一样 肆意绽放 \
-> 不去管 有没有人欣赏
+---
 
-### 找到我
+## 🧭 我在做什么
 
-个人 Telegram 前端频道：日常碎碎念，偶尔掉落优质前端博文推荐、学习资源等
+### 🎓 研究
 
-https://t.me/cosine_front_end
+目前攻读系统科学方向的研究生，研究方向涉及**机器学习**、**计算机视觉**。
 
-Gitbook 前端学习记录
+### 🔧 项目
 
-https://book.cosine.ren/
+- **Hermes Agent** — 个人自动化信使体系，管理信息聚合、日报生成、定时任务
+- **LLM 知识库** — 基于大语言模型的知识管理与检索系统
+- **自媒体创作管线** — 全自动内容创作与发布工作流
 
-[![GitHub State](https://git-stats.cosine.ren/api?username=yusixian&theme=dark&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+### 📚 知识管理
 
-[![GitHub Streak](https://github-readme-streak-stats-rust-tau.vercel.app?user=yusixian&theme=dark&date_format=%5BY%20%5DM%20&hide_border=true)](https://git.io/streak-stats)
+重度 Obsidian 使用者，构建了 **1,683 张知识卡片**的知识库，覆盖 AI、开发者工具、自动化等领域，卡片互联率 99.6%。
+
+---
+
+## 🛠️ 技术栈
+
+| 领域 | 工具 |
+|------|------|
+| **语言** | Python, TypeScript, Go |
+| **ML/DL** | PyTorch, ResNet, UNet |
+| **工具** | Obsidian, Neovim, Git, Linux |
+| **自动化** | Hermes Agent, GitHub Actions, Cron |
+| **博客** | Astro, GitHub Pages |
+
+---
+
+## 📖 这个博客
+
+基于 **Astro 5** + **astro-koharu** 主题构建，使用 Content Collections 管理文章。
+
+写作内容：
+- **技术与工具** — AI、自动化、开发者工具链
+- **学习方法** — 知识管理、阅读笔记
+- **项目记录** — 开发中的思考与收获
+- **生活与思考** — 偶尔的随笔
+
+写作流程：Obsidian 写草稿 → 定稿后复制到博客 → `git push` 自动部署
+
+---
+
+## 🤝 找到我
+
+- **GitHub**: [MaoYo42](https://github.com/MaoYo42)
+- **博客**: [maoyo42.github.io/blog](https://maoyo42.github.io/blog)
