@@ -26,7 +26,7 @@ export async function GET(context: APIContext) {
     site,
     trailingSlash: false,
     customData: `<language>${getHtmlLang(lang)}</language>`,
-    stylesheet: '/rss/feed.xsl',
+    stylesheet: `${import.meta.env.BASE_URL}rss/feed.xsl`,
     items: posts.slice(0, 20).map((post: BlogPost) => {
       const categoryArr = getCategoryArr(post.data.categories?.[0]);
       const categories = [

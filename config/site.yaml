@@ -16,7 +16,7 @@ site:
   subtitle: 思考 · 技术 · 生活 # 网站副标题
   name: MaoYo # 作者名称
   description: 一个开发者的数字花园 # 网站描述
-  avatar: /img/avatar.webp # 网站头像
+  avatar: /img/site_header_800.webp # 网站头像
   showLogo: true # 是否显示 Logo
   author: MaoYo # 作者名称
   url: https://maoyo42.github.io/blog # 站点 URL 用于 RSS 和 SEO
@@ -119,15 +119,11 @@ featuredCategories:
 featuredSeries: []
 social:
   github:
-    url: https://github.com/your-username # 替换为你的 GitHub 链接
-    icon: ri:github-fill # Remix Icon 的 GitHub 图标
-    color: '#191717' # (可选) 图标颜色
-  email:
-    url: mailto:your@email.com # 替换为你的邮箱，需加 mailto: 前缀
-    icon: ri:mail-line
-    color: '#55acd5'
+    url: https://github.com/MaoYo42
+    icon: ri:github-fill
+    color: '#191717'
   rss:
-    url: /rss.xml # 站内 RSS 订阅地址
+    url: /rss.xml
     icon: ri:rss-line
     color: '#ff6600'
   # -------------------------------------------------------------------------
@@ -331,10 +327,6 @@ navigation:
     icon: ri:home-heart-fill # 图标
   # - name: 书摘
   #   path: /reading
-  - name: 周刊
-    nameKey: nav.weekly
-    path: /weekly
-    icon: ri:newspaper-line
   - name: 文章 # 有子菜单时，path 可省略
     nameKey: nav.posts
     icon: ri:quill-pen-ai-fill
@@ -351,18 +343,10 @@ navigation:
         nameKey: nav.archives
         path: /archives
         icon: ri:archive-2-fill
-  - name: 友链
-    nameKey: nav.friends
-    path: /friends
-    icon: ri:links-line
   - name: 关于
     nameKey: nav.about
     path: /about
     icon: fa6-regular:circle-user
-  - name: 歌单
-    nameKey: nav.music
-    path: /music
-    icon: ri:music-2-fill
 
 # =============================================================================
 # Christmas/Seasonal Features

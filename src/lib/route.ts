@@ -14,12 +14,13 @@ function isBlogPost(param: BlogPost | PostRef): param is BlogPost {
 export const encodeSlug = (slug: string) => slug?.split('/').map(encodeURIComponent).join('/') ?? '';
 
 export function routeBuilder<T extends Routes>(route: T, param: RouteParams<typeof route>) {
-  let href: string = route;
-  if (!param) return href;
+  const base = (import.meta.env.BASE_URL ?? '/').replace(/\/?$/, '/');
+  let href: string = route.startsWith('/') ? route.slice(1) : route;
+  if (!param) return `${base}${href}`;
   switch (route) {
     case Routes.Post: {
       // BlogPost: resolved via getPostSlug (link override > transliterated slug)
-      // PostRef: link (raw frontmatter override, may be CJK) takes precedence over slug (transliterated by transforms)
+      // PostRef: link (raw frontmatter override, may be CJK) takes precedence over slug (transliterated by builds)
       const slug = isBlogPost(param) ? getPostSlug(param) : (param.link ?? param.slug);
       href += `/${encodeSlug(slug)}`;
       break;
@@ -27,7 +28,7 @@ export function routeBuilder<T extends Routes>(route: T, param: RouteParams<type
     default:
       break;
   }
-  return href;
+  return `${base}${href}`;
 }
 
 export const showDirRoutes = [Routes.Post];
