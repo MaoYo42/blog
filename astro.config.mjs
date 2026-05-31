@@ -15,7 +15,6 @@ import rehypeKatex from 'rehype-katex';
 import rehypeSlug from 'rehype-slug';
 import remarkDirective from 'remark-directive';
 import remarkMath from 'remark-math';
-import Sonda from 'sonda/astro';
 import { loadEnv } from 'vite';
 import svgr from 'vite-plugin-svgr';
 import YAML from 'yaml';
@@ -45,7 +44,6 @@ const yamlConfig = loadConfigForAstro();
 // Bundle analysis mode: ANALYZE=true pnpm build
 // Use loadEnv to read .env file (astro.config.mjs runs before Vite loads .env)
 const { ANALYZE } = loadEnv(process.env.NODE_ENV || 'production', process.cwd(), '');
-const isAnalyze = ANALYZE === 'true';
 // Get Umami analytics config from YAML
 const umamiConfig = yamlConfig.analytics?.umami;
 const umamiEnabled = umamiConfig?.enabled ?? false;
@@ -217,15 +215,12 @@ export default defineConfig({
       autoTheme: true,
     }),
     robotsTxt(robotsConfig || {}),
-    ...(isAnalyze ? [Sonda()] : []),
   ],
   devToolbar: {
     enabled: true,
   },
   vite: {
     build: {
-      // Enable sourcemap for Sonda bundle analysis
-      sourcemap: isAnalyze,
     },
     plugins: [yaml(), conditionalSnowfall(), svgr(), tailwindcss()],
     ssr: {
