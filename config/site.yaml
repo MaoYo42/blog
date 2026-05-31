@@ -116,45 +116,7 @@ featuredCategories:
 #   highlightOnHome: 是否在首页高亮显示最新文章（可选，默认 true，显式设为 false 可禁用）
 #   links: 相关链接配置（可选）
 # -----------------------------------------------------------------------------
-featuredSeries:
-  - slug: weekly # URL 路径: /weekly
-    categoryName: 周刊 # 必须与 categoryMap 中的分类名匹配
-    label: 我的周刊 # 简短名称
-    fullName: 我的技术周刊 # 完整名称
-    description: | # 支持多行 Markdown
-      这是周刊/系列文章功能的示例配置。
-      你可以用它来发布定期更新的系列内容，如技术周刊、读书笔记系列等。
-      设置 enabled: false 可以关闭此功能。
-    cover: /img/weekly_header.webp # 系列页面头图
-    enabled: true # 启用此系列
-    icon: ri:newspaper-line # 导航图标
-    links: # 相关链接（可选）
-      github: https://github.com/your-username/your-repo # (可选) GitHub 仓库
-      rss: /rss.xml # (可选) RSS 订阅链接
-      # chrome: https://chromewebstore.google.com/detail/your-extension-id # (可选) 浏览器插件
-      # docs: https://your-docs-url # (可选) 文档链接
-  # 示例：添加第二个系列（取消注释启用）
-  # - slug: reading # URL 路径: /reading
-  #   categoryName: 书摘
-  #   label: 读书笔记
-  #   fullName: 我的读书笔记
-  #   description: 阅读记录与读后感
-  #   cover: /img/weekly_header.webp # 记得添加，我这里就是个示例
-  #   enabled: true
-  #   icon: ri:book-read-line
-
-# =============================================================================
-# Social Links
-# 社交链接 - 显示在页脚和个人信息区域
-# =============================================================================
-# 字段说明：
-#   url: 链接地址（邮箱需加 mailto: 前缀）
-#   icon: Iconify 图标标识，格式为 "集合:图标名"
-#         图标查询：https://icon-sets.iconify.design/ri/
-#   color: (可选) 图标颜色，十六进制格式如 '#191717'
-# -----------------------------------------------------------------------------
-# 添加新平台：复制现有配置块，修改键名和各字段值即可
-# -----------------------------------------------------------------------------
+featuredSeries: []
 social:
   github:
     url: https://github.com/your-username # 替换为你的 GitHub 链接
@@ -183,7 +145,6 @@ social:
   #   url: https://www.zhihu.com/people/your-id
   #   icon: ri:zhihu-fill
   #   color: '#1e88e5'
-  # music:
   #   url: https://music.163.com/#/user/home?id=your-id
   #   icon: ri:netease-cloud-music-line
   #   color: '#e60026'
@@ -626,25 +587,8 @@ christmas:
 #   label: 导航显示名称（可选，默认：追番）
 #   icon: 导航图标，Iconify 格式（可选，默认：ri:bilibili-fill）
 # -----------------------------------------------------------------------------
-bangumi:
-  userId: cosine
-  # label: 追番
-  # icon: ri:bilibili-fill
-
-# =============================================================================
-# Development Tools (Dev Only)
-# 开发工具配置 - 仅在开发环境（pnpm dev）生效
-# =============================================================================
-# 配置后，开发环境下文章页会显示编辑按钮，可快速打开本地编辑器
-# 字段说明：
-#   localProjectPath: 本地项目的绝对路径（用于生成文件完整路径）
-#   contentRelativePath: 博客内容相对于项目根目录的路径（默认: 'src/content/blog'）
-#   editors: 编辑器列表
-#     - id: 编辑器唯一标识符
-#     - name: 编辑器显示名称
-#     - icon: Iconify 图标标识（可从 https://icon-sets.iconify.design/ 中搜寻）
-#     - urlTemplate: URL 模板，支持占位符 {path}（文件绝对路径）
-# -----------------------------------------------------------------------------
+# bangumi:
+#   userId: 
 dev:
   localProjectPath: '/Users/yourname/path/to/astro-koharu' # 请修改为你的项目绝对路径
   contentRelativePath: 'src/content/blog'
