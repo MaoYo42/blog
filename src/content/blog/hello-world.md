@@ -6,7 +6,7 @@ categories: [随笔]
 tags:
   - 博客
   - meta
-image: https://maoyo42.github.io/blog/img/site_header_800.webp
+cover: https://maoyo42.github.io/blog/img/site_header_800.webp
 ---
 
 # Hello World
