@@ -23,7 +23,8 @@
 - 新建 `CHANGELOG.md`，记录项目变更历史
 
 ### 修复
-- **`config/site.yaml` 分类映射** — 新增 `开源→opensource`、`资讯→news` 的 categoryMap 条目，使新管线文章的分类页正确生成
+- **文章列表页链接双重 /blog 导致 404** — `routeBuilder` 和 `localizedPath` 两端都拼接了 `BASE_URL`，修复：`routeBuilder` 不再拼接 BASE_URL，由 `localizedPath` 统一处理
+- **`config/site.yaml` 分类映射** — 新增 `开源→opensource`、`资讯→news` 的 categoryMap 条目
 - **文章封面字段** (`hello-world.md`) — 将 `image:` 改为 `cover:`，符合主题 schema
 - **随机文章组件 base path** — 在 `PostRandomPosts` 组件中为链接加 `/blog` 前缀，解决客户端渲染跳转 404
 
