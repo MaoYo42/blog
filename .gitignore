@@ -19,6 +19,9 @@ pnpm-debug.log*
 .env.production
 .env*.local
 
+# project config (auto-generated)
+pnpm-workspace.yaml
+
 # vercel
 .vercel
 .superset
