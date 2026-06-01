@@ -115,11 +115,13 @@ export function localizedPath(path: string, locale: Locale = defaultLocale): str
   // Ensure path starts with /
   const normalizedPath = path.startsWith('/') ? path : `/${path}`;
 
+  const basePath = (import.meta.env.BASE_URL || '').replace(/\/?$/, '');
+
   if (locale === defaultLocale) {
-    return normalizedPath;
+    return `${basePath}${normalizedPath}`;
   }
 
-  return `/${locale}${normalizedPath}`;
+  return `${basePath}/${locale}${normalizedPath}`;
 }
 
 /**
