@@ -1,5 +1,14 @@
 # Changelog
 
+## 2026-06-02
+
+### 全量更新：依赖升级 + 配置增强 + 构建验证
+- **依赖升级** — 升级 16 个过时包（react 19.2.1→19.2.6、tailwindcss 4.1.17→4.3.0、biome 2.3.10→2.4.16 等），锁 Astro 5.x 防止 breaking change
+- **pnpm 配置迁移** — `pnpm.onlyBuiltDependencies` 从 package.json 迁移到 .npmrc，消除 pnpm 11 警告
+- **SEO 增强** — 站点描述 +12 个关键词（AI Agent / Minecraft / Obsidian / 知识管理 / 自动化 等）
+- **社交配置** — 新增 Twitter/X 占位注释，方便后续激活
+- **构建验证** — 47 pages 构建成功，10.32s
+
 ## 2026-06-01
 
 ### 站点美化与清理

@@ -15,7 +15,7 @@ site:
   alternate: MaoYo # 网站英文名称 用于页脚、Logo、@ handle 等
   subtitle: 思考 · 技术 · 生活 # 网站副标题
   name: MaoYo # 作者名称
-  description: 一个开发者的数字花园 # 网站描述
+  description: AI Agent · 工具链 · 自动化 · 开发者的数字花园 # 网站描述
   avatar: /img/site_header_800.webp # 网站头像
   showLogo: true # 是否显示 Logo
   author: MaoYo # 作者名称
@@ -28,7 +28,14 @@ site:
     - Astro
     - 技术
     - 前端
-    # 请根据你的网站内容添加关键词
+    - AI Agent
+    - 工具链
+    - 自动化
+    - Minecraft
+    - 知识管理
+    - Obsidian
+    - 开源
+    - Hermes Agent
   # breadcrumbHome: 首页  # 面包屑导航中首页的显示名称（默认: '首页'）
   # icp:                         # ICP 备案号（可自定义链接）
   #   text: "粤ICP备xxxxxxxxxx号"
@@ -136,6 +143,10 @@ social:
     url: /rss.xml
     icon: ri:rss-line
     color: '#ff6600'
+  # twitter:
+  #   url: https://x.com/your-handle
+  #   icon: ri:twitter-fill
+  #   color: '#4b9ae4'
   # -------------------------------------------------------------------------
   # 以下是更多可选的社交平台配置示例，取消注释并修改即可启用：
   # -------------------------------------------------------------------------
