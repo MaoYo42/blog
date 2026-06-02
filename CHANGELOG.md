@@ -52,3 +52,8 @@
 - 安装 pnpm 依赖（首次 onnxruntime-node 下载失败后重试成功）
 - 配置 Astro 5 + astro-koharu 主题 + Tailwind CSS
 - 配置 base: '/blog' 子路径部署
+
+## 2026-06-02
+
+### 内容
+- **每日福利热点 | 2026-06-02** — GitHub Trending（MoneyPrinterTurbo、TradingAgents、markitdown 等 17 个项目）/ V2EX 热门（macOS 26 升级、QQ 邮箱回收、Qwen 3.7 Plus 等）/ 福利汇总（Claude 开源计划免费、Google Cloud $300 赠金、BazaarLink 免费 LLM API）
