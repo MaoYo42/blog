@@ -66,3 +66,4 @@
 
 ### 内容
 - **每日福利热点 | 2026-06-02** — GitHub Trending（MoneyPrinterTurbo、TradingAgents、markitdown 等 17 个项目）/ V2EX 热门（macOS 26 升级、QQ 邮箱回收、Qwen 3.7 Plus 等）/ 福利汇总（Claude 开源计划免费、Google Cloud $300 赠金、BazaarLink 免费 LLM API）
+- **每日科技速递 | 2026-06-02** — MiniMax M3 开源超越 GPT-5.5 / Anthropic IPO 正式启动 / xAI Composer 2.5 / NVIDIA Cosmos 3 / Computex 2026 台北开幕 / Alphabet 800 亿美元 AI 支出
