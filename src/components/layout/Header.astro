@@ -19,7 +19,7 @@ const { alternate, title, showLogo } = siteConfig;
 const locale = getLocaleFromUrl(Astro.url.pathname);
 
 const logoSrc = (showLogo && alternate)
-  ? `${import.meta.env.BASE_URL}img/logo.webp`
+  ? `${import.meta.env.BASE_URL}/img/logo.webp`
   : undefined;
 ---
 
