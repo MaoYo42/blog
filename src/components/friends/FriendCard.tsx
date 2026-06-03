@@ -117,6 +117,8 @@ export default function FriendCard({ friend, index }: FriendCardProps) {
                 alt={friend.owner}
                 className="h-full w-full object-cover transition-transform duration-500 group-hover:scale-110"
                 loading="lazy"
+                referrerPolicy="no-referrer"
+                crossOrigin="anonymous"
               />
             </div>
           </div>
