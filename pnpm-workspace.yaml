@@ -1,8 +1,13 @@
 # pnpm workspace configuration
 packages:
-  - '.'
+ - '.'
 
 # Build allow-list — only packages that need native build scripts
-onlyBuiltDependencies:
-  - esbuild
-  - sharp
+allowBuilds:
+  esbuild: true
+  sharp: true
+  '@parcel/watcher': true
+  nice-napi: true
+  onnxruntime-node: true
+  protobufjs: true
+  re2: true
