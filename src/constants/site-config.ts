@@ -18,6 +18,22 @@ import type { UmamiStatsConfig } from '@/types/umami-stats';
 import yamlConfig from '../../config/site.yaml';
 import { routers as baseRouters, isReservedSlug, RESERVED_ROUTES } from './router';
 
+// =============================================================================
+// Zod schema validation — fail fast on config mismatch
+// =============================================================================
+import { siteYamlSchema } from '@lib/config/schema';
+
+const validationResult = siteYamlSchema.safeParse(yamlConfig);
+if (!validationResult.success) {
+  const issues = validationResult.error.issues
+    .map((i) => `  [${i.path.join('.') || '<root>'}] ${i.message}`)
+    .join('\n');
+  throw new Error(
+    `[config] config/site.yaml validation failed:\n${issues}\n\n` +
+      `Fix the listed fields in config/site.yaml and rebuild.`,
+  );
+}
+
 /**
  * Runtime site configuration
  * Extends SiteBasicConfig with runtime-specific fields
