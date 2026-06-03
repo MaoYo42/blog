@@ -1,3 +1,7 @@
+## [Unreleased]
+
+### Fixed
+- 替换 logo 为真透明版（来自原始 LOGO透明底.png）
 # Changelog
 
 ## 2026-06-02
