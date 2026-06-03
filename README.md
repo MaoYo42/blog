@@ -16,39 +16,63 @@
 - 🌓 **深色/浅色模式** — 流畅切换动画
 - 📡 **RSS 订阅** — 自动生成
 - 📊 **分类/标签/归档** — 自动索引
-- 🚀 **GitHub Actions 自动部署**
+- 🤖 **自动化内容管线** — 每日福利热点 & 科技速递自动发布
+- ✅ **Zod 配置校验** — 构建时自动检查 `config/site.yaml` 结构
+- 🚀 **GitHub Actions CI/CD** — lint + Knip 死代码检测 + 自动部署
+
+---
+
+## 🤖 自动化管线
+
+| 管线 | 时间 | 内容 |
+|------|------|------|
+| 📰 每日福利热点 | 每天 10:00 | GitHub Trending + V2EX + Linux.do + 福利羊毛 |
+| 📡 每日科技速递 | 每天 20:00 | AI 热点 + 科技新闻 + 经济要闻 |
+
+详见 [`CONTENT.md`](./CONTENT.md)。
 
 ---
 
 ## 📝 写作工作流
 
 ```
-Obsidian 写草稿
-       ↓ 定稿后复制
+Obsidian / 编辑器写草稿
+         ↓ 定稿后复制
 src/content/blog/xxx.md
-       ↓ git push
-GitHub Actions → 自动构建 → 上线
+         ↓ git push
+GitHub Actions → 构建 → 部署上线
 ```
 
-文章使用 Markdown 编写，通过 Astro Content Collections 管理，支持 TypeScript 类型安全的前置元数据校验。
+文章使用 Markdown 编写，通过 Astro Content Collections 管理，支持 TypeScript 类型安全的前置元数据校验。  
+构建时自动检查 `config/site.yaml` 配置结构（Zod schema），不匹配则报错退出。
 
 ---
 
 ## 🛠️ 本地开发
 
 ```bash
-pnpm install        # 安装依赖
-pnpm dev            # 启动开发服务器 (http://localhost:4321)
-pnpm build          # 构建生产版本
-pnpm preview        # 预览构建结果
-pnpm koharu         # 交互式 CLI 工具
+pnpm install            # 安装依赖
+pnpm dev                # 启动开发服务器 (http://localhost:4321)
+pnpm build              # 构建生产版本
+pnpm preview            # 预览构建结果
+pnpm check              # TypeScript 类型检查
+pnpm lint               # Biome 代码检查
+pnpm knip               # 死代码/未使用依赖检测
+pnpm change             # git-cliff 自动生成 CHANGELOG
 ```
 
 ---
 
 ## 🚀 部署
 
-推送到 `main` 分支后，GitHub Actions 自动构建并部署到 GitHub Pages。
+推送到 `main` 分支后，GitHub Actions 自动运行 **Knip 检测 → 构建 → 部署** 到 GitHub Pages。
+
+CI 工作流（`.github/workflows/deploy.yml`）：
+1. `pnpm install --frozen-lockfile` — 锁定版本安装
+2. `pnpm knip` — 死代码/未使用依赖检测
+3. `pnpm build` — Astro 构建
+4. `upload-pages-artifact` — 上传构建产物
+5. `deploy-pages` — 部署到 GitHub Pages
 
 ### 迁移到 Cloudflare Pages
 
@@ -62,19 +86,39 @@ pnpm koharu         # 交互式 CLI 工具
 
 ```
 ├── config/
-│   └── site.yaml        ← 博客配置（标题/导航/社交链接等）
+│   └── site.yaml            ← 博客配置（标题/导航/社交链接/管线开关等）
 ├── src/
-│   ├── content/blog/    ← 你的文章（.md 文件）
-│   ├── pages/           ← 页面（首页/关于/归档等）
-│   ├── components/      ← UI 组件
-│   ├── layouts/         ← 页面布局
-│   ├── lib/             ← 工具函数
-│   ├── i18n/            ← 国际化
-│   └── styles/          ← 样式
+│   ├── content/blog/        ← 你的文章（.md 文件）
+│   ├── pages/               ← 页面（首页/关于/归档等）
+│   ├── components/          ← UI 组件
+│   ├── layouts/             ← 页面布局
+│   ├── lib/
+│   │   ├── config/
+│   │   │   ├── schema.ts    ← Zod 配置校验 schema
+│   │   │   └── types.ts     ← TypeScript 类型定义
+│   │   └── ...              ← 工具函数
+│   ├── i18n/                ← 国际化
+│   └── styles/              ← 样式
 ├── public/
-│   └── img/             ← 静态图片
-└── astro.config.mjs     ← Astro 配置
+│   └── img/                 ← 静态图片
+├── CONTENT.md               ← 自动化管线文档
+├── CHANGELOG.md             ← 全量变更记录
+└── astro.config.mjs         ← Astro 配置
 ```
+
+---
+
+## ⚙️ 配置校验
+
+`config/site.yaml` 在构建时通过 Zod schema 自动校验，结构不匹配会带详细错误信息退出：
+
+```
+[config] config/site.yaml validation failed:
+  [social.rss.url] Invalid input
+  [seo.robots] Invalid input: expected object, received null
+```
+
+这确保配置错误在构建阶段就被发现，不会静默吞掉功能。
 
 ---
 
