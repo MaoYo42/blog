@@ -17,7 +17,7 @@ import remarkDirective from 'remark-directive';
 import remarkMath from 'remark-math';
 import { loadEnv } from 'vite';
 import svgr from 'vite-plugin-svgr';
-import YAML from 'yaml';
+import YAML from 'js-yaml';
 import { rehypeEncryptedBlock } from './src/lib/markdown/rehype-encrypted-block.ts';
 import { rehypeEncryptedPost } from './src/lib/markdown/rehype-encrypted-post.ts';
 import { rehypeImagePlaceholder } from './src/lib/markdown/rehype-image-placeholder.ts';
@@ -36,7 +36,7 @@ import { normalizeUrl } from './src/lib/utils.ts';
 function loadConfigForAstro() {
   const configPath = path.join(process.cwd(), 'config', 'site.yaml');
   const content = fs.readFileSync(configPath, 'utf8');
-  return YAML.parse(content);
+  return YAML.load(content);
 }
 
 const yamlConfig = loadConfigForAstro();

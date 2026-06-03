@@ -137,7 +137,7 @@
     "husky": "^9.1.7",
     "ink": "^7.0.5",
     "knip": "^6.15.0",
-    "lint-staged": "^17.0.7",
+    "lint-staged": "^15.5.0",
     "remark": "^15.0.1",
     "sharp": "^0.34.5",
     "shiki": "^4.1.0",
@@ -147,8 +147,7 @@
     "tsx": "^4.22.4",
     "typescript": "^6.0.3",
     "vite": "^7.3.5",
-    "vite-plugin-svgr": "^5.2.0",
-    "yaml": "^2.9.0"
+    "vite-plugin-svgr": "^5.2.0"
   },
   "lint-staged": {
     "*.{js,jsx,ts,tsx,json,astro}": [
