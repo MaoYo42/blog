@@ -1,13 +1,12 @@
 ---
-import LogoSvg from '@assets/svg/logo.svg?react';
-import logoSrc from '@assets/svg/logo.svg?url';
+import { siteConfig } from 'constants/site-config';
+import { getLocaleFromUrl } from '@/i18n';
+import { MAX_WIDTH } from '@constants/layout';
+import { christmasConfig } from 'constants/site-config';
 import ChristmasLights from '@components/christmas/ChristmasLights.astro';
 import { ChristmasOrnamentToggle } from '@components/christmas/ChristmasOrnamentToggle';
 import { MobilePostHeader } from '@components/layout/MobilePostHeader';
 import { MenuIcon } from '@components/ui/MenuIcon';
-import { MAX_WIDTH } from '@constants/layout';
-import { christmasConfig, siteConfig } from 'constants/site-config';
-import { getLocaleFromUrl } from '@/i18n';
 import Navigator from './Navigator';
 
 interface Props {
@@ -18,6 +17,10 @@ interface Props {
 const { isPostPage = false, tocNumbering = true } = Astro.props;
 const { alternate, title, showLogo } = siteConfig;
 const locale = getLocaleFromUrl(Astro.url.pathname);
+
+const logoSrc = (showLogo && alternate)
+  ? `${import.meta.env.BASE_URL}img/logo.webp`
+  : undefined;
 ---
 
 <div
@@ -35,7 +38,11 @@ const locale = getLocaleFromUrl(Astro.url.pathname);
       title={alternate || title}
       aria-label={alternate || title}
     >
-      {showLogo ? <LogoSvg className="h-8" /> : <p class="logo-text">{alternate || title}</p>}
+      {showLogo && logoSrc ? (
+        <img src={logoSrc} alt={alternate || title} class="h-8" height={32} />
+      ) : (
+        <p class="logo-text">{alternate || title}</p>
+      )}
     </a>
     <!-- Mobile: MobilePostHeader (shows heading on post pages, logo otherwise) -->
     <div class="tablet:flex tablet:grow hidden items-center justify-center">
