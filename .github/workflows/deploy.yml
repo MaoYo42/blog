@@ -30,6 +30,8 @@ jobs:
 
       - name: Install dependencies
         run: pnpm install --frozen-lockfile
+        env:
+          npm_config_only_built_dependencies: '["esbuild","sharp","@parcel/watcher","nice-napi","onnxruntime-node","protobufjs","re2"]'
 
       - name: Run Knip (dead code / unused deps check)
         run: pnpm knip
