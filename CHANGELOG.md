@@ -82,3 +82,4 @@
 
 ### 内容
 - **每日福利热点 | 2026-06-04** — GitHub Trending（odysseus 44K⭐、WechatOnCloud、goose、aBaiAutoplus、美股指南、skylight、memory-os、tab-labeler）/ V2EX 热门（断牛奶免疫力、Codex 周中刷新、AI Token 用量 34亿、机器人留言攻击）/ Linux.do 热点（抽奖帖优化、秘密花园邀请函、社区戾气讨论、熬夜戒断）/ 福利汇总（2026 免费大模型 API 大盘点、NVIDIA NIM 免费无限调用、免费 GPT API Key 汇总）
+- **每日科技速递 | 2026-06-04** — AI 模型动态（Grok Imagine 1.5 / MiniMax M3 加速 / Miso One 开源语音 / Ideogram v4.0 / NVIDIA CVPR 2026）/ 科技行业新闻（Meta WhatsApp AI Agent / xAI Grok 语音上 Vapi / NVIDIA RTX Spark / 微软OpenAI分道扬镳 / DeepSeek 融 500 亿 / Suno 4 亿美元融资 / 欧盟技术主权）/ 经济政策要闻（特朗普 AI 行政令 / OpenAI 与白宫分歧 / NVIDIA PC 芯片挑战 Intel AMD）
