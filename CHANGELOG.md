@@ -77,3 +77,8 @@
 ### 内容
 - **每日福利热点 | 2026-06-03** — GitHub Trending（markitdown 3,618⭐、hermes-webui 1,722⭐、headroom 1,265⭐、Scrapling 1,182⭐、VoxCPM 783⭐、supermemory 680⭐）/ V2EX 热门（Codex 二次验证、裁员感想、OpenAI 风控警告、Brivionix 内测）/ Linux.do 热点（OpenAI 开源维护者 6 月免费 Codex Pro、GLM5 上线、CCG v3.1.0）/ 福利汇总（OpenAI 开源维护者福利、Veo AI Free、TRAE AI 编程、zerostack、Beart AI 换脸）
 - **每日科技速递 | 2026-06-03** — AI 模型动态（微软 MAI-Thinking-1 推理模型 / 阶跃星辰 Step 3.7 Flash / Holo3.1 计算机使用智能体）/ 科技行业新闻（Anthropic 提交 IPO / Alphabet 800 亿融资 / ChatGPT 月活破 10 亿 / 特朗普 AI 行政令）/ 经济政策要闻
+
+## 2026-06-04
+
+### 内容
+- **每日福利热点 | 2026-06-04** — GitHub Trending（odysseus 44K⭐、WechatOnCloud、goose、aBaiAutoplus、美股指南、skylight、memory-os、tab-labeler）/ V2EX 热门（断牛奶免疫力、Codex 周中刷新、AI Token 用量 34亿、机器人留言攻击）/ Linux.do 热点（抽奖帖优化、秘密花园邀请函、社区戾气讨论、熬夜戒断）/ 福利汇总（2026 免费大模型 API 大盘点、NVIDIA NIM 免费无限调用、免费 GPT API Key 汇总）
