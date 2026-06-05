@@ -83,3 +83,8 @@
 ### 内容
 - **每日福利热点 | 2026-06-04** — GitHub Trending（odysseus 44K⭐、WechatOnCloud、goose、aBaiAutoplus、美股指南、skylight、memory-os、tab-labeler）/ V2EX 热门（断牛奶免疫力、Codex 周中刷新、AI Token 用量 34亿、机器人留言攻击）/ Linux.do 热点（抽奖帖优化、秘密花园邀请函、社区戾气讨论、熬夜戒断）/ 福利汇总（2026 免费大模型 API 大盘点、NVIDIA NIM 免费无限调用、免费 GPT API Key 汇总）
 - **每日科技速递 | 2026-06-04** — AI 模型动态（Grok Imagine 1.5 / MiniMax M3 加速 / Miso One 开源语音 / Ideogram v4.0 / NVIDIA CVPR 2026）/ 科技行业新闻（Meta WhatsApp AI Agent / xAI Grok 语音上 Vapi / NVIDIA RTX Spark / 微软OpenAI分道扬镳 / DeepSeek 融 500 亿 / Suno 4 亿美元融资 / 欧盟技术主权）/ 经济政策要闻（特朗普 AI 行政令 / OpenAI 与白宫分歧 / NVIDIA PC 芯片挑战 Intel AMD）
+
+## 2026-06-05
+
+### 内容
+- **每日福利热点 | 2026-06-05** — GitHub Trending（headroom 12,631⭐、ECC 207,304⭐、hermes-agent 181,082⭐、PaddleOCR、Open-LLM-VTuber、NVIDIA/cosmos、trivy、coding-interview-university）/ V2EX 热门（纯吐槽公司技术团队、失业家庭矛盾、35岁被裁、赛博朋克 vs 原子之心、Gemma4 12B 显存优化）/ Linux.do 热点（NSA 利用 Mythos 网络攻击、免费 VPS 羊毛、DeepSeek V4 Pro 前端痛点、淘宝百亿补贴陷阱、世界杯冀冠讨论）/ 福利汇总（GitHub Copilot SDK 发布、免费 VPS 汇总、MCP Server 生态、Fiat24 海外支付教程）
