@@ -89,3 +89,9 @@
 ### 内容
 - **每日科技速递 | 2026-06-05** — AI 模型动态（NVIDIA Nemotron 3.5/3 Ultra/3.5 ASR 系列 / Nex-N2-Pro 397B 达 GPT-5.5 / Google MRT2 实时音乐 / OpenAI RSI 信号 / DeepSeek 连冠 Token 榜 / Higgs Audio v3 TTS / OpenJarvis 本地智能体框架）/ 科技行业新闻（Replit×Shopify 快速建店 / ChatGPT Dreaming 记忆 / Gemini macOS 快捷窗口 / Cloudflare 机器人流量 57.5% 首超人类 / 台积电 AI 产能压力 / 联合国 AI 数据中心环境报告）/ 论文研究（Google PHRM 被动心率监测 / Nemotron 任务种子 SDG / PPISP 光度补偿 3D 重建）
 - **每日福利热点 | 2026-06-05** — GitHub Trending（headroom 12,631⭐、ECC 207,304⭐、hermes-agent 181,082⭐、PaddleOCR、Open-LLM-VTuber、NVIDIA/cosmos、trivy、coding-interview-university）/ V2EX 热门（纯吐槽公司技术团队、失业家庭矛盾、35岁被裁、赛博朋克 vs 原子之心、Gemma4 12B 显存优化）/ Linux.do 热点（NSA 利用 Mythos 网络攻击、免费 VPS 羊毛、DeepSeek V4 Pro 前端痛点、淘宝百亿补贴陷阱、世界杯冀冠讨论）/ 福利汇总（GitHub Copilot SDK 发布、免费 VPS 汇总、MCP Server 生态、Fiat24 海外支付教程）
+
+
+## 2026-06-06
+
+### 内容
+- **每日福利热点 | 2026-06-06** — GitHub Trending（odysseus 55,864⭐、OpenLogi 4,017⭐、美股指南 3,238⭐、Anthropic 安全工具 3,177⭐、PilotDeck 3,014⭐、social-card-skill 2,959⭐、gsd-core 2,844⭐、goose 2,120⭐）/ V2EX 热门（AI 编程真实体验、Codex 封号统计、OpenAI 解封讨论、鸿蒙 Bark/Shark 适配）/ Linux.do 热点（秘密花园邀请函、社区关闭注册、最强 PPT Agent、BettaFish 获三千万投资、域名云服务器教程）/ 福利汇总（30+ 免费 AI API 大盘点、免费 VPN 节点更新、免费 VPS 清单、GitHub Copilot SDK 发布）
