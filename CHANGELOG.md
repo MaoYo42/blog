@@ -91,6 +91,11 @@
 - **每日福利热点 | 2026-06-05** — GitHub Trending（headroom 12,631⭐、ECC 207,304⭐、hermes-agent 181,082⭐、PaddleOCR、Open-LLM-VTuber、NVIDIA/cosmos、trivy、coding-interview-university）/ V2EX 热门（纯吐槽公司技术团队、失业家庭矛盾、35岁被裁、赛博朋克 vs 原子之心、Gemma4 12B 显存优化）/ Linux.do 热点（NSA 利用 Mythos 网络攻击、免费 VPS 羊毛、DeepSeek V4 Pro 前端痛点、淘宝百亿补贴陷阱、世界杯冀冠讨论）/ 福利汇总（GitHub Copilot SDK 发布、免费 VPS 汇总、MCP Server 生态、Fiat24 海外支付教程）
 
 
+## 2026-06-07
+
+### 内容
+- **每日福利热点 | 2026-06-07** — GitHub（open-notebook 794⭐、Agent-Reach 683⭐、CopilotKit 631⭐、MemPalace 446⭐、last30days-skill 439⭐、PaddleOCR、VibeVoice、openai/plugins）/ V2EX 热门（iPhone Air vs iPhone 17、PDD翻车、景区门票、Surge vs Loon、固定IP VPS）/ Linux.do 热点（OpenAI 封号Bug反转、夏日游戏节、GLADOS抽奖、AI+科研板块、高考祝福）/ 福利汇总（Steam Pico Park免费、GLaDOS抽奖、30+平台免费AI API、腾讯云618 VPS、Google Cloud免费AI工具）
+
 ## 2026-06-06
 
 ### 内容
