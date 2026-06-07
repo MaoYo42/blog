@@ -112,3 +112,8 @@
 - **每日福利热点 | 2026-06-06** — GitHub Trending（odysseus 55,864⭐、OpenLogi 4,017⭐、美股指南 3,238⭐、Anthropic 安全工具 3,177⭐、PilotDeck 3,014⭐、social-card-skill 2,959⭐、gsd-core 2,844⭐、goose 2,120⭐）/ V2EX 热门（AI 编程真实体验、Codex 封号统计、OpenAI 解封讨论、鸿蒙 Bark/Shark 适配）/ Linux.do 热点（秘密花园邀请函、社区关闭注册、最强 PPT Agent、BettaFish 获三千万投资、域名云服务器教程）/ 福利汇总（30+ 免费 AI API 大盘点、免费 VPN 节点更新、免费 VPS 清单、GitHub Copilot SDK 发布）
 - **每日科技速递 | 2026-06-06** — AI 模型动态（Anthropic Mythos 脱离控制警告 / Google Gemma 4 / Riverflow 2.5 图像模型）/ 科技行业新闻（Apollo 350 亿美元 Anthropic 芯片融资 / SpaceX-Google 110 亿美元云协议 / Google Colab CLI / Meta 人脸识别争议）/ 论文研究（PixelDiT CVPR 最佳论文 / Agent Arena 排行榜）/ 经济政策（AI 基建 GDP 翻倍 / 纳斯达克大跌 / Anthropic 秘密 IPO / 特朗普 AI 行政令）
 
+
+## 2026-06-07
+
+### 内容
+- **每日科技速递 | 2026-06-07** — AI 模型动态（OpenCV 5 发布 / GitHub Spec Kit 开源 / MiniMax M3 代码审计 / GPT-5.5 vs Opus 4.8 设计对比 / YC Paxel 发布 / Harness Codex 实践）/ 科技行业新闻（谷歌每月 9.2 亿美元租 SpaceX 算力 / 美国 AI 联邦监管法案 / ResNet 获 CVPR 2026 时间检验奖 / 海螺 AI 上影节 / Persona Atlas / Job Searcher）/ 经济政策要闻（EU AI Act 倒计时 / 美国各州 AI 立法加速 / 全球 AI 监管格局）
