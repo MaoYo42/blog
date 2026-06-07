@@ -1,7 +1,7 @@
 ---
 title: "今日开源热点与福利 | 2026-06-07"
 description: GitHub Trending 热门项目、V2EX/Linux.do 社区热议话题、今日福利羊毛汇总。
-date: 2026-06-07T10:00:00+08:00
+date: 2026-06-07T14:00:00+08:00
 categories:
   - 开源
 tags:
@@ -13,63 +13,98 @@ tags:
 cover: https://maoyo42.github.io/blog/img/cover/1.webp
 ---
 
-## 🚀 GitHub 热门项目
+### 🚀 GitHub 热门项目
 
-- **[open-notebook](https://github.com/lfnovo/open-notebook)** — ⭐ 794 stars
-  Notebook LM 的开源平替，更灵活更多功能，可将任意资料转化为 AI 笔记。
+今日 GitHub Trending 上 AI Agent 与基础设施项目仍占主流：
 
-- **[Agent-Reach](https://github.com/Panniantong/Agent-Reach)** — ⭐ 683 stars
-  让 AI Agent 能够搜索阅读 Twitter、Reddit、YouTube、GitHub、B站、小红书等全网内容，一条 CLI 零 API 费用。
+- **[mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)** — Python
+  AI Agent 技能包：一键调研 Reddit、X、YouTube、HN、Polymarket 等平台话题，自动合成信息摘要。
 
-- **[CopilotKit](https://github.com/CopilotKit/CopilotKit)** — ⭐ 631 stars
-  Agent & Generative UI 的前端技术栈，支持 React、Angular、Mobile、Slack 等平台。
+- **[CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit)** — TypeScript
+  Agent & Generative UI 的前端全栈方案，支持 React、Angular、Mobile、Slack 等平台。
 
-- **[MemPalace](https://github.com/MemPalace/mempalace)** — ⭐ 446 stars
-  开源最强基准测试成绩的 AI 记忆系统，完全免费。
+- **[MemPalace/mempalace](https://github.com/MemPalace/mempalace)** — Python
+  开源基准测试成绩最佳的 AI 记忆系统，免费使用。
 
-- **[last30days-skill](https://github.com/mvanhorn/last30days-skill)** — ⭐ 439 stars
-  AI Agent 技能包：跨 Reddit、X、YouTube、HN 等平台调研任意主题，自动合成摘要。
+- **[openai/plugins](https://github.com/openai/plugins)** — JavaScript
+  OpenAI 官方插件系统生态仓。
 
-- **[PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)** — ⭐ 433 stars
-  支持 100+ 语言的超强 OCR 工具包，可将任意 PDF/图片转为结构化数据供 LLM 使用。
+- **[lfnovo/open-notebook](https://github.com/lfnovo/open-notebook)** — TypeScript
+  Notebook LM 的开源替代品，更灵活、功能更丰富。
 
-- **[VibeVoice](https://github.com/microsoft/VibeVoice)** — ⭐ 216 stars
-  微软开源的 Frontier Voice AI，音频与语音 AI 的前沿项目。
+- **[Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)** — Python
+  赋予 AI Agent 全网感知能力：搜索阅读 Twitter、Reddit、YouTube、GitHub、B站、小红书。
 
-- **[openai/plugins](https://github.com/openai/plugins)** — ⭐ 213 stars
-  OpenAI 的官方插件系统，让 ChatGPT 接入第三方服务。
+- **[PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)** — Python
+  百度超强 OCR 工具包，支持 100+ 语言，可将任意 PDF/图片转为结构化数据供 LLM 使用。
 
-## 💬 社区热议
+- **[microsoft/VibeVoice](https://github.com/microsoft/VibeVoice)** — Python
+  微软开源的 Frontier Voice AI，前沿语音 AI 开放。
 
-### V2EX 热门
+- **[aquasecurity/trivy](https://github.com/aquasecurity/trivy)** — Go
+  全能安全扫描器：漏洞检测、错误配置、密钥泄露、SBOM，覆盖容器、K8s、代码仓库。
 
-- **不相信灵魂转世** — 哲学思辨类热帖，探讨生命与轮回话题引发大量讨论。
-- **iPhone Air 和 iPhone 17 同价 5000 元，你选哪个** — 苹果两条产品线同价位的选择困难症讨论。
-- **PDD 商家把我当脑残耍，1L 杯子装不了 1L 牛奶** — 拼多多购物翻车经历引发共鸣，讨论电商容量标注乱象。
-- **中国景区门票为什么普遍比较贵？** — 关于国内景区定价机制的热议，对比国外景区价格。
-- **天猫国际退货退款纠纷** — 跨境购物退款纠纷维权帖，涉及物流与商家责任问题。
-- **想减少风控，固定出口 IP，有推荐的 VPS 吗？** — 网络安全话题，讨论出海网络环境优化方案。
-- **谈 iOS Surge 相比 Loon 不足的地方** — 两大 iOS 网络工具深度对比帖，技术向讨论。
-- **大家会不会反复回忆过去的小事** — 心理学话题引广泛共鸣。
+- **[microsoft/mxc](https://github.com/microsoft/mxc)** — Rust
+  微软出品：基于策略的分层隔离与沙箱运行环境。
 
-### Linux.do 热门
+### 💬 社区热议
 
-- **OpenAI 大规模封号是 Bug，明天全员额度重置** — OpenAI 封号事件反转，官方确认为系统 Bug，受影响用户即将恢复额度。
-- **2026 夏日游戏节信息汇总** — 各大游戏厂商夏日发布会动态整理，包括异形隔离 2 等新作消息。
-- **抽一个 GLaDOS 34 天订阅** — 社区福利抽奖帖，GLaDOS VPN 订阅码放送。
-- **Linux.do 提议增设 AI+科研板块** — 社区热议设立 AI 辅助科研专区，涵盖 AI4S、文献分析、自动化科研等方向。
-- **送给全体 2026 年高考考生** — 高考季热门帖，祝福帖收获大量社区温暖互动。
+#### V2EX 热门
 
-## 🎁 今日福利羊毛
+1. **大家会不会反复回忆已经过去的小事，想着当时如果这样做就好了？** — 心理反刍现象引广泛共鸣。
+   https://www.v2ex.com/t/1218518
 
-- **Steam 免费领：Pico Park: Classic Edition** — 经典多人合作游戏限时免费，截止 6 月 14 日，之后将永久下架。
-- **Steam 免费试玩：Marathon** — Bungie 经典重制版免费游玩中，截止 6 月 9 日。
-- **GLaDOS 34 天订阅抽奖** — Linux.do 社区送福利，免费 VPN 订阅码抽奖中。
-- **国内大模型免费 API 大盘点** — 2026 年最全攻略，30+ 平台额度对比，开发者白嫖必备。
-- **腾讯云 618 活动：99 元 CN2 硅谷 VPS 回归** — 3 年 528 元国内 VPS，续费代金券同步发放，截至 6 月 30 日。
-- **Google Cloud 免费 AI 工具** — Google Cloud 提供多款免费 AI 工具，涵盖视频 AI、AI 应用搭建等。
-- **39 个最佳免费 AI 工具汇总** — DataCamp 发布 2026 免费 AI 工具完全指南，从 ChatGPT 到 Claude 等。
+2. **刚刚浏览 L 站，发现小作文已成历史** — Linux.do 关闭小作文注册门槛后的观察帖。
+   https://www.v2ex.com/t/1218503
 
-## 📝 一句话总结
+3. **Google AI Pro 在反重力中使用 Gemini 3.5 Flash 耐用吗** — 反重力 VPN + Google AI Pro 质量讨论。
+   https://www.v2ex.com/t/1218504
 
-今天 GitHub 上 Agent 工具链持续火热（open-notebook、Agent-Reach 领跑），V2EX 热议消费维权与 iOS 工具对比，Linux.do 迎来 OpenAI 封号 Bug 反转与高考季温情帖，Steam 限免福利不容错过！
+4. **iPhone 17 异常发热、电量尿崩，折腾两个月终于破案了** — 排查 iPhone 17 发热耗电长文。
+   https://www.v2ex.com/t/1218521
+
+5. **咨询，一个老 iOS 程序员只拿到新东方北京 22k 的工资** — 大龄 iOS 开发者薪资讨论。
+   https://www.v2ex.com/t/1218524
+
+6. **大家觉得什么博客值得保存下来？** — 博客收藏推荐帖。
+   https://www.v2ex.com/t/1218510
+
+7. **咨询：国内 AI 模型哪个编程效果好？** — DeepSeek、Qwen、GLM 等国产模型横向对比。
+   https://www.v2ex.com/t/1218520
+
+8. **香港 Mox Bank 开放大陆旅客线上开户** — 虚拟银行 Mox 放开内地游客限制。
+   https://www.v2ex.com/t/1218525
+
+9. **用 gpt-image-2 做设计图，claude opus4.8 扣了一通宵才复原 98%** — AI 图像工具体验分享。
+   https://www.v2ex.com/t/1218530
+
+10. **人机 Agent 团队协同：从 Managed Agents 到 Multica 实践** — 多 Agent 协作深度技术分享。
+    https://www.v2ex.com/t/1218528
+
+#### Linux.do 热门
+
+1. **请不要把互联网上的戾气带来这里！** — 104K赞 5874回复 — 社区风气倡导帖。
+2. **秘密花园园丁邀请函** — 33K赞 3537回复 — 邀请机制趣味话题。
+3. **盘点 L 站的徽章 长期更新！** — 27K赞 3219回复 — 徽章收集大全。
+4. **社区拟优化账号注册机制** — 1942赞 691回复 — 注册流程优化讨论。
+5. **佬们觉得哪个 AI 高考数学肯定能考满分？** — 100赞 84回复 — AI 数学能力评测。
+6. **2026 湖北卷作文 这我写集贸啊** — 33赞 32回复 — 高考作文题热议。
+7. **【CHY公益站】分享Grok Free 1000个号** — 21赞 7回复 — 公益站放送 Grok 免费账号。
+8. **个人调优 skill-creator 分享** — 21赞 4回复 — AI skill 调优经验分享。
+9. **Trip.com 员工链接拉起 Mox Bank 隐藏开户入口** — 7赞 3回复 — 跨境金融羊毛。
+10. **气死我了，claude 你不干有的是 AI 干** — 9赞 7回复 — Claude 服务吐槽。
+
+### 🎁 今日福利羊毛
+
+- **【CHY公益站】Grok Free 1000 个号放送** — Linux.do 社区公益站分享 Grok 免费账号。
+- **免费节点合集（2026-06-06更新）** — SSR/V2Ray/Clash 订阅，新增 26 条高速线路，峰值 9.39MB/s。
+- **2026 年大模型 API 免费额度汇总** — 30+ 平台免费 API 额度，智谱 2000 万 Token、阿里云百炼等。
+- **阿里云 165 元券包限时速领** — 新老用户同享，覆盖 ECS、OSS 等主流产品。
+- **腾讯云 618 活动：服务器低至 2.7 折** — 新购优惠 + 续费 3.9 折起。
+- **free-for.dev** — GitHub 110K Stars，开发者免费服务/工具清单，持续更新。
+- **2026 年最全免费大模型 API 白嫖指南** — 盘点 30+ 平台免费额度与接入方式。
+- **Google AI Pro 福利** — Google One 订阅用户可享 Gemini 3.5 Flash 免费/折扣额度。
+
+### 📝 一句话总结
+
+今日 GitHub 上 AI 记忆系统（MemPalace）、开源 NotebookLM（open-notebook）和 Agent 感知工具（Agent-Reach）热度最高；V2EX 热议 iPhone 17 发热门与 Mox 银行开户；Linux.do 社区风气帖与高考话题并行；福利方面 Grok 免费号放送和 30+ 免费 AI API 大盘点值得关注！

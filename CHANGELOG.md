@@ -1,3 +1,13 @@
+## 2026-06-07
+
+### 新增
+- **每日福利热点 2026-06-07（手动补发）** — cron 因 Hermes PluginManager bug 挂起，手动采集 + 撰写 + 部署
+  - GitHub Trending 热门项目（Agent-Reach、open-notebook、MemPalace 等 10 个）
+  - V2EX 今日热议话题 10 条
+  - Linux.do 热门话题 10 条（含社区风气帖、高考热议、公益站 Grok 免费号）
+  - 今日福利羊毛汇总（Grok 免费号、免费节点、大模型 API 免费额度、阿里云券包、腾讯云 618）
+  - 文章位置：src/content/blog/daily-trending-2026-06-07.md
+
 ## [Unreleased]
 
 ### Fixed
