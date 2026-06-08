@@ -2,6 +2,7 @@
 
 ### 内容
 - **每日福利热点 | 2026-06-08** — GitHub（Skylight、Goose、JoyAI-Echo 等 8 个项目）/ V2EX 热门（微信多开、国产显卡部署、IT 行业焦虑等 6 条）/ Linux.do 热点（关闭公开注册、PPT Agent、服务器压力等 6 条）/ 福利汇总（腾讯云 618、免费 LLM API、免费节点等）
+- **每日科技速递 | 2026-06-08** — AI 模型动态（ChatGPT 超级应用、Microsoft MAI-Thinking-1、Harness-1）/ 科技行业（WWDC 2026 开幕、NVIDIA RTX Spark 韩国发布、SpaceX IPO）/ 经济与政策（Trump AI 行政令、EU AI Act 倒计时）
 
 ## 2026-06-07
 
