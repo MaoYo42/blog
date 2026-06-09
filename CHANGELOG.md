@@ -1,3 +1,8 @@
+## 2026-06-09
+
+### 内容
+- **每日福利热点 | 2026-06-09** — GitHub（last30days-skill 3,558⭐、turbovec 1,729⭐、supervision 1,288⭐、Agent-Reach 679⭐、tolaria 651⭐、ChinaTextbook 592⭐、google/skills 461⭐、CopilotKit 378⭐）/ V2EX 热门（iOS 27 史诗级更新、AI 实战讨论、淘宝20周年、顺丰AI笑话等7条）/ Linux.do 热点（站长被人作局、副业上岸板块、公益签到解释、NotebookLM更新、Vibe coding展示、小米模型额度等8条）/ 福利汇总（腾讯云3月免费、GLM-4-Flash永久免费、火山引擎每日200万Tokens、30+平台API免费额度、Leonardo API 额度）
+
 ## 2026-06-08
 
 ### 内容
