@@ -2,6 +2,7 @@
 
 ### 内容
 - **每日福利热点 | 2026-06-09** — GitHub（last30days-skill 3,558⭐、turbovec 1,729⭐、supervision 1,288⭐、Agent-Reach 679⭐、tolaria 651⭐、ChinaTextbook 592⭐、google/skills 461⭐、CopilotKit 378⭐）/ V2EX 热门（iOS 27 史诗级更新、AI 实战讨论、淘宝20周年、顺丰AI笑话等7条）/ Linux.do 热点（站长被人作局、副业上岸板块、公益签到解释、NotebookLM更新、Vibe coding展示、小米模型额度等8条）/ 福利汇总（腾讯云3月免费、GLM-4-Flash永久免费、火山引擎每日200万Tokens、30+平台API免费额度、Leonardo API 额度）
+- **每日科技速递 | 2026-06-09** — AI 模型动态（Apple AFM 第三代 / 小米 UltraSpeed 1000 tokens/s / NVIDIA Nemotron 3 Ultra / VoxCPM2 开源 / 高德 ABot-Earth0.5）/ 科技产品与行业（OpenAI IPO 秘密提交 / Apple WWDC Siri AI / SpaceX 轨道 AI 数据中心 / Runway Aleph 2.0 / ChatGPT 图表 / NotebookLM 升级）/ 经济与政策（美国 AI 法案草案 / 特朗普 AI 行政令 / 黄仁勋缺席听证会 / 中国人形机器人政策）
 
 ## 2026-06-08
 
