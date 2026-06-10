@@ -133,4 +133,5 @@
 ## 2026-06-10
 
 ### 内容
+- **每日科技速递 | 2026-06-10** — AI 模型动态（Claude Fable 5/Mythos 5 发布 / Google Gemma 4 12B / 小米 MiMo UltraSpeed 突破 1000t/s / Cohere North Mini Code）/ 科技产品与行业（Apple WWDC Siri AI / OpenAI 秘密 IPO / Cursor 伦敦总部 / Claude Managed Agents / OpenRouter Advisor）/ 经济政策（SpaceX 轨道 AI 数据中心 / Apollo 350亿 AI 融资 / 中国 2950亿 AI 基建 / 德国 AI Overviews 责任裁决 / 台湾 AI 芯片出口限制 / 新能源渗透率 62.9%）
 - **每日福利热点 | 2026-06-10** — GitHub（last30days-skill 37K⭐今日+3,191、turbovec 10K⭐、supervision 43K⭐、opencv 88K⭐、tolaria 14K⭐、goose 48K⭐、career-ops 51K⭐、ChinaTextbook 73K⭐）/ V2EX 热门（电车香、Claude Fable 5测评、macOS 27问题、微信支付优惠、免费IP兑换码）/ Linux.do 热点（火山引擎 Coding Plan降价至¥9.9、8000万token写小说、Codex营销分析、Qoder免费模型API转换）/ 福利汇总（Google Cloud $300赠金、免费AI工具Claude/Perplexity/NotebookLM、Nano Banana 2免费4K图像、免费节点订阅）
