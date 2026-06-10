@@ -129,3 +129,8 @@
 
 ### 内容
 - **每日科技速递 | 2026-06-07** — AI 模型动态（OpenCV 5 发布 / GitHub Spec Kit 开源 / MiniMax M3 代码审计 / GPT-5.5 vs Opus 4.8 设计对比 / YC Paxel 发布 / Harness Codex 实践）/ 科技行业新闻（谷歌每月 9.2 亿美元租 SpaceX 算力 / 美国 AI 联邦监管法案 / ResNet 获 CVPR 2026 时间检验奖 / 海螺 AI 上影节 / Persona Atlas / Job Searcher）/ 经济政策要闻（EU AI Act 倒计时 / 美国各州 AI 立法加速 / 全球 AI 监管格局）
+
+## 2026-06-10
+
+### 内容
+- **每日福利热点 | 2026-06-10** — GitHub（last30days-skill 37K⭐今日+3,191、turbovec 10K⭐、supervision 43K⭐、opencv 88K⭐、tolaria 14K⭐、goose 48K⭐、career-ops 51K⭐、ChinaTextbook 73K⭐）/ V2EX 热门（电车香、Claude Fable 5测评、macOS 27问题、微信支付优惠、免费IP兑换码）/ Linux.do 热点（火山引擎 Coding Plan降价至¥9.9、8000万token写小说、Codex营销分析、Qoder免费模型API转换）/ 福利汇总（Google Cloud $300赠金、免费AI工具Claude/Perplexity/NotebookLM、Nano Banana 2免费4K图像、免费节点订阅）
