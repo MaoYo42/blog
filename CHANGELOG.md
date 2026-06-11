@@ -135,3 +135,8 @@
 ### 内容
 - **每日科技速递 | 2026-06-10** — AI 模型动态（Claude Fable 5/Mythos 5 发布 / Google Gemma 4 12B / 小米 MiMo UltraSpeed 突破 1000t/s / Cohere North Mini Code）/ 科技产品与行业（Apple WWDC Siri AI / OpenAI 秘密 IPO / Cursor 伦敦总部 / Claude Managed Agents / OpenRouter Advisor）/ 经济政策（SpaceX 轨道 AI 数据中心 / Apollo 350亿 AI 融资 / 中国 2950亿 AI 基建 / 德国 AI Overviews 责任裁决 / 台湾 AI 芯片出口限制 / 新能源渗透率 62.9%）
 - **每日福利热点 | 2026-06-10** — GitHub（last30days-skill 37K⭐今日+3,191、turbovec 10K⭐、supervision 43K⭐、opencv 88K⭐、tolaria 14K⭐、goose 48K⭐、career-ops 51K⭐、ChinaTextbook 73K⭐）/ V2EX 热门（电车香、Claude Fable 5测评、macOS 27问题、微信支付优惠、免费IP兑换码）/ Linux.do 热点（火山引擎 Coding Plan降价至¥9.9、8000万token写小说、Codex营销分析、Qoder免费模型API转换）/ 福利汇总（Google Cloud $300赠金、免费AI工具Claude/Perplexity/NotebookLM、Nano Banana 2免费4K图像、免费节点订阅）
+
+## 2026-06-11
+
+### 内容
+- **每日福利热点 | 2026-06-11** — GitHub（apple/container 1,611⭐、last30days-skill 2,535⭐、superpowers 1,104⭐、MoneyPrinterTurbo 1,389⭐、agent-skills 821⭐、supervision 695⭐、tolaria 612⭐、maigret 318⭐）/ V2EX 热门（赛博AI中转送$50、金价885、免费法兰西域名、土区GPT Plus调价、tvOS App、视频日记App）/ Linux.do 热点（Macaron-V1-Preview 749B参数超越GPT-5.4、KernelUNO Arduino微型OS、GLM Coding Plan体验卡）/ 福利汇总（Agnes AI 模型API无限期免费、aifreeforever 1000+免费AI工具、Nano Banana免费图像生成、Aiarty Image Matting限免）
