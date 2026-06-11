@@ -1,3 +1,8 @@
+## 2026-06-11
+
+### 内容
+- **每日科技速递 | 2026-06-11** — AI 模型动态（DiffusionGemma 开源 4x 速度 / Midjourney V8.1 默认 / Grok Voice / 摩尔线程 MusaCoder / GPT-Rosalind）/ 科技产品与行业（小米 MiMo Code 开源 / 华为 CloudRobo 具身 AI / Cursor Bugbot 更新 / 火山引擎版权平台 / Anthropic 350 亿美元芯片租赁 / OpenAI-Oracle 合作 / Replit Package Firewall / Magnetar AI 替代分析师）/ 经济与政策（德国法院判 Google AI 幻觉担责 / Anthropic 安全研究 / 欧盟令 Meta 开放 WhatsApp / 白宫 AI 行政令 / EU AI 法案更新 / 工信部实施意见 / AI 就业焦虑社会反响）
+
 ## 2026-06-09
 
 ### 内容
