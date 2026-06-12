@@ -1,3 +1,8 @@
+## 2026-06-12
+
+### 内容
+- **每日福利热点 | 2026-06-12** — GitHub（apple/container、addyosmani/agent-skills、NVIDIA/SkillSpector、kenn-io/agentsview、hexo-ai/sia 等 12 个项目）/ V2EX 热门（币安 C2C 反诈联系、llama.cpp 重大 bug、vibe coding 依赖症、Claude Code 自写年度报告等 7 条）/ Linux.do 热点（bohe 公益抽奖、Qwen 新模型发布、付费文合集等 4 条）/ 福利汇总（ChatGPT Pro + Claude Max 开源维护者免费申请、17 个免费 LLM API、30+ 免费大模型平台、免费云服务器试用）
+
 ## 2026-06-11
 
 ### 内容
