@@ -155,4 +155,5 @@
 ## 2026-06-13
 
 ### 内容
+- **每日科技速递 | 2026-06-13** — AI 模型动态（Anthropic Fable 5/Mythos 5 被美政府强制下线 / MiniMax M3 开源 428B 权重模型 / Kimi K2.7-Code 发布 / OpenAI 遭多州总检察长调查）/ 科技行业新闻（SpaceX 史上最大 IPO 上市涨 19% / 字节豆包任务模式上线 / 苹果 iOS 27 健康 App 大改 / TCS 与 Anthropic 合作 / EngineAI 递表港交所）/ 经济政策要闻（美国 AI 出口管制升级 / OpenAI 跨州调查 / SpaceX IPO 重塑科技资本市场）
 - **每日福利热点 | 2026-06-13** — GitHub（superpowers 226K⭐、agency-agents 112K⭐、agent-skills🔥、PowerToys 134K⭐、LMCache 8.6K⭐、mattermost 37.6K⭐、apple/container 35.2K⭐、tolaria 15.8K⭐）/ V2EX 热门（房贷压力、AI中医自诊、买房vs租房、币安C2C反诈、$1美元美国手机号）/ Linux.do 热点（Agent ALE评测全军覆没、DigitalOcean学分7月到期、Agent岗位面试题、Openterm SSH工具）/ 福利汇总（DigitalOcean学分7/31到期提醒、$1美元美国手机号、24+免费AI工具合集、1000+免费AI工具目录）
