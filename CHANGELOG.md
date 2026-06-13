@@ -151,3 +151,8 @@
 
 ### 内容
 - **每日福利热点 | 2026-06-11** — GitHub（apple/container 1,611⭐、last30days-skill 2,535⭐、superpowers 1,104⭐、MoneyPrinterTurbo 1,389⭐、agent-skills 821⭐、supervision 695⭐、tolaria 612⭐、maigret 318⭐）/ V2EX 热门（赛博AI中转送$50、金价885、免费法兰西域名、土区GPT Plus调价、tvOS App、视频日记App）/ Linux.do 热点（Macaron-V1-Preview 749B参数超越GPT-5.4、KernelUNO Arduino微型OS、GLM Coding Plan体验卡）/ 福利汇总（Agnes AI 模型API无限期免费、aifreeforever 1000+免费AI工具、Nano Banana免费图像生成、Aiarty Image Matting限免）
+
+## 2026-06-13
+
+### 内容
+- **每日福利热点 | 2026-06-13** — GitHub（superpowers 226K⭐、agency-agents 112K⭐、agent-skills🔥、PowerToys 134K⭐、LMCache 8.6K⭐、mattermost 37.6K⭐、apple/container 35.2K⭐、tolaria 15.8K⭐）/ V2EX 热门（房贷压力、AI中医自诊、买房vs租房、币安C2C反诈、$1美元美国手机号）/ Linux.do 热点（Agent ALE评测全军覆没、DigitalOcean学分7月到期、Agent岗位面试题、Openterm SSH工具）/ 福利汇总（DigitalOcean学分7/31到期提醒、$1美元美国手机号、24+免费AI工具合集、1000+免费AI工具目录）
