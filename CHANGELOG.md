@@ -1,3 +1,8 @@
+## 2026-06-14
+
+### 内容
+- **每日福利热点 | 2026-06-14** — GitHub（apple/container 开源 macOS Linux 容器工具 🔥、addyosmani/agent-skills AI Agent 技能集、NVIDIA/SkillSpector Agent 安全扫描器、LMCache KV 缓存加速、kenn-io/agentsview Agent 分析工具）/ V2EX 热门（AI 中转站福利、央视报道中转站、京东自动保价插件送会员、份子记账 App 送永久会员、破解站收录独立开发 App）/ Linux.do 热点（社区治理讨论、秘密花园邀请函、GLM-5.2 跻身第一梯队、君の公益上架 Claude Fable 5、机房故障讨论）/ 福利汇总（GLM-5.2 免费使用、30+ 免费大模型 API 白嫖指南、Steam 限免、腾讯免费 Token、开源永久免费节点）
+
 ## 2026-06-12
 
 ### 内容
