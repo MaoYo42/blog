@@ -162,3 +162,8 @@
 ### 内容
 - **每日科技速递 | 2026-06-13** — AI 模型动态（Anthropic Fable 5/Mythos 5 被美政府强制下线 / MiniMax M3 开源 428B 权重模型 / Kimi K2.7-Code 发布 / OpenAI 遭多州总检察长调查）/ 科技行业新闻（SpaceX 史上最大 IPO 上市涨 19% / 字节豆包任务模式上线 / 苹果 iOS 27 健康 App 大改 / TCS 与 Anthropic 合作 / EngineAI 递表港交所）/ 经济政策要闻（美国 AI 出口管制升级 / OpenAI 跨州调查 / SpaceX IPO 重塑科技资本市场）
 - **每日福利热点 | 2026-06-13** — GitHub（superpowers 226K⭐、agency-agents 112K⭐、agent-skills🔥、PowerToys 134K⭐、LMCache 8.6K⭐、mattermost 37.6K⭐、apple/container 35.2K⭐、tolaria 15.8K⭐）/ V2EX 热门（房贷压力、AI中医自诊、买房vs租房、币安C2C反诈、$1美元美国手机号）/ Linux.do 热点（Agent ALE评测全军覆没、DigitalOcean学分7月到期、Agent岗位面试题、Openterm SSH工具）/ 福利汇总（DigitalOcean学分7/31到期提醒、$1美元美国手机号、24+免费AI工具合集、1000+免费AI工具目录）
+
+## 2026-06-14
+
+### 内容
+- **每日科技速递 | 2026-06-14** — AI 模型动态（智谱 GLM-5.2 1M上下文开源 / MiniMax M3 开源 / Kimi K2.7-Code 发布 / Gemini Omni Flash SOTA）/ 科技行业新闻（SpaceX 史上最大IPO首日涨23% / Anthropic 9650亿美元秘密IPO / Anthropic最强模型遭美政府撤回 / OpenAI 遭多州总检察长调查 / Meta AI转型裁员10%转岗7000人 / Google安全负责人因军事AI合作辞职 / Apple WWDC Siri AI iOS 27发布 / Meta撤销20亿美元收购Manus / Suno音轨分离升级 / OpenRouter Fusion API / 特朗普签署AI行政令 / Prometheus 120亿美元融资）/ 经济政策要闻（AI企业上市潮：SpaceX/Anthropic/OpenAI / 欧盟AI法案8月全面施行 / SemiAnalysis AI订阅价差分析）
