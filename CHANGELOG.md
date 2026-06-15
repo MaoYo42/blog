@@ -2,6 +2,7 @@
 
 ### 内容
 - **每日福利热点 | 2026-06-15** — GitHub（iptv-org/iptv 120,982⭐、NVIDIA/SkillSpector 5,310⭐、swc-project/swc 33,781⭐、chatwoot/chatwoot 31,229⭐、GorvGoyl/Clone-Wars 35,468⭐、shiyu-coder/Kronos 29,913⭐）/ V2EX 热门（AI 付费讨论、GLM Token套餐抢不到、旗舰模型差距解释、中转站创业、630大厂裁员、GLM-5.2体验卡）/ Linux.do 热点（秘密花园邀请函、社区戾气治理、DeepSeek 4.1跳票、Krill 618促销、这周只上4天班、大学老师用豆包编程）/ 福利汇总（免费VPN节点25条、24+免费AI工具合集、GLM-5.2体验卡免费送、Krill 618 0.1倍率促销、50+免费AI工具指南）
+- **每日科技速递 | 2026-06-15** — AI 模型动态（Anthropic 9650亿美元秘密IPO / 智谱 GLM-5.2 全量开放 / MiniMax M3 开源 / Kimi K2.7-Code 发布 / VISTA-4B GUI模型）/ 科技行业新闻（Meta 撤销 20 亿美元收购 Manus 交易 / OpenAI 合作伙伴网络 1.5 亿美元投资 / 字节豆包任务模式 / Meta AI转型裁员10% / 谷歌安全负责人辞职 / DeepMind机器人加速器 15家初创公司 / Google起诉AI诈骗团伙 / 1300亿美元数据中心项目被叫停 / Suno音轨分离升级 / Anthropic暂停新模型访问印度辩论）/ 经济政策（白宫AI监管偏袒争议 / 工信部人形机器人专项行动 / A股震荡回调 AI仍是主线 / SemiAnalysis Token经济分析）
 
 ## 2026-06-14
 
