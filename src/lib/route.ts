@@ -21,7 +21,7 @@ export function routeBuilder<T extends Routes>(route: T, param: RouteParams<type
     case Routes.Post: {
       // BlogPost: resolved via getPostSlug (link override > transliterated slug)
       // PostRef: link (raw frontmatter override, may be CJK) takes precedence over slug (transliterated by builds)
-      const slug = isBlogPost(param) ? getPostSlug(param) : (param.link ?? param.slug);
+      const slug = isBlogPost(param) ? getPostSlug(param) : (param.link ?? param.id);
       href += `/${encodeSlug(slug)}`;
       break;
     }

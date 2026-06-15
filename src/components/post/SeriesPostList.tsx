@@ -11,12 +11,12 @@ import type { PostRef } from '@/types/blog';
 
 interface SeriesPostListProps {
   posts: PostRef[];
-  currentPostSlug?: string;
+  currentPostId?: string;
   className?: string;
   locale?: string;
 }
 
-export function SeriesPostList({ posts, currentPostSlug, className, locale }: SeriesPostListProps) {
+export function SeriesPostList({ posts, currentPostId, className, locale }: SeriesPostListProps) {
   const { t } = useTranslation();
   if (!posts?.length) {
     return <div className="py-8 text-center text-muted-foreground text-sm">{t('series.noPosts')}</div>;
@@ -26,11 +26,11 @@ export function SeriesPostList({ posts, currentPostSlug, className, locale }: Se
     <div className={cn('flex flex-col gap-1 md:pb-3 md:pl-2', className)}>
       {posts.map((post) => {
         const href = localizedPath(routeBuilder(Routes.Post, post), locale);
-        const isActive = post.slug === currentPostSlug;
+        const isActive = post.id === currentPostId;
 
         return (
           <a
-            key={post.slug}
+            key={post.id}
             href={href}
             className={cn(
               'group relative flex items-center gap-3 rounded-md px-1 py-2 transition-colors',

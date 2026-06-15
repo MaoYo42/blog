@@ -48,7 +48,7 @@ export type BlogPost = CollectionEntry<'blog'>;
  * 最小文章引用 - 用于导航（3 字段）
  */
 export interface PostRef {
-  slug: string;
+  id: string;
   link?: string;
   title: string;
 }
@@ -64,7 +64,7 @@ export interface PostRefWithCategory extends PostRef {
  * 文章卡片数据 - 用于卡片展示
  */
 export interface PostCardData {
-  slug: string;
+  id: string;
   link?: string;
   title: string;
   description?: string;

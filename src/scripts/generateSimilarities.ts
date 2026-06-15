@@ -45,14 +45,14 @@ env.cacheDir = './.cache/transformers';
 
 // --------- Type Definitions ---------
 interface PostData {
-  slug: string;
+  id: string;
   title: string;
   description?: string;
   text: string;
 }
 
 interface SimilarPost {
-  slug: string;
+  id: string;
   title: string;
   similarity: number;
 }
@@ -228,7 +228,7 @@ async function processFile(filePath: string, summaries: SummariesMap): Promise<P
     }
 
     return {
-      slug,
+      id: slug,
       title: frontmatter.title as string,
       description,
       text: fullText,
@@ -265,7 +265,7 @@ async function generateEmbeddings(posts: PostData[], extractor: FeatureExtractio
 
   for (let i = 0; i < posts.length; i++) {
     const post = posts[i];
-    process.stdout.write(`\r  Processing ${i + 1}/${posts.length}: ${post.slug.slice(0, 40)}...`);
+    process.stdout.write(`\r  Processing ${i + 1}/${posts.length}: ${post.id.slice(0, 40)}...`);
 
     const output = (await extractor(post.text, {
       pooling: 'mean',
@@ -295,7 +295,7 @@ function computeSimilarities(posts: PostData[], embeddings: Float32Array[], topN
 
       const similarity = dotProduct(embeddings[i], embeddings[j]);
       similarities.push({
-        slug: posts[j].slug,
+        id: posts[j].id,
         title: posts[j].title,
         similarity: Math.round(similarity * 1000) / 1000,
       });
@@ -303,7 +303,7 @@ function computeSimilarities(posts: PostData[], embeddings: Float32Array[], topN
 
     // Sort by similarity (descending) and take top N
     similarities.sort((a, b) => b.similarity - a.similarity);
-    result[posts[i].slug] = similarities.slice(0, topN);
+    result[posts[i].id] = similarities.slice(0, topN);
   }
 
   return result;

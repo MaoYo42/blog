@@ -21,7 +21,7 @@ function getSlugToPostMap(allPosts: BlogPost[]): Map<string, BlogPost> {
 }
 
 interface SimilarPost {
-  slug: string;
+  id: string;
   title: string;
   similarity: number;
 }
@@ -87,8 +87,8 @@ export function getRelatedPosts(currentPost: BlogPost, allPosts: BlogPost[], cou
 
     // Map related slugs to full posts, maintaining similarity order
     const relatedPosts: BlogPost[] = [];
-    for (const { slug } of relatedSlugs) {
-      const post = slugToPost.get(slug);
+    for (const { id } of relatedSlugs) {
+      const post = slugToPost.get(id);
       if (post) {
         relatedPosts.push(post);
       }

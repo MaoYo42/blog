@@ -226,6 +226,9 @@ export default defineConfig({
     ssr: {
       noExternal: ['react-tweet'],
     },
+    resolve: {
+      noExternal: ['react-tweet'],
+    },
     optimizeDeps: {
       include: ['@antv/infographic'],
     },

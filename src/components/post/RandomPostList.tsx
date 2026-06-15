@@ -27,8 +27,8 @@ export default function RandomPostList({ postsPool, count, locale }: Props) {
       <div className="flex flex-col gap-2">
         {posts.map((post, index) => (
           <a
-            key={post.slug}
-            href={localizedPath(`/post/${encodeSlug(post.link ?? post.slug)}`, locale)}
+            key={post.id}
+            href={localizedPath(`/post/${encodeSlug(post.link ?? post.id)}`, locale)}
             className="group flex gap-3 rounded-md p-2 text-sm transition-colors duration-300 hover:bg-foreground/5 hover:text-primary"
           >
             <span className="shrink-0 font-mono text-foreground/30">{index + 1}</span>

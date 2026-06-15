@@ -3,7 +3,6 @@ import { SeriesNavigation } from '@components/post/SeriesNavigation';
 import { SeriesPostList } from '@components/post/SeriesPostList';
 import HomeSiderSegmented from '@components/ui/segmented/HomeSiderSegmented';
 import { HomeSiderSegmentType, HomeSiderType } from '@constants/enum';
-import { getPostSlug } from '@lib/content/locale';
 import { getAdjacentSeriesPosts, getSeriesPosts } from '@lib/content/posts';
 import { toPostRef, toPostRefs } from '@lib/content/transforms';
 import { cn } from '@lib/utils';
@@ -65,7 +64,7 @@ const nextPost = adjacentPosts.nextPost ? toPostRef(adjacentPosts.nextPost) : nu
       {type === HomeSiderType.POST && <TableOfContents client:only="react" enableNumbering={post?.data.tocNumbering ?? true} />}
     </div>
     <div slot="series" class="sider-slot" data-slot-type="series">
-      {type === HomeSiderType.POST && <SeriesPostList client:idle posts={seriesPosts} currentPostSlug={post ? getPostSlug(post) : undefined} locale={locale} />}
+      {type === HomeSiderType.POST && <SeriesPostList client:idle posts={seriesPosts} currentPostId={post ? post.id : undefined} locale={locale} />}
     </div>
   </sider-content>
 
