@@ -7,17 +7,17 @@
 
 import { defaultLocale } from '@/i18n/config';
 import type { BlogPost } from '@/types/blog';
-import { getPostLocale, getPostSlug } from './locale';
+import { getPostLocale } from './locale';
 import { getPostDescriptionWithSummary, getPostLastCategory, getPostReadingTime } from './posts';
 
 /**
  * BlogPost 可提取的字段映射
- * - 直接字段：从 post.slug 或 post.data.xxx 直接取
+ * - 直接字段：从 post.id 或 post.data.xxx 直接取
  * - 计算字段：需要调用函数计算
  */
 export type PostFieldMap = {
   // 直接字段
-  slug: string;
+  id: string;
   link: string | undefined;
   title: string;
   date: Date;
@@ -39,7 +39,7 @@ export type PostFieldMap = {
  */
 const fieldExtractors: { [K in keyof PostFieldMap]: (post: BlogPost, locale: string) => PostFieldMap[K] } = {
   // 直接字段
-  slug: (p) => getPostSlug(p),
+  id: (p) => p.id,
   link: (p) => p.data?.link,
   title: (p) => p.data.title,
   date: (p) => p.data.date,
@@ -57,8 +57,8 @@ const fieldExtractors: { [K in keyof PostFieldMap]: (post: BlogPost, locale: str
 
 /**
  * 从 BlogPost 中选取指定字段
- * @example pickPost(post, ['slug', 'link', 'title'])
- * @example pickPost(post, ['slug', 'link', 'title', 'categoryName'])
+ * @example pickPost(post, ['id', 'link', 'title'])
+ * @example pickPost(post, ['id', 'link', 'title', 'categoryName'])
  */
 export function pickPost<K extends keyof PostFieldMap>(
   post: BlogPost,
@@ -74,8 +74,8 @@ export function pickPost<K extends keyof PostFieldMap>(
 
 /**
  * 批量从 BlogPost 数组中选取指定字段
- * @example pickPosts(posts, ['slug', 'link', 'title'])
- * @example pickPosts(posts, ['slug', 'link', 'title', 'categoryName'])
+ * @example pickPosts(posts, ['id', 'link', 'title'])
+ * @example pickPosts(posts, ['id', 'link', 'title', 'categoryName'])
  */
 export function pickPosts<K extends keyof PostFieldMap>(
   posts: BlogPost[],
@@ -88,14 +88,14 @@ export function pickPosts<K extends keyof PostFieldMap>(
 // 便捷别名 - 保持向后兼容
 
 /** PostRef 需要的字段 */
-const POST_REF_KEYS = ['slug', 'link', 'title'] as const;
+const POST_REF_KEYS = ['id', 'link', 'title'] as const;
 
 /** PostRefWithCategory 需要的字段 */
-const POST_REF_WITH_CATEGORY_KEYS = ['slug', 'link', 'title', 'categoryName'] as const;
+const POST_REF_WITH_CATEGORY_KEYS = ['id', 'link', 'title', 'categoryName'] as const;
 
 /** PostCardData 需要的字段 */
 const POST_CARD_DATA_KEYS = [
-  'slug',
+  'id',
   'link',
   'title',
   'description',
@@ -110,12 +110,12 @@ const POST_CARD_DATA_KEYS = [
 ] as const;
 
 /**
- * 转换为最小引用 (3 字段: slug, link, title)
+ * 转换为最小引用 (3 字段: id, link, title)
  */
 export const toPostRef = (post: BlogPost) => pickPost(post, POST_REF_KEYS);
 
 /**
- * 转换为带分类引用 (4 字段: slug, link, title, categoryName)
+ * 转换为带分类引用 (4 字段: id, link, title, categoryName)
  */
 export const toPostRefWithCategory = (post: BlogPost) => pickPost(post, POST_REF_WITH_CATEGORY_KEYS);
 

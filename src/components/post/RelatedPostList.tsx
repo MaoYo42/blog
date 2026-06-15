@@ -34,8 +34,8 @@ export default function RelatedPostList({ posts, fallbackPool, fallbackCount, st
       <div className={cn('flex flex-col gap-2', { '-mt-4 pt-12 md:-mt-5 md:pt-0': !hasRelatedPosts })}>
         {displayPosts.map((post, index) => (
           <a
-            key={post.slug}
-            href={localizedPath(`/post/${encodeSlug(post.link ?? post.slug)}`, locale)}
+            key={post.id}
+            href={localizedPath(`/post/${encodeSlug(post.link ?? post.id)}`, locale)}
             className="group flex gap-3 rounded-md p-2 text-sm transition-colors duration-300 hover:bg-foreground/5 hover:text-primary"
           >
             <span className="shrink-0 font-mono text-foreground/30">{index + (hasRelatedPosts ? 1 : startIndex)}</span>
