@@ -1,3 +1,8 @@
+## 2026-06-15
+
+### 内容
+- **每日福利热点 | 2026-06-15** — GitHub（iptv-org/iptv 120,982⭐、NVIDIA/SkillSpector 5,310⭐、swc-project/swc 33,781⭐、chatwoot/chatwoot 31,229⭐、GorvGoyl/Clone-Wars 35,468⭐、shiyu-coder/Kronos 29,913⭐）/ V2EX 热门（AI 付费讨论、GLM Token套餐抢不到、旗舰模型差距解释、中转站创业、630大厂裁员、GLM-5.2体验卡）/ Linux.do 热点（秘密花园邀请函、社区戾气治理、DeepSeek 4.1跳票、Krill 618促销、这周只上4天班、大学老师用豆包编程）/ 福利汇总（免费VPN节点25条、24+免费AI工具合集、GLM-5.2体验卡免费送、Krill 618 0.1倍率促销、50+免费AI工具指南）
+
 ## 2026-06-14
 
 ### 内容
