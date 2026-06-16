@@ -73,6 +73,7 @@ categoryMap:
   开源: opensource
   资讯: news
   # Secondary categories (for nested paths)
+  技术: tech
   前端: front-end
   # Add more as needed:
   # 书摘: reading
