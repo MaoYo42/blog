@@ -179,3 +179,8 @@
 
 ### 内容
 - **每日科技速递 | 2026-06-14** — AI 模型动态（智谱 GLM-5.2 1M上下文开源 / MiniMax M3 开源 / Kimi K2.7-Code 发布 / Gemini Omni Flash SOTA）/ 科技行业新闻（SpaceX 史上最大IPO首日涨23% / Anthropic 9650亿美元秘密IPO / Anthropic最强模型遭美政府撤回 / OpenAI 遭多州总检察长调查 / Meta AI转型裁员10%转岗7000人 / Google安全负责人因军事AI合作辞职 / Apple WWDC Siri AI iOS 27发布 / Meta撤销20亿美元收购Manus / Suno音轨分离升级 / OpenRouter Fusion API / 特朗普签署AI行政令 / Prometheus 120亿美元融资）/ 经济政策要闻（AI企业上市潮：SpaceX/Anthropic/OpenAI / 欧盟AI法案8月全面施行 / SemiAnalysis AI订阅价差分析）
+
+## 2026-06-16
+
+### 内容
+- **每日科技速递 | 2026-06-16** — AI 模型动态（MiniMax 开源 M3 428B 多模态模型 / DFlash 投机解码 4.3x 吞吐 / Kimi K2.7 Code 高速版 5-6x 加速 / Anthropic Fable 5/Mythos 5 遭美政府全球限制出口）/ 科技行业新闻（Salesforce 36亿美元收购 AI 客服平台 Fin / Meta Facebook 上线 AI Mode / Nvidia 发行 200 亿美元债券 / xAI Grok Build Agent Dashboard / GitHub 多语言开源数据集 / Claude Code v2.1.178 / Rust TIOBE 创新高 #12）/ 经济政策（国产 GPU 燧原科技科创板 IPO 过会 / 中美 AI 出口管制升级 / 美伊和平协议 / 中国新一代通信网加速 / AI 裁员潮持续 15 万人 / EU AI Act 倒计时）
