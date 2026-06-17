@@ -38,11 +38,11 @@ const {
 const showTags = showTagsProp ?? !isSimple;
 const hideCover = hideCoverProp ?? isSimple;
 
-const { cover, date, categories, title, draft, description, slug, link, tags, wordCount, readingTime, postLocale } = data ?? {};
+const { cover, date, categories, title, draft, description, id, link, tags, wordCount, readingTime, postLocale } = data ?? {};
 
 const locale = getLocaleFromUrl(Astro.url.pathname);
 const finalCover = cover ?? randomCover ?? defaultCoverList[0];
-const href = localizedPath(routeBuilder(Routes.Post, { slug, link, title }), locale);
+const href = localizedPath(routeBuilder(Routes.Post, { id, link, title }), locale);
 const isDraft = import.meta.env.DEV && draft === true;
 const isFallback = postLocale != null && locale !== defaultLocale && postLocale !== locale;
 
