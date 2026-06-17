@@ -184,3 +184,8 @@
 
 ### 内容
 - **每日科技速递 | 2026-06-16** — AI 模型动态（MiniMax 开源 M3 428B 多模态模型 / DFlash 投机解码 4.3x 吞吐 / Kimi K2.7 Code 高速版 5-6x 加速 / Anthropic Fable 5/Mythos 5 遭美政府全球限制出口）/ 科技行业新闻（Salesforce 36亿美元收购 AI 客服平台 Fin / Meta Facebook 上线 AI Mode / Nvidia 发行 200 亿美元债券 / xAI Grok Build Agent Dashboard / GitHub 多语言开源数据集 / Claude Code v2.1.178 / Rust TIOBE 创新高 #12）/ 经济政策（国产 GPU 燧原科技科创板 IPO 过会 / 中美 AI 出口管制升级 / 美伊和平协议 / 中国新一代通信网加速 / AI 裁员潮持续 15 万人 / EU AI Act 倒计时）
+
+## 2026-06-17
+
+### 内容
+- **每日福利热点 | 2026-06-17** — GitHub（freeCodeCamp 448K⭐、iptv-org/iptv 124K⭐、OpenBMB/VoxCPM TTS、alibaba/zvec 向量数据库、swc Rust 编译平台）/ V2EX 热门（Codex 到期充值、凯美瑞购车、闲鱼黑话查询、智谱AI体验、Claude iOS开发）/ Linux.do 热点（GLM-5.2 火山引擎上线开源、国产 ArF 光刻机交付、GPT 大用量方案、哪吒探针后门安全事件）/ 福利汇总（DeepSeek 免费 API、Gemini 2.0 Flash 免费层、Modal $30/月 GPU、Pollinations 免费文生图）
