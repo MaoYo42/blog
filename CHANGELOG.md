@@ -189,3 +189,8 @@
 
 ### 内容
 - **每日福利热点 | 2026-06-17** — GitHub（freeCodeCamp 448K⭐、iptv-org/iptv 124K⭐、OpenBMB/VoxCPM TTS、alibaba/zvec 向量数据库、swc Rust 编译平台）/ V2EX 热门（Codex 到期充值、凯美瑞购车、闲鱼黑话查询、智谱AI体验、Claude iOS开发）/ Linux.do 热点（GLM-5.2 火山引擎上线开源、国产 ArF 光刻机交付、GPT 大用量方案、哪吒探针后门安全事件）/ 福利汇总（DeepSeek 免费 API、Gemini 2.0 Flash 免费层、Modal $30/月 GPU、Pollinations 免费文生图）
+
+## 2026-06-18
+
+### 内容
+- **每日福利热点 | 2026-06-18** — GitHub（Agent-Reach 33K⭐/ superpowers 231K⭐/ skills 133K⭐/ freeCodeCamp 449K⭐/ timesfm 21K⭐/ universal-android-debloater 7.6K⭐/ iroh 9.6K⭐/ codebase-memory-mcp 5.3K⭐）/ V2EX 热门（Brivionix Codex Pro内测$10送/ Codex重置机会/ Mac文件搜索APP免费送/ GLM5.2讨论/ Transformer作者Noam加入OpenAI）/ Linux.do 热点（账号注册机制优化/ Leaderboard点数规则调整/ 新人升级攻略/ Cursor++ BYOK集成/ Claude Code开源最佳实践/ 教育邮箱帕米尔大学）/ 福利汇总（Steam《The Red Lantern》限免今日截止/ IQ Under Construction免费/ Steam Next Fest试玩/ AI API白嫖300万Token/天/ FreeTheAi免费网关/ 腾讯云免费试用/ 帕米尔教育邮箱）
