@@ -193,4 +193,7 @@
 ## 2026-06-18
 
 ### 内容
+- **每日科技速递 | 2026-06-18** — AI 模型动态（Grok 4.3 登陆 Bedrock / LOGOS 统一科学大模型开源 / MolmoMotion 3D运动预测 / Noam Shazeer 加入 OpenAI）/ 科技行业新闻（苹果 Xcode 27 AI 智能体 / Vercel Eve 开源框架 / 阿里云 HappyOyster 1.0 / Google 99美元 Gemini 音箱 / Claude Design 更新 / Wolfram 15 发布 / OpenAI 巨亏 130 亿营收）/ 经济政策要闻（上交所 AI 大模型上市指引 / 库克警告存储涨价 / Anthropic DeepMind 呼吁 G7 组建 AI 联盟）
+
+### 内容
 - **每日福利热点 | 2026-06-18** — GitHub（Agent-Reach 33K⭐/ superpowers 231K⭐/ skills 133K⭐/ freeCodeCamp 449K⭐/ timesfm 21K⭐/ universal-android-debloater 7.6K⭐/ iroh 9.6K⭐/ codebase-memory-mcp 5.3K⭐）/ V2EX 热门（Brivionix Codex Pro内测$10送/ Codex重置机会/ Mac文件搜索APP免费送/ GLM5.2讨论/ Transformer作者Noam加入OpenAI）/ Linux.do 热点（账号注册机制优化/ Leaderboard点数规则调整/ 新人升级攻略/ Cursor++ BYOK集成/ Claude Code开源最佳实践/ 教育邮箱帕米尔大学）/ 福利汇总（Steam《The Red Lantern》限免今日截止/ IQ Under Construction免费/ Steam Next Fest试玩/ AI API白嫖300万Token/天/ FreeTheAi免费网关/ 腾讯云免费试用/ 帕米尔教育邮箱）
