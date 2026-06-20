@@ -207,3 +207,8 @@
 
 ### 内容
 - **每日科技速递 | 2026-06-19** — AI 模型动态（LOGOS 统一科学大模型开源 / 火山引擎豆包实时语音 3.0 API 邀测 / Grok TTS 盲测 96 分登顶 / DeepSeek 识图模式上线）/ 科技行业新闻（GPT-5.5 Instant 健康智能升级 / Claude Code 支持 artifacts / Adobe Creative Cloud AI 智能体 / AI 员工 Viktor 登陆 Teams / Noam Shazeer 离开 Google 加入 OpenAI）/ 经济政策要闻（八部门 AI+消费 实施意见 / L3/L4 自动驾驶国标公示 / 桑德斯 7 万亿美元 AI 计划 / FERC 数据中心电网快车道）
+
+## 2026-06-20
+
+### 内容
+- **每日福利热点 | 2026-06-20** — GitHub（headroom Token 压缩神器 39K⭐ / codebase-memory-mcp 代码知识图谱 / TimesFM 时序基础模型 / GLM-5 国产大模型 / superpowers 233K⭐ / flue 沙盒 Agent 框架 / palmier-pro AI 视频编辑器 / iroh Rust 网络栈）/ V2EX 热门（VPS 线路推荐、德扑 GTO 机器人、中年职业规划、reCAPTCHA 骗局警示、Copilot 订阅）/ Linux.do 热点（君の公益 GPT 618 签到、九幺 30000$ CDK 放送、去 AI 味十大 skill、国模之光、豆包安全漏洞）/ 福利汇总（Linux.do 各大 AI 公益站免费额度 / Torch 中转站开业福利 / Proxy001 千万 IP 免费领 / FreeTheAI 50+ 模型免费 API / FreeForAI 免费图像生成 / 澳门蚂蚁银行 0 元开户）
