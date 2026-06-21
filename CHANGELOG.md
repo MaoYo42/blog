@@ -215,3 +215,8 @@
 
 ### 内容
 - **每日福利热点 | 2026-06-20** — GitHub（headroom Token 压缩神器 39K⭐ / codebase-memory-mcp 代码知识图谱 / TimesFM 时序基础模型 / GLM-5 国产大模型 / superpowers 233K⭐ / flue 沙盒 Agent 框架 / palmier-pro AI 视频编辑器 / iroh Rust 网络栈）/ V2EX 热门（VPS 线路推荐、德扑 GTO 机器人、中年职业规划、reCAPTCHA 骗局警示、Copilot 订阅）/ Linux.do 热点（君の公益 GPT 618 签到、九幺 30000$ CDK 放送、去 AI 味十大 skill、国模之光、豆包安全漏洞）/ 福利汇总（Linux.do 各大 AI 公益站免费额度 / Torch 中转站开业福利 / Proxy001 千万 IP 免费领 / FreeTheAI 50+ 模型免费 API / FreeForAI 免费图像生成 / 澳门蚂蚁银行 0 元开户）
+
+## 2026-06-21
+
+### 内容
+- **每日福利热点 | 2026-06-21** — GitHub（headroom Token 压缩神器 42K⭐ / tw93/Pake 网页转桌面应用 55K⭐ / skills 工程师技能集 138K⭐ / codebase-memory-mcp 代码知识图谱 9.4K⭐ / palmier-pro AI 视频编辑器 3.4K⭐ / turso 嵌入式 SQL 数据库 20K⭐ / OpenMontage 开源 AI 视频制作 7K⭐ / kilocode 编码 Agent 平台 23K⭐ / google-research/timesfm 时序基础模型 25K⭐ / penpot 开源设计工具 51K⭐）/ V2EX 热门（AI 有意义工具讨论、Vibe Coding 两年感想、GLM-4.7冒充 Claude、Claude vs Gemini 对比、New Siri 电子围栏、充电宝迫降社会话题、社交麻木情感讨论、Outlook 邮箱不受待见、Android 电视盒子推荐）/ Linux.do 热点（GPT-5.6 即将到来、端午抽小米手环9Pro、深夜福利十年域名、GPT 公益 618 签到、举报中转代充事件、Kivio AI 操控桌面应用、Codex Windows WSL2 讨论）/ 福利汇总（Leawo Photo Enhancer 免费1年授权 / AI Free Forever 1000+免费AI工具 / SteamDB 限免游戏 / 免费 Clash/V2ray 节点 / Linux.do 端午抽奖 / 免费域名）
