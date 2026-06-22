@@ -228,3 +228,7 @@
 
 ### 内容
 - **每日福利热点 | 2026-06-22** — GitHub（headroom Token 压缩神器 44K⭐ / skills 工程师技能集 139K⭐ / palmier-pro AI 视频编辑器 / OpenMontage 开源 AI 视频制作 / penpot 开源设计工具 / deer-flow 字节 SuperAgent / codebase-memory-mcp 代码知识图谱 / cognee AI 记忆平台）/ V2EX 热门（GPT/Claude 低价 API / 油管博主真话率 / codex 降智 GPT-5.6 上线传闻 / copilot 订阅现状 / A 股持续低迷）/ Linux.do 热点（GPT-5.6 即将发布 / 智谱市值破万亿 / 节后摸鱼聊闲天 / 千兆宽带升级体验）/ 福利汇总（阿里云免费 3 个月试用 / AWS 免费套餐+700 元券 / Free AppleID 共享 / OpenRouter 29+ 免费大模型 / 每日免费节点 / Trezzi App 送码）
+
+### 内容
+- **每日科技速递 | 2026-06-22** — AI 大模型动态（Fable 5 禁令第 10 天 / Anthropic 韩国扩张 / AlphaFold 负责人 John Jumper 加入 Anthropic / OpenAI RL 对齐研究 / NVIDIA SpatialClaw 空间推理框架 / 阿里 Zvec 开源向量数据库 / Grok 4.3 登陆 Bedrock / DeepSeek AutoResearch 开源 / 6 月最密集模型发布月）/ 科技产品与行业（美团 tabbit 免费旗舰模型 / 三星部署 ChatGPT Enterprise / Figure 机器人首超人类员工 / AI 员工 Viktor 登陆 Teams / 微软成全球最大 AI 中间商 / Cloudflare AI 智能体临时账户 / Coowa 计划港股 IPO）/ 经济政策要闻（FERC 电网历史性命令 / 八部门 AI+消费 政策 / L3/L4 自动驾驶国标公示 / JAWBONE Act 反审查法案 / 欧洲转向工业 AI）
+
