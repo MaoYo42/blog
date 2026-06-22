@@ -223,3 +223,8 @@
 
 ### 内容
 - **每日福利热点 | 2026-06-21** — GitHub（headroom Token 压缩神器 42K⭐ / tw93/Pake 网页转桌面应用 55K⭐ / skills 工程师技能集 138K⭐ / codebase-memory-mcp 代码知识图谱 9.4K⭐ / palmier-pro AI 视频编辑器 3.4K⭐ / turso 嵌入式 SQL 数据库 20K⭐ / OpenMontage 开源 AI 视频制作 7K⭐ / kilocode 编码 Agent 平台 23K⭐ / google-research/timesfm 时序基础模型 25K⭐ / penpot 开源设计工具 51K⭐）/ V2EX 热门（AI 有意义工具讨论、Vibe Coding 两年感想、GLM-4.7冒充 Claude、Claude vs Gemini 对比、New Siri 电子围栏、充电宝迫降社会话题、社交麻木情感讨论、Outlook 邮箱不受待见、Android 电视盒子推荐）/ Linux.do 热点（GPT-5.6 即将到来、端午抽小米手环9Pro、深夜福利十年域名、GPT 公益 618 签到、举报中转代充事件、Kivio AI 操控桌面应用、Codex Windows WSL2 讨论）/ 福利汇总（Leawo Photo Enhancer 免费1年授权 / AI Free Forever 1000+免费AI工具 / SteamDB 限免游戏 / 免费 Clash/V2ray 节点 / Linux.do 端午抽奖 / 免费域名）
+
+## 2026-06-22
+
+### 内容
+- **每日福利热点 | 2026-06-22** — GitHub（headroom Token 压缩神器 44K⭐ / skills 工程师技能集 139K⭐ / palmier-pro AI 视频编辑器 / OpenMontage 开源 AI 视频制作 / penpot 开源设计工具 / deer-flow 字节 SuperAgent / codebase-memory-mcp 代码知识图谱 / cognee AI 记忆平台）/ V2EX 热门（GPT/Claude 低价 API / 油管博主真话率 / codex 降智 GPT-5.6 上线传闻 / copilot 订阅现状 / A 股持续低迷）/ Linux.do 热点（GPT-5.6 即将发布 / 智谱市值破万亿 / 节后摸鱼聊闲天 / 千兆宽带升级体验）/ 福利汇总（阿里云免费 3 个月试用 / AWS 免费套餐+700 元券 / Free AppleID 共享 / OpenRouter 29+ 免费大模型 / 每日免费节点 / Trezzi App 送码）
