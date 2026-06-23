@@ -1,4 +1,8 @@
-## 2026-06-19
+
+## 2026-06-23
+
+### 内容
+- **每日福利热点 | 2026-06-23** — GitHub（OpenMontage 12K⭐/ palmier-pro 7.4K⭐/ skills 141K⭐/ daily_stock_analysis 45K⭐/ codebase-memory-mcp 11K⭐/ Anthropic-Cybersecurity-Skills 18K⭐/ deer-flow 73K⭐/ penpot 52K⭐）/ V2EX 热门（美食失望、城市反感、离婚感受、IT团队不动脑、二线养老推荐、Frset送终身会员）/ Linux.do 热点（GPT-5.6即将发布截胡Gemini、君の公益三级限制、Sakana AI Fugu Ultra、pi-app开源GUI、火山又放货、一天烧9200万token）/ 福利汇总（AtomGit免费GLM-5/Qwen3.5无限Token、DeepSeek免费API、Gemini 2.0 Flash免费层、Modal $30免费GPU、腾讯WorkBuddy 5000 Credits、Pollinations零密钥文生图）
 
 ### 内容
 - **每日福利热点 | 2026-06-19** — GitHub（headroom 37K⭐/ timesfm 24K⭐/ superpowers 233K⭐/ codebase-memory-mcp 7.7K⭐/ palmier-pro 1.5K⭐/ OpenMontage 6K⭐/ penpot 50K⭐/ iroh 10K⭐/ flue 5.7K⭐/ GLM-5 4.4K⭐）/ V2EX 热门（端午节抽奖送内存条、NAS停电损坏救援、德扑GTO机器人、年近40职场抉择、GLM5.2争议、Hermes Agent讨论）/ Linux.do 热点（GLM-5.2又快又蠢争议、医生用豆包看病、阿里云300元券、土区GPT涨价、多家公益站送额度）/ 福利汇总（GPT公益签到618刀、Raphael AI免费文生图、GPTHumanizer免费文本润色、免费节点每日更新、阿里云300元代金券、Torch/Torch中转站新站开业福利）
