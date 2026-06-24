@@ -243,3 +243,8 @@
 ### 内容
 - **每日科技速递 | 2026-06-22** — AI 大模型动态（Fable 5 禁令第 10 天 / Anthropic 韩国扩张 / AlphaFold 负责人 John Jumper 加入 Anthropic / OpenAI RL 对齐研究 / NVIDIA SpatialClaw 空间推理框架 / 阿里 Zvec 开源向量数据库 / Grok 4.3 登陆 Bedrock / DeepSeek AutoResearch 开源 / 6 月最密集模型发布月）/ 科技产品与行业（美团 tabbit 免费旗舰模型 / 三星部署 ChatGPT Enterprise / Figure 机器人首超人类员工 / AI 员工 Viktor 登陆 Teams / 微软成全球最大 AI 中间商 / Cloudflare AI 智能体临时账户 / Coowa 计划港股 IPO）/ 经济政策要闻（FERC 电网历史性命令 / 八部门 AI+消费 政策 / L3/L4 自动驾驶国标公示 / JAWBONE Act 反审查法案 / 欧洲转向工业 AI）
 
+
+## 2026-06-24
+
+### 内容
+- **每日科技速递 | 2026-06-24** — AI 模型动态（字节 Seed2.1 正式发布 / 京东 JoyAI-VL-Interaction 全栈交互模型开源 / 网易 Confucius4-TTS 14 语种语音克隆 / 豆包音频生成模型 1.0 / FastWan-QAD 单卡 5090 秒级视频生成 / Mistral OCR 4 / Krea 2 技术报告）/ 科技产品与行业（Anthropic Claude Tag Slack 协作 / Runway Seedance 4K 等三款新模型 / IBM 开源 CUGA 智能体框架 / 千问高考志愿 AI 测评 / 百度 Unlimited-OCR）/ 经济政策要闻（Oracle 裁员 21000 人 / 五眼联盟 AI 网络威胁警告 / 加州 AI 透明度法案争议 / OpenAI 共享标准建设）
