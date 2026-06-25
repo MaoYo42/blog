@@ -1,3 +1,8 @@
+
+## 2026-06-25
+
+### 内容
+- **每日科技速递 | 2026-06-25** — AI 大模型动态（OpenAI GPT-5.5 Instant 更新 / Bidi 1 双向语音模型测试 / 千问 Qwen-AgentWorld 开源 / Google Gemini 3.5 Flash 计算机使用 / Krea 2 技术报告）/ 科技产品与行业（OpenAI Broadcom Jalapeño 定制推理芯片 / 字节豆包专业版 / Notion+Cursor SDK 编码智能体 / Perplexity Computer for Counsel 法律服务 / Figma Config 2026 / 火山引擎 Agent Ready 基础设施 / Oracle 裁员 21000 人 / Mistral AI Connectors 升级）/ 经济政策要闻（UN 秘书长 AI 能源披露呼吁 / Five Eyes AI 网络威胁警告 / Google Play 开放替代支付 / 荷兰加入 Pax Silica 半导体联盟 / 中国 LineShine 超算登顶 / Baseten 15 亿美元融资）
 ## 2026-06-24
 
 ### 内容
