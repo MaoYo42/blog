@@ -258,3 +258,8 @@
 
 ### 内容
 - **每日科技速递 | 2026-06-24** — AI 模型动态（字节 Seed2.1 正式发布 / 京东 JoyAI-VL-Interaction 全栈交互模型开源 / 网易 Confucius4-TTS 14 语种语音克隆 / 豆包音频生成模型 1.0 / FastWan-QAD 单卡 5090 秒级视频生成 / Mistral OCR 4 / Krea 2 技术报告）/ 科技产品与行业（Anthropic Claude Tag Slack 协作 / Runway Seedance 4K 等三款新模型 / IBM 开源 CUGA 智能体框架 / 千问高考志愿 AI 测评 / 百度 Unlimited-OCR）/ 经济政策要闻（Oracle 裁员 21000 人 / 五眼联盟 AI 网络威胁警告 / 加州 AI 透明度法案争议 / OpenAI 共享标准建设）
+
+## 2026-06-26
+
+### 内容
+- **每日科技速递 | 2026-06-26** — AI 大模型动态（Ornith-1.0 开源 Agentic Coding 模型家族 / OpenRouter MCP 服务器上线 / OpenAI Codex 移动端 GA / Claude Code v2.1.193 / Midjourney V8.2 预览 / Runway Agent 2.0 / Google Gemini 3.5 Pro 推迟至 7 月 / Grok 集成盈透证券 / Google Finance Android 应用）/ 科技产品与行业（美国政府要求 OpenAI 暂缓 GPT-5.6 发布 / Anthropic 指控阿里非法提取 Claude 能力 / Meta AI 审核部署争议 / General Intuition 3.2 亿美元融资 / IBM 0.7nm 亚纳米级芯片 / 赫库兰尼姆古卷完整虚拟解读 / Suno Spark 孵化器）/ 经济政策要闻（欧盟 AI Act 全面执行 / Anthropic 估值 $965B IPO 目标 / OpenAI 月收入 $2B 但单位亏损 / AI IPO 通道总估值 $3.6T）
