@@ -1,3 +1,8 @@
+## 2026-06-26
+
+### 内容
+- **每日福利热点 | 2026-06-26** — GitHub（OpenMontage 22K⭐ / apple/container 43K⭐ / design.md 19K⭐ / MinerU 69K⭐ / gstack 115K⭐ / Anthropic-Cybersecurity-Skills 21K⭐ / MediaCrawler 52K⭐ / ai-website-cloner-template 20K⭐）/ V2EX 热门（苹果全线涨价20%、百亿Token限时送、高考专业推荐、Linux桌面开发、35岁失业）/ Linux.do 热点（GPT-5.6分批发布、字节豆包推荐Linux.do、苹果涨价京东下架、腾讯AI邮箱内测、Steam夏促）/ 福利汇总（百亿Token限时活动、干草铺服务站注册、腾讯AI邮箱内测、Steam夏促、公益API服务）
+
 
 ## 2026-06-25
 
