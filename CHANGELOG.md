@@ -263,3 +263,8 @@
 
 ### 内容
 - **每日科技速递 | 2026-06-26** — AI 大模型动态（Ornith-1.0 开源 Agentic Coding 模型家族 / OpenRouter MCP 服务器上线 / OpenAI Codex 移动端 GA / Claude Code v2.1.193 / Midjourney V8.2 预览 / Runway Agent 2.0 / Google Gemini 3.5 Pro 推迟至 7 月 / Grok 集成盈透证券 / Google Finance Android 应用）/ 科技产品与行业（美国政府要求 OpenAI 暂缓 GPT-5.6 发布 / Anthropic 指控阿里非法提取 Claude 能力 / Meta AI 审核部署争议 / General Intuition 3.2 亿美元融资 / IBM 0.7nm 亚纳米级芯片 / 赫库兰尼姆古卷完整虚拟解读 / Suno Spark 孵化器）/ 经济政策要闻（欧盟 AI Act 全面执行 / Anthropic 估值 $965B IPO 目标 / OpenAI 月收入 $2B 但单位亏损 / AI IPO 通道总估值 $3.6T）
+
+## 2026-06-27
+
+### 内容
+- **每日福利热点 | 2026-06-27** — GitHub（google-labs-code/design.md 视觉身份规范 21K⭐ / OpenMontage 开源AI视频制作 23K⭐ / ai-berkshire AI价值投资 3K⭐ / Agent-Reach 全网数据CLI工具 42K⭐ / gstack Garry Tan的Claude Code配置 116K⭐ / MinerU 文档→LLM格式 70K⭐ / TREK 自托管旅行规划 7K⭐ / free-for-dev 123K⭐）/ V2EX 热门（订婚婆媳同住热议 / 华为应用商店友好度 / AI编程等待摸鱼 / VIBE CODING ORM辩论 / LeanCloud终止服务 比亚迪股票）/ Linux.do 热点（GPT-5.6发布实测 / 360图龙锋仪天阵国产模型 / DeepSeek安全事故警示 / Claude Code源码泄露 / macOS 27金拱门体验 / 高考出分暖心帖 / Hermes用法合集）/ 福利汇总（Linux.do CHY公益站GLM-5.2免费 / Codex重置全部用户 / PackyCode抽Mac mini / GLM 5.2限时免费 / MiMo 150亿Token分享 / 干草铺服务站开放注册 / V2EX Mac神器送码 iOS睡眠App送码 / Google Cloud免费AI工具 / 腾讯云38元起）
