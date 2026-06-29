@@ -268,3 +268,8 @@
 
 ### 内容
 - **每日福利热点 | 2026-06-27** — GitHub（google-labs-code/design.md 视觉身份规范 21K⭐ / OpenMontage 开源AI视频制作 23K⭐ / ai-berkshire AI价值投资 3K⭐ / Agent-Reach 全网数据CLI工具 42K⭐ / gstack Garry Tan的Claude Code配置 116K⭐ / MinerU 文档→LLM格式 70K⭐ / TREK 自托管旅行规划 7K⭐ / free-for-dev 123K⭐）/ V2EX 热门（订婚婆媳同住热议 / 华为应用商店友好度 / AI编程等待摸鱼 / VIBE CODING ORM辩论 / LeanCloud终止服务 比亚迪股票）/ Linux.do 热点（GPT-5.6发布实测 / 360图龙锋仪天阵国产模型 / DeepSeek安全事故警示 / Claude Code源码泄露 / macOS 27金拱门体验 / 高考出分暖心帖 / Hermes用法合集）/ 福利汇总（Linux.do CHY公益站GLM-5.2免费 / Codex重置全部用户 / PackyCode抽Mac mini / GLM 5.2限时免费 / MiMo 150亿Token分享 / 干草铺服务站开放注册 / V2EX Mac神器送码 iOS睡眠App送码 / Google Cloud免费AI工具 / 腾讯云38元起）
+
+## 2026-06-29
+
+### 内容
+- **每日福利热点 | 2026-06-29** — GitHub（codebase-memory-mcp 19K⭐ 代码知识图谱 / ai-berkshire 5K⭐ AI价值投资 / simplex-chat 15K⭐ 隐私消息 / free-for-dev 125K⭐ / Vibe-Trading 14K⭐ / MinerU 71K⭐ / FluidVoice 3.7K⭐ / system-design-101 84K⭐）/ V2EX 热门（GLM-5.2+DeepSeek V4 0.3倍率、GPT额度重置、赛博溜猴吐槽、微信小微测试版、ZNote开源、Google Play 0.1刀大促）/ Linux.do 热点（Claude尼区渠道失效、Codex额度强制重置、尼区CCMax涨价、欧洲新渠道、联想内存涨价预警、惠普+OpenAI合作、Mimo Token Plan过期共享）/ 福利汇总（free-for-dev大全、GLM-5.2+DeepSeek V4 0.3倍率、Google Play 0.1刀大促、Mimo Token Plan共享、Google Cloud免费AI、24+免费AI工具、AIxploria 5000+工具目录）
