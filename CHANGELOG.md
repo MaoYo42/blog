@@ -273,3 +273,8 @@
 
 ### 内容
 - **每日福利热点 | 2026-06-29** — GitHub（codebase-memory-mcp 19K⭐ 代码知识图谱 / ai-berkshire 5K⭐ AI价值投资 / simplex-chat 15K⭐ 隐私消息 / free-for-dev 125K⭐ / Vibe-Trading 14K⭐ / MinerU 71K⭐ / FluidVoice 3.7K⭐ / system-design-101 84K⭐）/ V2EX 热门（GLM-5.2+DeepSeek V4 0.3倍率、GPT额度重置、赛博溜猴吐槽、微信小微测试版、ZNote开源、Google Play 0.1刀大促）/ Linux.do 热点（Claude尼区渠道失效、Codex额度强制重置、尼区CCMax涨价、欧洲新渠道、联想内存涨价预警、惠普+OpenAI合作、Mimo Token Plan过期共享）/ 福利汇总（free-for-dev大全、GLM-5.2+DeepSeek V4 0.3倍率、Google Play 0.1刀大促、Mimo Token Plan共享、Google Cloud免费AI、24+免费AI工具、AIxploria 5000+工具目录）
+
+## 2026-06-30
+
+### 内容
+- **每日福利热点 | 2026-06-30** — GitHub（free-for-dev 126K⭐ / simplex-chat 16.5K⭐ / agency-agents 118K⭐ / ai-berkshire 6.6K⭐ / video-use 11.9K⭐ / Vibe-Trading 15K⭐ / openpilot 62K⭐ / cupy 11.8K⭐）/ V2EX 热门（DeepSeek定价吐槽、冲动离职舍不得、Mac mini M4二手溢价、Codex重置、codex-runway工具）/ Linux.do 热点（Cursor iOS版发布、Jetbrains Air AI Agent、商汤免费GLM5.2、Codex重置讨论、公司电脑监控升级）/ 福利汇总（NVIDIA NIM免费API、智谱GLM永久免费、Google Cloud $300、AMD $100免费额度、腾讯云38元/年、商汤免费Coding Plan、Puter.js免费OpenAI API）
