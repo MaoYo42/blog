@@ -277,4 +277,6 @@
 ## 2026-06-30
 
 ### 内容
+- **每日科技速递 | 2026-06-30** — AI 大模型动态（美团 LongCat-2.0 旗舰模型发布 / Owl Alpha 成 OpenRouter 最流行模型 / X hosted MCP / Claude 登陆 Microsoft Foundry / Claude apps gateway / Meta Brain2Qwerty v2 / Agents-A1 35B MoE）/ 科技产品与行业（Cursor iOS 公测版 / OpenClaw 移动端 / 小红书 RedKnot 推理引擎 / EverOS 开源记忆运行时 / NVIDIA Rubin Ultra 取消 / 三星 SK 海力士 900 亿扩产 / SK 集团 1000 万亿韩元 AI 数据中心）/ 经济政策要闻（教育十五五规划 AI 全学段 / 美军 AI 选目标误炸学校悲剧 / OpenAI 欧洲 AI 劳动力报告 / AI 就业争论）
+
 - **每日福利热点 | 2026-06-30** — GitHub（free-for-dev 126K⭐ / simplex-chat 16.5K⭐ / agency-agents 118K⭐ / ai-berkshire 6.6K⭐ / video-use 11.9K⭐ / Vibe-Trading 15K⭐ / openpilot 62K⭐ / cupy 11.8K⭐）/ V2EX 热门（DeepSeek定价吐槽、冲动离职舍不得、Mac mini M4二手溢价、Codex重置、codex-runway工具）/ Linux.do 热点（Cursor iOS版发布、Jetbrains Air AI Agent、商汤免费GLM5.2、Codex重置讨论、公司电脑监控升级）/ 福利汇总（NVIDIA NIM免费API、智谱GLM永久免费、Google Cloud $300、AMD $100免费额度、腾讯云38元/年、商汤免费Coding Plan、Puter.js免费OpenAI API）
