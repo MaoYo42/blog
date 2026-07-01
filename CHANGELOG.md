@@ -1,3 +1,8 @@
+## 2026-07-01
+
+### 内容
+- **每日福利热点 | 2026-07-01** — GitHub（agency-agents 121K⭐ / exercises-dataset 6.8K⭐ / simplex-chat 17.4K⭐ / ai-berkshire 7.5K⭐ / superpowers 242K⭐ / free-for-dev 127K⭐ / video-use 12.6K⭐ / Vibe-Trading 15.8K⭐ / FluidVoice 4.9K⭐ / strix 28.2K⭐）/ V2EX 热门（Claude封号潮、A股走势、经济下行省钱、30+程序员去向、硅基流动招股书）/ Linux.do 热点（福利节点分享、Claude Code封号应对、GPT-5.6动态）/ 福利汇总（30+平台免费AI API、Google Gemini免费层、AWS $200额度、腾讯云3月试用、NVIDIA NIM免费、Steam限免）
+
 ## 2026-06-26
 
 ### 内容
