@@ -1,3 +1,7 @@
+## 2026-07-02
+
+### 内容
+- **每日福利热点 | 2026-07-02** — GitHub（agency-agents 123K⭐ / exercises-dataset 8.4K⭐ / strix 29.7K⭐ / AI-For-Beginners 50.4K⭐ / OmniRoute 9.5K⭐ / Vibe-Trading 16.5K⭐ / video-use 13.2K⭐ / facebook/astryx 2.6K⭐）/ V2EX 热门（Claude封号成本讨论、京东售后纠纷、Codex重置+4、AI 月费调查、豆包讨论）/ Linux.do 热点（中国银行羊毛福利、DailyBrief 开源项目、简历指导、后端语言选择）/ 福利汇总（AtomGit GLM-5免费无限调用、30+平台免费AI API、OpenRouter免费模型、Google Cloud AI工具、600+模型免费API）
 ## 2026-07-01
 
 ### 内容
