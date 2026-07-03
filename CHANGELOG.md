@@ -294,3 +294,8 @@
 
 ### 内容
 - **每日科技速递 | 2026-07-01** — AI 大模型动态（Claude Sonnet 5 发布 / Google Nano Banana 2 Lite & Gemini Omni Flash / 美团 LongCat-2.0 旗舰模型 / Claude Fable 5 全球恢复上线 / OpenAI GeneBench-Pro / Gemini 3.5 Pro 推迟至 7 月）/ 科技产品与行业（X hosted MCP / Acti 智能体键盘 / NotebookLM 短视频概览全量上线 / Claude Science 科研工作台 / Claude Desktop Linux 公测 / 特斯拉 Cybercab 道路测试 / 黑石 300 亿美元日本 AI 数据中心 / ADK Go 2.0 / 苹果 Creator Studio 更新）/ 经济政策要闻（美国 AI 芯片出口管制再扩大 / 商务部将 20 家日本实体列入关注名单 / The Economist AI 权力争夺封面 / 2026 AI 全球监管框架进展）
+
+## 2026-07-03
+
+### 内容
+- **每日科技速递 | 2026-07-03** — AI 大模型动态（Fable 5 全球恢复上线 7月7日计费新阶段 / Kimi K2.7 Code 登 GitHub Copilot / Anthropic 五角大楼军事用途分歧 / OpenAI 提议美国政府持股 5% 价值 426 亿美元 / 阿里巴巴 Page Agent 开源 DOM 操控 / 昆仑万维 Skywork Tags / Senior SWE-Bench 基准发布 / 达摩院 Elements Claw 超导 AI）/ 科技产品与行业（AI 版支付宝公测蚂蚁阿宝 / 微软 25 亿美元 Frontier Company 6000 名 AI 工程师派驻 / 花旗 Adobe 限制旗舰模型控成本 / 快手可灵 AI 获 20 亿美元注资 / Claude Enterprise 用量分析 / ghealth Google Health CLI / Runway 闲置 GPU 回收）/ 经济政策要闻（FTC AI 准确性政策声明 / OpenAI 政府持股方案 / 谷歌 2025 年用电量增 37% / Menlo Ventures 30 亿美元募资 / Fable 5 RLI 16.1% 自动化率）
