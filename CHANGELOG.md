@@ -299,3 +299,8 @@
 
 ### 内容
 - **每日科技速递 | 2026-07-03** — AI 大模型动态（Fable 5 全球恢复上线 7月7日计费新阶段 / Kimi K2.7 Code 登 GitHub Copilot / Anthropic 五角大楼军事用途分歧 / OpenAI 提议美国政府持股 5% 价值 426 亿美元 / 阿里巴巴 Page Agent 开源 DOM 操控 / 昆仑万维 Skywork Tags / Senior SWE-Bench 基准发布 / 达摩院 Elements Claw 超导 AI）/ 科技产品与行业（AI 版支付宝公测蚂蚁阿宝 / 微软 25 亿美元 Frontier Company 6000 名 AI 工程师派驻 / 花旗 Adobe 限制旗舰模型控成本 / 快手可灵 AI 获 20 亿美元注资 / Claude Enterprise 用量分析 / ghealth Google Health CLI / Runway 闲置 GPU 回收）/ 经济政策要闻（FTC AI 准确性政策声明 / OpenAI 政府持股方案 / 谷歌 2025 年用电量增 37% / Menlo Ventures 30 亿美元募资 / Fable 5 RLI 16.1% 自动化率）
+
+## 2026-07-04
+
+### 内容
+- **每日福利热点 | 2026-07-04** — GitHub（strix 34K⭐ AI渗透测试 / caveman 83K⭐ Token优化 / agency-agents 126K⭐ AI Agent平台 / facebook/astryx 4.7K⭐ 设计系统 / harvard-edge/cs249r_book 26K⭐ ML教材 / codex-plugin-cc 23K⭐ / chrome-devtools-mcp 45K⭐ / CubeSandbox 7K⭐ AI沙箱）/ V2EX 热门（阿里禁用Claude Code / AI洪峰已过 / 代充ChatGPT Plus致Apple ID受损 / 域名备案吐槽 / 演唱会生活感悟）/ Linux.do 热点（Grok出炉 / Kimi K3传本月发布2.5万亿参数 / 公益站阵亡 / DDR3价格反超DDR5 / Codex上下文保持技巧）/ 福利汇总（Grok免费模型 / 农行微信省钱月卡补货 / 24+免费AI工具合集 / 12条免费节点 / OneDayAI送一周套餐）
