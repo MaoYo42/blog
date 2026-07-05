@@ -1,3 +1,8 @@
+## 2026-07-05
+
+### 内容
+- **每日科技速递 | 2026-07-05** — AI 模型动态（xAI Grok 4.5 内测 / 美团 LongCat-2.0 开源 / Meta Watermelon 训练中 / 生数科技 Vidu S1 / 面壁 ForgeTrain）/ 科技行业新闻（全球 VC 创纪录 5100亿美元 / OpenAI 5% 政府股权提议 / Anthropic 五角大楼之争 / Anthropic 三星定制芯片 / 微软 Frontier 25亿美元 / 快手可灵 20亿美元注资 / NVIDIA 先计算后付款 / 首例 AI Agent 勒索攻击）/ 经济政策（Google 输欧盟反垄断终审 / Google 用电量飙升 37% / 联合国 AI for Good 委员会 / FTC AI 准确性监管 / Anthropic 关闭中国访问漏洞 / 国家网信办 AI 服务专章）
+
 ## 2026-07-02
 
 ### 内容
