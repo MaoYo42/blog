@@ -1,3 +1,8 @@
+## 2026-07-06
+
+### 内容
+- **每日科技速递 | 2026-07-06** — AI 大模型动态（美团 LongCat-2.0 MIT 开源 / 生数科技 Vidu S1 / xAI Grok 4.5 内测 / 面壁 ForgeTrain / Claude Sonnet 5 / Wan Video 音乐伴舞）/ 科技行业新闻（NVIDIA Kyber 推迟至 2028 / 扎克伯格 Prometheus 千兆瓦集群 / SK 海力士 280 亿美元 IPO / 首例 AI Agent 勒索攻击 / Safari MCP 服务器 / 阿里 Elements Claw 超导 AI / 特斯拉 Robotaxi 迈阿密 / 北大忆阻器芯片 / 联合国 AI 治理对话）/ 经济政策（国家网信办 AI 服务专章 / 欧盟 Chat Control 2.0 / AI 隐藏学习成本研究）
+
 ## 2026-07-05
 
 ### 内容
