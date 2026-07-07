@@ -2,16 +2,19 @@
 
 ### 内容
 - **每日科技速递 | 2026-07-07** — AI 大模型动态（LongCat-2.0 开源模型击败 GPT-5.5 / GPT-5.6 仍被锁定 / SWE-Together 新基准 Claude 领先 / Grok 4.5 私人 Beta / Fable 5 免费窗口关闭）/ 科技产品与行业（联合国 AI 治理对话 169 国参会 / 白宫自愿 AI 框架即将公布 / 马斯克 AI 设备原型 / Kling AI 28亿美元融资）/ 经济政策要闻（OpenAI 提议政府持股 5% / Anthropic 营收超越 OpenAI / 中国 AI 人格禁令 / 全球 AI 治理三种哲学碰撞）
+- **每日福利热点 | 2026-07-07** — GitHub（strix 持续霸榜 / exercises-dataset 433种健身数据 / alibaba page-agent / video-use / ai-berkshire）/ V2EX（AI Agent 自动化、macOS vs Windows 开发环境）/ Linux.do（自部署 LLM 硬件、Docker 最佳实践）/ 福利汇总（智谱 2000万Token / Groq 免费推理 / Epic 每周限免）
 
 ## 2026-07-06
 
 ### 内容
 - **每日科技速递 | 2026-07-06** — AI 大模型动态（美团 LongCat-2.0 MIT 开源 / 生数科技 Vidu S1 / xAI Grok 4.5 内测 / 面壁 ForgeTrain / Claude Sonnet 5 / Wan Video 音乐伴舞）/ 科技行业新闻（NVIDIA Kyber 推迟至 2028 / 扎克伯格 Prometheus 千兆瓦集群 / SK 海力士 280 亿美元 IPO / 首例 AI Agent 勒索攻击 / Safari MCP 服务器 / 阿里 Elements Claw 超导 AI / 特斯拉 Robotaxi 迈阿密 / 北大忆阻器芯片 / 联合国 AI 治理对话）/ 经济政策（国家网信办 AI 服务专章 / 欧盟 Chat Control 2.0 / AI 隐藏学习成本研究）
+- **每日福利热点 | 2026-07-06** — GitHub（browser-use/video-use 视频编辑 Agent / Robbyant lingbot-map 3D场景重建 / strix 持续霸榜 / alibaba page-agent / diegosouzapw 231家AI网关）/ V2EX（AI编程工具实测对比 Cursor vs Claude Code vs Codex / 远程办公讨论）/ Linux.do（Linux桌面选择 / 自建NAS方案）/ 福利汇总（免费AI网关 / Komi Store 开源应用商店 / Continue.dev 代码补全）
 
 ## 2026-07-05
 
 ### 内容
 - **每日科技速递 | 2026-07-05** — AI 模型动态（xAI Grok 4.5 内测 / 美团 LongCat-2.0 开源 / Meta Watermelon 训练中 / 生数科技 Vidu S1 / 面壁 ForgeTrain）/ 科技行业新闻（全球 VC 创纪录 5100亿美元 / OpenAI 5% 政府股权提议 / Anthropic 五角大楼之争 / Anthropic 三星定制芯片 / 微软 Frontier 25亿美元 / 快手可灵 20亿美元注资 / NVIDIA 先计算后付款 / 首例 AI Agent 勒索攻击）/ 经济政策（Google 输欧盟反垄断终审 / Google 用电量飙升 37% / 联合国 AI for Good 委员会 / FTC AI 准确性监管 / Anthropic 关闭中国访问漏洞 / 国家网信办 AI 服务专章）
+- **每日福利热点 | 2026-07-05** — GitHub（usestrix/strix AI安全渗透测试 / alibaba page-agent GUI Agent / xbtlin ai-berkshire 价值投资 / browser-use video-use / exercises-dataset 健身数据）/ 福利汇总（智谱 2000万Token / Google Gemini 免费API / Groq 免费推理 / 12+平台免费额度 / Epic 7月限免 / Steam独立游戏限免）
 
 ## 2026-07-02
 
