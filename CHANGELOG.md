@@ -1,3 +1,8 @@
+## 2026-07-09
+
+### 内容
+- **每日科技速递 | 2026-07-09** — GPT-5.6 Sol 今日全面发布（美国商务部正式放行）/ OpenAI GPT-Live 全双工语音模型发布 / Cursor×SpaceXAI 推出 Grok 4.5 / Anthropic 利润超 10 亿美元冲击 IPO / 加拿大 BC 省拟起诉 OpenAI 涉校园枪击 / GitLost GitHub AI 代理提示词注入漏洞 / 工信部发布 Claude Code 后门风险提示 / Anthropic GRAM 双重用途知识开关 / OpenAI 审计 SWE-Bench Pro 30% 缺陷 / HalluSquatting AI 僵尸网络攻击
+
 ## 2026-07-07
 
 ### 内容
