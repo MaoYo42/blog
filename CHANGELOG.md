@@ -1,6 +1,11 @@
 ## 2026-07-10
 
 ### 内容
+- **每日科技速递 | 2026-07-10** — OpenAI GPT-5.6 + ChatGPT Work 发布 / 蚂蚁灵波三连开源（LingBot-World 2.0 / LingBot-Video / LingBot-VLA 2.0）/ Elon Musk 盛赞 Anthropic / NVIDIA Nemotron Puzzle 吞吐量翻倍 / Meta Muse Spark 1.1 / Tesla Optimus Gen 3 定型量产 / Google SensorFM 健康基础模型 / 法国对英伟达反垄断临近 / Cognition SWE-1.7 / Ollama B轮融资 / Mistral Studio / LinkedIn 超40%长文为AI写作 / Claude 反思功能上线 / 微软 Flint 可视化语言 / Google LiteRT.js / ChatGPT Sites / 苹果三篇论文
+
+## 2026-07-10
+
+### 内容
 - **今日开源热点与福利 | 2026-07-10** — GitHub Trending（ai-job-search AI求职框架 / agent-skills 生产级编码技能 / OfficeCLI AI办公套件 / awesome-design-md / pentagi 渗透测试Agent / claude-cookbooks / DesktopCommanderMCP）；V2EX（GPT-5.6额度讨论 / Codex重置 / Claude重置 / 日亚周年庆苹果折扣）；Linux.do（GPT-5.6 Sol/Terra/Luna 三模型上线 / 多家公益站发放CDK / Grok-4.5上架 / API中转站充值赠送）；今日福利：GPT-5.6 全系免费体验、CDK兑换码、日亚折扣
 
 ## 2026-07-09
