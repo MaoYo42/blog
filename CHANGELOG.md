@@ -1,3 +1,8 @@
+## 2026-07-10
+
+### 内容
+- **今日开源热点与福利 | 2026-07-10** — GitHub Trending（ai-job-search AI求职框架 / agent-skills 生产级编码技能 / OfficeCLI AI办公套件 / awesome-design-md / pentagi 渗透测试Agent / claude-cookbooks / DesktopCommanderMCP）；V2EX（GPT-5.6额度讨论 / Codex重置 / Claude重置 / 日亚周年庆苹果折扣）；Linux.do（GPT-5.6 Sol/Terra/Luna 三模型上线 / 多家公益站发放CDK / Grok-4.5上架 / API中转站充值赠送）；今日福利：GPT-5.6 全系免费体验、CDK兑换码、日亚折扣
+
 ## 2026-07-09
 
 ### 内容
