@@ -1,3 +1,8 @@
+## 2026-07-11
+
+### 内容
+- **今日开源热点与福利 | 2026-07-11** — GitHub Trending（agent-skills AI Agent技能库 / bun JS运行时 / TypeScript / TencentDB-Agent-Memory 本地记忆 / claude-code-templates / asio / meshoptimizer / abseil-cpp）；V2EX（Codex重置 / FastAIToken 夏季福利 / 音乐收藏网站 / Windows文件管理器Zexor）；Linux.do（Anthropic全面封禁地下通道 / 武汉众邦银行接管）；今日福利：FastAIToken 开业优惠
+
 ## 2026-07-10
 
 ### 内容
