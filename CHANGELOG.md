@@ -1,6 +1,7 @@
 ## 2026-07-11
 
 ### 内容
+- **每日科技速递 | 2026-07-11** — Apple 起诉 OpenAI 窃取商业机密 / OpenAI 安全负责人离职 / Meta 撤下 Instagram AI 生成头像 / Claude Code 桌面版新增浏览器 v2.1.206 / DeepSeek-V4 Flash RL 训练登陆 AMD GPU / Perplexity 跨模型分析 / 蚂蚁集团开源 SGLang 推理框架 / 小红书 PIPO 新架构 / 百度搭子四项更新 / 宇树 G1 完成首例活体微创手术 / Musk 承认 Anthropic 领导者地位 / 博科圣地利用 AI 研究 / GitHub Copilot 成本优化 / Thinking Machines Lab 使命宣言
 - **今日开源热点与福利 | 2026-07-11** — GitHub Trending（agent-skills AI Agent技能库 / bun JS运行时 / TypeScript / TencentDB-Agent-Memory 本地记忆 / claude-code-templates / asio / meshoptimizer / abseil-cpp）；V2EX（Codex重置 / FastAIToken 夏季福利 / 音乐收藏网站 / Windows文件管理器Zexor）；Linux.do（Anthropic全面封禁地下通道 / 武汉众邦银行接管）；今日福利：FastAIToken 开业优惠
 
 ## 2026-07-10
