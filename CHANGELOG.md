@@ -1,3 +1,8 @@
+## 2026-07-12
+
+### 内容
+- **今日开源热点与福利 | 2026-07-12** — GitHub Trending（pgrust Rust重写PostgreSQL / DesktopCommanderMCP / stitch-skills Google Agent Skills / claude-cookbooks / bun JS运行时 / terraform / nasa fprime / meshoptimizer / claude-code-templates / home-assistant）；V2EX（grok-4.5 vs GPT-5.6对比 / Codex+AgentDraw做图 / 深圳赴港开卡羊毛 / CC Lights开源macOS状态栏 / ChatGPT当Codex用无限额度）；今日福利：Epic限免孤星猎人和战争交响曲、香港机票优惠今日截止、深圳赴港开卡0成本赚2000+
+
 ## 2026-07-11
 
 ### 内容
