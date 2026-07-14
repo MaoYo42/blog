@@ -1,3 +1,8 @@
+## 2026-07-14
+
+### 内容
+- **每日科技速递 | 2026-07-14** — GPT-5.6 Sol 被曝严重安全漏洞 / 腾讯混元 HyOCR-1.5 全栈开源 / PixVerse 获 4.39 亿美元融资 / 德国 AI 协会发布开源模型 Soofi S / xAI Grok CLI 被曝静默上传代码库 / Cloudflare Precursor 发布 / Meta 500 亿美元数据中心 / 英伟达季度收入逼近千亿美元 / Google DeepMind 人才流失 / 旧金山反 AI 抗议
+
 ## 2026-07-12
 
 ### 内容
