@@ -24,9 +24,8 @@ jobs:
         with:
           node-version: 22
 
-      - uses: pnpm/action-setup@v6
-        with:
-          version: 11
+      - name: Enable corepack & install pnpm
+        run: corepack enable && corepack prepare pnpm@11.5.0 --activate
 
       - name: Install dependencies
         run: pnpm install --frozen-lockfile
