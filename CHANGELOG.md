@@ -1,4 +1,9 @@
-## 2026-07-16
+### 2026-07-16
+
+### 内容
+- **每日科技速递 | 2026-07-16** — Thinking Machines 发布 975B 开源多模态模型 Inkling / OpenAI GPT-Red 自动化红队成功率 84% / 国行 Apple 智能备案完成、阿里千问集成 Apple Intelligence / xAI 开源 Grok Build 编程智能体 / 阿里 Qwen-Audio-3.0-Realtime 语音推理登顶 / NVIDIA Jetson Thor 发布 / WPS Comate AI 办公客户端推出 / Microsoft 培训销售贬低 OpenAI 和 Anthropic
+
+# 2026-07-16
 
 ### 内容
 - **今日开源热点与福利 | 2026-07-16** — GitHub Trending（OpenCut-app 开源CapCut替代 / Nutlope/hallmark Anti-AI-slop设计技能 / moeru-ai/airi 自托管Grok伴侣 / Dicklesworthstone/dcg 安全防护盾 / HKUDS/Vibe-Trading 交易Agent / openinterpreter 低成本编码Agent / HKUDS/DeepTutor 终身辅导系统 / Shubhamsaboo/awesome-llm-apps 100+AI应用 / YimMenuV2 GTA菜单）；今日福利：B站大会员每日限量800免费领、7月游戏限免合集、口袋学院物语2限免、免费节点合集
