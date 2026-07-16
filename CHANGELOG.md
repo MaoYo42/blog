@@ -1,3 +1,8 @@
+## 2026-07-16
+
+### 内容
+- **今日开源热点与福利 | 2026-07-16** — GitHub Trending（OpenCut-app 开源CapCut替代 / Nutlope/hallmark Anti-AI-slop设计技能 / moeru-ai/airi 自托管Grok伴侣 / Dicklesworthstone/dcg 安全防护盾 / HKUDS/Vibe-Trading 交易Agent / openinterpreter 低成本编码Agent / HKUDS/DeepTutor 终身辅导系统 / Shubhamsaboo/awesome-llm-apps 100+AI应用 / YimMenuV2 GTA菜单）；今日福利：B站大会员每日限量800免费领、7月游戏限免合集、口袋学院物语2限免、免费节点合集
+
 ## 2026-07-14
 
 ### 内容
