@@ -1,3 +1,8 @@
+### 2026-07-18
+
+### 内容
+- **每日科技速递 | 2026-07-18** — Kimi K3 2.8万亿参数模型登顶前端编码榜力压Fable 5和Sol / Apple诉OpenAI法律战升级向40名前员工发律师函 / Sora 2视频深度克隆真假难辨 / 通义Wan-Streamer v0.2端到端550ms / NVIDIA Nemotron 3 Embed系列发布 / Claude Code v2.1.212 / 欧盟裁定Google开放Android和Search / 台积电上调资本支出至600-640亿美元 / 月之暗面GTC 2026披露K2.5技术路线 / 世界AI合作组织协定在上海签署
+
 ### 2026-07-16
 
 ### 内容
