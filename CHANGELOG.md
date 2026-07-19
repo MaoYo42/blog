@@ -1,3 +1,8 @@
+### 2026-07-19
+
+### 内容
+- **每日科技速递 | 2026-07-19** — WAIC 2026上海开幕300+产品首发/华为Atlas 950 8192 NPU首次公展/OpenAI ChatGPT Sites公开测试一句话建站/Anthropic CISO发布智能体AI四问风险评估框架/transcribe.cpp开源跨平台语音转录库/阿里云Agent Native Cloud发布/Index Ventures称AI财富将面临再分配
+
 ### 2026-07-18
 
 ### 内容
