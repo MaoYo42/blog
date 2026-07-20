@@ -1,3 +1,8 @@
+### 2026-07-20
+
+### 内容
+- **今日开源热点与福利 | 2026-07-20** — GitHub Trending（code-review-graph Local-first代码智能图谱 / voicebox 开源AI语音工作室 / wigolo AI编码Agent本地优先Web / ai-engineering-from-scratch AI工程从零开始 / PostHog 自驱产品平台 / ktransformers 异构LLM推理优化 / AstrBot AI Agent框架 / microsoft-terminal）；今日福利：Epic/亚马逊7月限免持续、机场优惠码合集、国泰抽Switch2活动
+
 ### 2026-07-19
 
 ### 内容
