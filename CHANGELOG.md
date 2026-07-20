@@ -1,6 +1,11 @@
 ### 2026-07-20
 
 ### 内容
+- **每日科技速递 | 2026-07-20** — Qwen3.8 发布 2.4T 参数开源模型 / 昆仑万维宣布 2026 为"世界模型元年" / 面壁智能连发 MiniCPM-Robot 具身智能与 MiniCPM5-2B / ChatGPT Work 推建站/文档/邮件一体化 / 黄仁勋访日宣布日本 Vera Rubin AI 工厂 / Nvidia 发布 Nemotron 3 Embed 与 Audio-Visual Flamingo / 字节跳动 Seed Audio 1.0 发布 / Ollama 获 8800 万美元融资 / 欧盟裁定 Google 开放 Android 和 Search / Apple 起诉 OpenAI 升级
+
+### 2026-07-20
+
+### 内容
 - **今日开源热点与福利 | 2026-07-20** — GitHub Trending（code-review-graph Local-first代码智能图谱 / voicebox 开源AI语音工作室 / wigolo AI编码Agent本地优先Web / ai-engineering-from-scratch AI工程从零开始 / PostHog 自驱产品平台 / ktransformers 异构LLM推理优化 / AstrBot AI Agent框架 / microsoft-terminal）；今日福利：Epic/亚马逊7月限免持续、机场优惠码合集、国泰抽Switch2活动
 
 ### 2026-07-19
