@@ -20,7 +20,8 @@ try {
  * @returns Short key like cover/1.webp
  */
 function imagePathToKey(imagePath: string): string {
-  return imagePath.replace(/^\/img\//, '');
+  // Strip everything up to and including /img/ to handle BASE_URL prefixes
+  return imagePath.replace(/^.*\/img\//, '');
 }
 
 /**
