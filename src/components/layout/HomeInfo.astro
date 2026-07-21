@@ -29,7 +29,7 @@ const allTags = Object.entries(tags).map(([tag, count]) => ({ tag, count }));
 
 // 生成唯一 ID 前缀
 const uniqueId = `home-info-${Math.random().toString(36).substring(2, 11)}`;
-const { className } = Astro.props;
+const { className, isDrawer = false } = Astro.props;
 
 // Filter navigation items to exclude disabled series
 const filteredRouters = filterNavItems(routers, configuredSeriesSlugs, enabledSeriesSlugs, RESERVED_ROUTES);
@@ -43,8 +43,8 @@ const strippedPath = stripLocaleFromPath(Astro.url.pathname);
       class="shadow-card-darker hover:animate-shake h-full w-full rounded-full object-cover transition"
       src={(siteConfig.avatar ? `${import.meta.env.BASE_URL.replace(/\/?$/, '')}${siteConfig.avatar}` : `${import.meta.env.BASE_URL}img/avatar.webp`)}
       alt={`${siteConfig.name ?? ''} avatar`}
-      loading="eager"
-      fetchpriority="high"
+      loading={isDrawer ? 'lazy' : 'eager'}
+      fetchpriority={isDrawer ? 'low' : 'high'}
     />
     {christmasConfig.enabled && christmasConfig.features.christmasHat && <ChristmasHat />}
   </div>
