@@ -1,18 +1,18 @@
 /**
  * Navigator Component
  *
- * Navigation header with scroll-based visibility control.
- * Uses useScrollTrigger hook for optimized scroll handling.
+ * Top navigation bar. Always fixed at the top of the viewport.
+ * When scrolled past the hero banner, a background gradient fades in
+ * via the `with-background` class.
  */
 
 import ThemeToggle from '@components/theme/ThemeToggle';
 import { RESERVED_ROUTES } from '@constants/router';
 import { configuredSeriesSlugs, enabledSeriesSlugs, routers } from '@constants/site-config';
-import { useIsTablet } from '@hooks/useMediaQuery';
 import { useScrollTrigger } from '@hooks/useScrollTrigger';
 import { Icon } from '@iconify/react';
 import { cn, filterNavItems } from '@lib/utils';
-import { memo, useEffect, useRef } from 'react';
+import { memo, useEffect } from 'react';
 import { defaultLocale, localizedPath, resolveNavName, stripLocaleFromPath } from '@/i18n';
 import DropdownNav from './DropdownNav';
 import LanguageSwitcher from './LanguageSwitcher';
@@ -57,70 +57,17 @@ function ButtonLink({ url, label, isActive, children }: ButtonLinkProps) {
 }
 
 const Navigator = memo(function Navigator({ currentPath, locale = defaultLocale }: NavigatorProps) {
-  const { isBeyond, direction } = useScrollTrigger({
+  const { isBeyond } = useScrollTrigger({
     triggerDistance: 0.45,
     throttleMs: 80,
   });
 
-  const isTablet = useIsTablet();
   const strippedPath = stripLocaleFromPath(currentPath);
-  const isPostPageMobile = isTablet && strippedPath.startsWith('/post/');
-
-  const scrollEndTimerRef = useRef<ReturnType<typeof setTimeout> | null>(null);
-  const isScrollingRef = useRef(false);
-  const firstScrollRef = useRef(true);
 
   // Apply with-background class based on scroll position
   useEffect(() => {
     document.getElementById('site-header')?.classList.toggle('with-background', isBeyond);
   }, [isBeyond]);
-
-  // Handle header visibility based on scroll
-  useEffect(() => {
-    const siteHeader = document.getElementById('site-header');
-    const mobileMenuContainer = document.getElementById('mobile-menu-container');
-
-    // Skip first scroll
-    if (firstScrollRef.current) {
-      firstScrollRef.current = false;
-      return;
-    }
-
-    // Post page mobile: keep header visible during scroll
-    if (isPostPageMobile) {
-      if (scrollEndTimerRef.current) {
-        clearTimeout(scrollEndTimerRef.current);
-      }
-      isScrollingRef.current = true;
-
-      // Ensure header is visible
-      siteHeader?.classList.remove('-translate-y-full');
-      mobileMenuContainer?.classList.remove('-translate-y-full');
-
-      scrollEndTimerRef.current = setTimeout(() => {
-        isScrollingRef.current = false;
-      }, 800);
-      return;
-    }
-
-    // Normal behavior: hide on scroll down, show on scroll up
-    if (direction === 'down') {
-      siteHeader?.classList.add('-translate-y-full');
-      mobileMenuContainer?.classList.add('-translate-y-full');
-    } else if (direction === 'up') {
-      siteHeader?.classList.remove('-translate-y-full');
-      mobileMenuContainer?.classList.remove('-translate-y-full');
-    }
-  }, [direction, isPostPageMobile]);
-
-  // Cleanup timer on unmount
-  useEffect(() => {
-    return () => {
-      if (scrollEndTimerRef.current) {
-        clearTimeout(scrollEndTimerRef.current);
-      }
-    };
-  }, []);
 
   return (
     <div className="flex grow tablet:grow-0 items-center">

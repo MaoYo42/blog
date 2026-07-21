@@ -1,5 +1,8 @@
 ### 2026-07-21
 
+### 修复
+- **导航栏滚动自动隐藏** — 移除 scroll down 时隐藏导航栏的行为，导航栏始终固定可见。滚动经过 hero 横幅后保持 `with-background` 背景渐变效果。
+
 ### 内容
 - **今日开源热点与福利 | 2026-07-21** — GitHub Trending（voicebox AI语音工作室 / ai-agent-book AI智能体书籍 / cognee 知识图谱构建 / OmniRoute 全栈路由 / ktransformers 异构LLM推理 / ai-engineering-from-scratch AI工程起点）；V2EX 热议（裁员与空窗期、拼多多争议、大模型用户黏性、东南亚安全）；AI 新闻（SpaceX 600亿美元收购Cursor / Qwen3.6 27B发布 / OpenAI GPT-5.6 系列 / AWS 10亿美元AI嵌入计划）
 
