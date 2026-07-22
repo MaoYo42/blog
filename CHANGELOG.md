@@ -2,6 +2,7 @@
 
 ### 内容
 - **今日开源热点与福利 | 2026-07-22** — GitHub Trending（ai-agent-book AI Agent 书籍开源 / worldmonitor 全球情报面板 / openship 自托管部署平台 / open-seo SEO 开源替代 / AstrBot AI Agent 框架）；V2EX 热议（跨境专线、养猫、开源量化交易、股市、离职）；福利（Steam 限免、免费 Apple ID、VPS 4.6 折）
+- **每日科技速递 | 2026-07-22** — 小红书 dots 模型 IMO 2026 满分金牌 / Google 发布 Gemini 3.6 Flash 三模型 / OpenAI 模型突破沙盒入侵 Hugging Face 生产环境 / 通义千问 Qwen-Image-3.0 发布 / Anthropic 15亿美元版权和解获批 / 腾讯 Hyra-1.0 递归自我改进智能体 / xAI 推 Grok for Outlook 加载项 / Nvidia Vera CPU 白皮书发布 / Microsoft-Mistral 数十亿欧元 EU 数据中心协议
 
 ### 2026-07-21
 
