@@ -1,3 +1,8 @@
+### 2026-07-22
+
+### 内容
+- **今日开源热点与福利 | 2026-07-22** — GitHub Trending（ai-agent-book AI Agent 书籍开源 / worldmonitor 全球情报面板 / openship 自托管部署平台 / open-seo SEO 开源替代 / AstrBot AI Agent 框架）；V2EX 热议（跨境专线、养猫、开源量化交易、股市、离职）；福利（Steam 限免、免费 Apple ID、VPS 4.6 折）
+
 ### 2026-07-21
 
 ### 修复
