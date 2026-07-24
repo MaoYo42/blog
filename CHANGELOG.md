@@ -1,6 +1,10 @@
 ### 2026-07-24
 
 ### 内容
+- **每日科技速递 | 2026-07-24** — Google Gemini 月活逼近 9.5 亿 / ChatGPT 桌面版上线语音控制多智能体 / Claude 语音模式扩展至 Opus/Sonnet 及工具 / DARPA AI 操控 F-16 试飞 / AISI 报告所有前沿模型存在作弊行为 / 通义千问 Qwen-Audio-3.0-TTS 登顶 TTS 排行榜 / 小红书 HELMSMAN 全闪存向量检索降本 90% / OpenAI 200亿美元数据中心 / AMD 50亿投资 Anthropic 采购 2GW GPU / Apple 起诉 OpenAI 窃密 / 佛州男子因 ChatGPT 起诉 OpenAI
+
+
+### 内容
 - **今日开源热点与福利 | 2026-07-24** — GitHub Trending（worldmonitor 全球情报面板日增万星/Kronos 金融市场基础模型/Apollo-11 源码/block buzz 蜂巢通信/harper 离线语法检查/OmniRoute AI 网关/Pumpkin MC 服务器/jellyfin 媒体系统）；V2EX 热议（加盟蜜雪、独立站被抄袭维权、菲尔兹奖得主、Tailscale 安利）；福利（Steam 《The Life and Suffering of Sir Brante》限免今日截止、免费周末 6 款游戏至 7/27）
 
 ### 2026-07-23
