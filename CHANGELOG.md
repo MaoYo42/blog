@@ -1,3 +1,8 @@
+### 2026-07-25
+
+### 内容
+- **今日开源热点与福利 | 2026-07-25** — GitHub Trending（block/buzz 蜂巢通信 / worldmonitor 全球情报面板 / awesome-claude-skills / Pumpkin MC 服务器 / Kronos 金融基础模型 / harper 离线语法检查 / likec4 架构可视化 / ego-lite AI代理浏览器）；V2EX 热议（AI中转/API涨价、DNS/DoH污染、Claude Opus 5发布、玻利维亚区ChatGPT、抄袭维权、VibeCoding讨论）；福利（免费节点每日更新、姬游社免费galgame、云计算赠金白嫖VPS）
+
 ### 2026-07-24
 
 ### 内容
