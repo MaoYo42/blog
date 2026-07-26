@@ -1,3 +1,8 @@
+### 2026-07-26
+
+### 内容
+- **今日开源热点与福利 | 2026-07-26** — GitHub Trending（alibaba/open-code-review 阿里开源代码审查 / block/buzz 蜂巢通信 / ego-lite AI代理浏览器 / awesome-claude-skills / claude-cookbooks / harper 离线语法检查 / Kronos 金融模型 / Pumpkin MC / bitchat 蓝牙聊天）；V2EX 热议（OpenAI GPT 全网 503 宕机 / GPT 5.6 Pro 降智 / 独立开发者收款 / 100W躺平讨论 / codex前端体验）；Linux.do 热议（DeepSeek暂停第二轮融资 / GPT崩溃 / 公益福利持续发放 / Grok破限工具 / 小鸡毛更新）；福利（OOIOO注册送5刀、一叶知秋送10刀）
+
 ### 2026-07-25
 
 ### 内容
