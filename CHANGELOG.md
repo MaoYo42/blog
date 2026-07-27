@@ -1,3 +1,9 @@
+
+### 2026-07-27
+
+### 内容
+- **今日开源热点与福利 | 2026-07-27** — GitHub Trending（esp32-ai 边缘 AI / thinking-orbs AI Agent 动画 / ai-copywriter AI 文案 / Claude-of-Duty FPS 游戏 / story-to-handdrawn-video 手绘视频 / hyperliquid-tracker / cindy AI Agent / pi-textbook）；V2EX 热议（CLI Agent vs GUI / 程序员暑假带娃 / 躺平讨论 / PHPer 转 Java / 输入法讨论）
+
 ### 2026-07-26
 
 ### 内容
