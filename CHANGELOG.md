@@ -1,4 +1,6 @@
 ### 2026-07-28
+### 内容
+- '"每日科技速递 | 2026-07-28 -- AI · 科技 · 经济"' -- Kimi K3 2.8T 正式开源权重技术报告与三项 Infra / NVIDIA 牵头 Open Secure AI Alliance / NVIDIA 据称 2500 亿美元担保 OpenAI 数据中心 / Google AI Overviews 出现率升至 43% / Anthropic 澄清开源立场 / Cognizant 成为 Anthropic 全球首要合作伙伴 / GitHub Copilot Harness 工作流 / Suno MIDI 导出 / FeyNoBg 开源 SOTA 背景去除
 
 ### 内容
 - **今日开源热点与福利 | 2026-07-28** — GitHub Trending（bitchat 蓝牙Mesh聊天 2,346⭐ / airi 自托管AI伴侣 / superfile 终端文件管理器 / alibaba/open-code-review 阿里开源代码审查 / amnezia-vpn VPN客户端 / GeoLibre GIS平台 / Kronos / impeccable）；V2EX 热议（StableFast AI Codex福利 / 输入法讨论 / iPhone Agent项目 / 中年失业话题）；Linux.do 热议（GPT重置通知 / AI中转站福利扎堆）；福利（7月大模型API白嫖千万Token / Steam限免 / 移动免费流量2GB / 苹果美区账号共享）
