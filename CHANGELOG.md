@@ -1,3 +1,8 @@
+### 2026-07-28
+
+### 内容
+- **今日开源热点与福利 | 2026-07-28** — GitHub Trending（bitchat 蓝牙Mesh聊天 2,346⭐ / airi 自托管AI伴侣 / superfile 终端文件管理器 / alibaba/open-code-review 阿里开源代码审查 / amnezia-vpn VPN客户端 / GeoLibre GIS平台 / Kronos / impeccable）；V2EX 热议（StableFast AI Codex福利 / 输入法讨论 / iPhone Agent项目 / 中年失业话题）；Linux.do 热议（GPT重置通知 / AI中转站福利扎堆）；福利（7月大模型API白嫖千万Token / Steam限免 / 移动免费流量2GB / 苹果美区账号共享）
+
 
 ### 2026-07-27
 
