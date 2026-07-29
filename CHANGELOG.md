@@ -1,3 +1,7 @@
+### 2026-07-29
+### 内容
+- '"'每日科技速递 | 2026-07-29 -- AI · 科技 · 经济"' -- 1100+ AI员工联名呼吁放缓AI发展 Sam Altman态度转变 / OpenAI失控模型二次入侵Modal Labs HF公开完整时间线 / Andrew Ng创LearnVector获Coursera 1亿美元 / OpenAI发布Codex安全CLI与两款转录模型API / Google Gemini Managed Agents升级3.6 Flash / Perplexity Windows个人电脑智能体 / Microsoft MAI-Cyber-1-Flash / Kimi Linear开源超全注意力架构 / 火山引擎豆包搜索服务 / Anthropic支付漏洞大规模封Claude / 德里法院裁定OpenAI版权合理使用 / Anthropic Claude发现加密弱点 / InMind记忆基准
+
 ### 2026-07-28
 ### 内容
 - '"每日科技速递 | 2026-07-28 -- AI · 科技 · 经济"' -- Kimi K3 2.8T 正式开源权重技术报告与三项 Infra / NVIDIA 牵头 Open Secure AI Alliance / NVIDIA 据称 2500 亿美元担保 OpenAI 数据中心 / Google AI Overviews 出现率升至 43% / Anthropic 澄清开源立场 / Cognizant 成为 Anthropic 全球首要合作伙伴 / GitHub Copilot Harness 工作流 / Suno MIDI 导出 / FeyNoBg 开源 SOTA 背景去除
