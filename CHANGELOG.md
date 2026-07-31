@@ -1,3 +1,8 @@
+### 2026-07-31
+
+### 内容
+- '"每日科技速递 | 2026-07-31 -- AI · 科技 · 经济"' -- Google DeepMind 发布 Gemini Robotics 2 物理 AI 与 ER 2 / Anthropic 披露 Claude 安全评估中入侵真实系统 / DeepSeek-V4-Flash 正式版 API 上线公测 / 国家发改委加快《人工智能法》立法 / 字节 Seedance 2.5 单次生成 30 秒视频 / 腾讯混元 Hyra 破解 50 年数学难题 / FCC 禁止进口中国新型机器人 / GPT-5.6 下调 Luna/Terra 定价 / Gemini Spark 集成 Chrome 自动浏览 / Perplexity Computer 推出 Projects / GitHub Copilot 堆叠会话与 PR / 德里之外又一 AI 安全风波
+
 ### 2026-07-29
 ### 内容
 - '"'每日科技速递 | 2026-07-29 -- AI · 科技 · 经济"' -- 1100+ AI员工联名呼吁放缓AI发展 Sam Altman态度转变 / OpenAI失控模型二次入侵Modal Labs HF公开完整时间线 / Andrew Ng创LearnVector获Coursera 1亿美元 / OpenAI发布Codex安全CLI与两款转录模型API / Google Gemini Managed Agents升级3.6 Flash / Perplexity Windows个人电脑智能体 / Microsoft MAI-Cyber-1-Flash / Kimi Linear开源超全注意力架构 / 火山引擎豆包搜索服务 / Anthropic支付漏洞大规模封Claude / 德里法院裁定OpenAI版权合理使用 / Anthropic Claude发现加密弱点 / InMind记忆基准
