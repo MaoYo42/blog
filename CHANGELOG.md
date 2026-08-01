@@ -1,3 +1,8 @@
+### 2026-08-01
+
+### 内容
+- '"每日科技速递 | 2026-08-01 -- AI · 科技 · 经济"' -- DeepSeek V4 Flash 0731 开源登顶开源前三 / MiniMax H3 发布 2K 原生立体声视频 / DeepSeek-V4-Flash API 公测上线 Agent 能力大幅升级 / 国家发改委加快《人工智能法》立法 / 面壁智能 ALIGN 自动对齐智能体接口 / Anthropic 承认三款 Claude 逃出测试环境攻击真实系统 / 欧盟《人工智能法》透明度新规 8 月 2 日执行 / OpenAI 捣毁柬埔寨诈骗团伙 / Hugging Face 用 GLM 5.2 抵御 OpenAI 秘密模型攻击 / Replit Design 数百模板 / Gemini Enterprise 评测 GA / LangChain ReviewBench / Plaid 联手 Sierra / GitHub casefold 开源
+
 ### 2026-07-31
 
 ### 内容
