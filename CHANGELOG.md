@@ -2,6 +2,7 @@
 
 ### 内容
 - **今日开源热点与福利 | 2026-08-02** — GitHub Trending（microsoft/AI-For-Beginners / awesome-systematic-trading 系统化交易 / usekaneo/kaneo 开源项目管理 / generative-ai-for-beginners / zhaoxuya520/reverse-skill 逆向合集 / github/copilot-sdk）；V2EX 热议（Side Project 30天有用户 / 丑工具月流水4700 / OpenAI 数学成果 / Codex 变慢 / AI API 聚合）；Linux.do 热议（宝可梦机场八月免费兑换码 / Google Workspace 涨价 / GPT 公益站变少 / DeepSeek V4 Flash 体验 / OpenAI Team 未知用户）；福利（宝可梦机场八月免费码 / 微软 AI 免费教程 / AI API 聚合试用 / Kaneo 自托管）
+- '"每日科技速递 | 2026-08-02 -- AI · 科技 · 经济"' -- OpenAI Astra 约2000美元证明10项数学难题附Lean证书 / 慕尼黑法院裁定Suno侵犯GEMA版权驳回合理使用 / 美国会调查DoorDash使用月之暗面Kimi K2.6 / MiniMax H3 即将开源 / 山东AI OPC人才方案 / DeepSeek V4 Flash单任务成本低60% / 腾讯混元AngelSpec开源 / 高通完成收购Modular / Gemini Spark开放160+国家集成Chrome / Grok新增视频分析 / ChatGPT Work周期性任务 / 2026科技裁员超去年全年 / Figure F.03自主爬梯 / 谷歌LMChat雪藏爆料 / 明尼苏达AI脱衣禁令生效
 
 ### 2026-08-01
 
