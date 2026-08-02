@@ -1,3 +1,8 @@
+### 2026-08-02
+
+### 内容
+- **今日开源热点与福利 | 2026-08-02** — GitHub Trending（microsoft/AI-For-Beginners / awesome-systematic-trading 系统化交易 / usekaneo/kaneo 开源项目管理 / generative-ai-for-beginners / zhaoxuya520/reverse-skill 逆向合集 / github/copilot-sdk）；V2EX 热议（Side Project 30天有用户 / 丑工具月流水4700 / OpenAI 数学成果 / Codex 变慢 / AI API 聚合）；Linux.do 热议（宝可梦机场八月免费兑换码 / Google Workspace 涨价 / GPT 公益站变少 / DeepSeek V4 Flash 体验 / OpenAI Team 未知用户）；福利（宝可梦机场八月免费码 / 微软 AI 免费教程 / AI API 聚合试用 / Kaneo 自托管）
+
 ### 2026-08-01
 
 ### 内容
