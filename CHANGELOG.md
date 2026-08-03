@@ -2,6 +2,7 @@
 
 ### 内容
 - **今日开源热点与福利 | 2026-08-03** — GitHub Trending（microsoft/AI-For-Beginners / generative-ai-for-beginners / codecrafters-io/build-your-own-x 手写X教程 / iv-org/invidious 开源YouTube前端 / zhaoxuya520/reverse-skill 逆向合集 / different-ai/openwork AI工作流）；V2EX 与 Linux.do 数据源暂不可用；福利（微软 AI 免费课程）
+- '"每日科技速递 | 2026-08-03 -- AI · 科技 · 经济"' -- 阿里巴巴正式发布Qwen3.8-Max 2.4万亿参数首次开源Max级权重 / 小米MiMo-V2.5登顶OpenRouter周调用量全球第一 / Gary Marcus质疑OpenAI Astra数学成果被过度吹捧 / Cloudflare开启Agents Week探讨Agent Cloud形态 / Thinking Machines发布Inkling-Small开源 / Codex用Sol指挥Luna Max省额度翻倍产出
 
 ### 2026-08-02
 
