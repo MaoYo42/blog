@@ -1,3 +1,8 @@
+### 2026-08-03
+
+### 内容
+- **今日开源热点与福利 | 2026-08-03** — GitHub Trending（microsoft/AI-For-Beginners / generative-ai-for-beginners / codecrafters-io/build-your-own-x 手写X教程 / iv-org/invidious 开源YouTube前端 / zhaoxuya520/reverse-skill 逆向合集 / different-ai/openwork AI工作流）；V2EX 与 Linux.do 数据源暂不可用；福利（微软 AI 免费课程）
+
 ### 2026-08-02
 
 ### 内容
