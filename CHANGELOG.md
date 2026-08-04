@@ -1,3 +1,8 @@
+### 2026-08-04
+
+### 内容
+- **今日开源热点与福利 | 2026-08-04** — GitHub Trending（zhaoxuya520/reverse-skill / firecrawl/pdf-inspector / microsoft/AI-For-Beginners / TencentCloud/TencentDB-Agent-Memory / lyogavin/airllm / esengine/DeepSeek-Reasonix / microsoft/generative-ai-for-beginners）；V2EX 与 Linux.do 数据源暂不可用；福利（免费代理节点分享 / 微软免费 AI 课程 / Firecrawl PDF 工具开源）
+
 ### 2026-08-03
 
 ### 内容
