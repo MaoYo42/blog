@@ -2,6 +2,7 @@
 
 ### 内容
 - **今日开源热点与福利 | 2026-08-04** — GitHub Trending（zhaoxuya520/reverse-skill / firecrawl/pdf-inspector / microsoft/AI-For-Beginners / TencentCloud/TencentDB-Agent-Memory / lyogavin/airllm / esengine/DeepSeek-Reasonix / microsoft/generative-ai-for-beginners）；V2EX 与 Linux.do 数据源暂不可用；福利（免费代理节点分享 / 微软免费 AI 课程 / Firecrawl PDF 工具开源）
+- '"每日科技速递 | 2026-08-04 -- AI · 科技 · 经济"' -- 商汤开源 SenseNova U1.5-Lite-Preview 8B-MoT 轻量统一多模态模型 / 面壁智能开源 ForgeStencil 一周自动优化100+工业软件 / MiniMax H3 正式开源 / OpenAI 宣布 GPT-5.6 Luna 降价80%永久生效 / OpenAI 发布 GPT-Live 实时音频新架构 / 微软开源 Orchard 智能体训练框架 / Cloudflare Agents Week 三连发 / Palantir CEO 炮轰前沿AI实验室 Q2营收19亿美元 / 欧盟AI法案透明度规则生效最高罚1500万欧元 / Anthropic 数学家24小时复现 OpenAI Astra 半数结果
 
 ### 2026-08-03
 
