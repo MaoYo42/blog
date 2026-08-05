@@ -1,3 +1,8 @@
+### 2026-08-05
+
+### 内容
+- '"每日科技速递 | 2026-08-05 -- AI · 科技 · 经济"' -- 字节Seed发布SeedRealtime音视频全双工大模型实现边看边听边说 / 商汤开源SenseNova U1统一推理与图像生成 / 蚂蚁百灵Ling-3.0-flash开源 / 腾讯混元Hy ASR 3.0 preview / 工信部发布首部L3/L4自动驾驶安全强制性国标2027年7月实施 / NVIDIA开放商用Alpamayo 2 Super开源Robotaxi推理模型 / Anthropic与云初创Volta签署100亿美元算力协议 / Google发布Gemini Robotics ER 2 / OpenAI披露第三方网络安全评估事件并强化保障 / OpenRouter上线FLUX 3 Video / Cloudflare推出Agents平台与本地追踪 / Google Cloud API Gateway统一模型路由 / NVIDIA开源cuFile API / Video-DeepResearch与Any-OPD两篇论文
+
 ### 2026-08-04
 
 ### 内容
