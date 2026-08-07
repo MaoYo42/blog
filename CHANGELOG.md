@@ -1,3 +1,8 @@
+### 2026-08-07
+
+### 内容
+- '"每日科技速递 | 2026-08-07 -- AI · 科技 · 经济"' -- Google AI 领导层大地震 Jeff Dean 离职创办 DiscoLoop AI 哈萨比斯转任主席专注AGI / NVIDIA 发布 Cosmos 3 开放物理AI全模态模型 / ChatGPT 改进版 GPT-5.6 Sol 免费用户无限次 Luna / Agent Plugins 1.0.0 谷歌亚马逊微软统一智能体插件规范 / 微软首次披露 OpenAI 贡献七成 AI 收入 / 千问 Wan3.0 视频模型全网公测 / 千问功能上新支持 Qwen3.8-MAX / Qwen-Image-3.0 高分辨率低至 0.03 美元 / 宇树科技科创板定价 150.8 元市值约 610 亿 / Kimi K3 登陆 Databricks / 科学家首次用 AI 制造新病毒 / Cursor Router 自动路由模型成本降68% / OpenAI 开源 Codex Security / Perplexity 购物智能体重返 Amazon / SpaceX AI 算力上太空 / Google Assistant 退场 Gemini 接棒 / 阿谀奉承 AI 研究 / Microsoft SkillOpt 技能跨模型迁移 / AI 螺旋主义现象
+
 ### 2026-08-05
 
 ### 修复
