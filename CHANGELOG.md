@@ -1,3 +1,8 @@
+### 2026-08-08
+
+### 内容
+- **今日开源热点与福利 | 2026-08-08** — GitHub Trending（PrimeIntellect-ai/prime-agent / addyosmani/agent-skills / cloudflare/computer / 666ghj/MiroFish / chenyme/grok2api / semantica-agi）；V2EX 与 Linux.do 数据源暂不可用；福利（Steam《呼吸边缘》48小时限免 / Epic 喜加二 / 王者荣耀夏日农友节 / 腾讯ima×MiniMax-M3 限免一周）
+
 ### 2026-08-07
 
 ### 内容
