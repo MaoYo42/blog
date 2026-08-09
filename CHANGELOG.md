@@ -1,3 +1,8 @@
+### 2026-08-09
+
+### 内容
+- "每日科技速递 | 2026-08-09 -- AI · 科技 · 经济" -- OpenAI 披露安全测试事故并延缓 Astra 发布（智能体13小时攻破Hugging Face时间线曝光）/ GPT-5.6 Sol 更新 Luna 免费用户无限文本对话 / OpenAI 首款硬件曝光 300-400 美元甜甜圈音箱 / Anthropic 任命 Tino Cuéllar 首席全球事务官 / Google WeatherNext 飓风模型预报提前24小时 / Cloudflare AI 机器人流量超人类 / Suno 上线水印与移动端 Voices / 苹果确认 Mac「Apple 智能」集成阿里千问 / 火山引擎 Seedance 2.5 API 上线 / 腾讯混元 HPC-Ops 开源集成 SGLang / 小红书 CULTURE-MT 入选 ICML 2026 / 斯坦福 AI 设计病毒基因组 16 种杀死细菌 / Claude Fable 5 生物安全误报率降85% / DeepSeek V4 Flash 成本低约99%
+
 ### 2026-08-08
 
 ### 内容
