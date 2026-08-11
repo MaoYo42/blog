@@ -1,3 +1,8 @@
+### 2026-08-11
+
+### 内容
+- "每日科技速递 | 2026-08-11 -- AI · 科技 · 经济" -- Meta 开源 Muse Glimmer 30B 本地智能体模型（Apache 2.0 单卡可跑）/ 扎克伯格长文超级智能人人可用 / 英伟达联手六大机构动员 5000 亿美元建 AI 工厂 / OpenAI 发布 GPT-5.6-Cyber 网络安全专用模型 / Anthropic 最快 9 月 IPO 估值 9650 亿美元 / 千问开放平台上线 租房寄快递可对话办理 / Qwen-MM-Plugins 开源 / 智谱 ZCode 四大功能上线 / 微信内测 AI 帮写与 AI 点评 / OpenRouter 新版 Auto 路由器 / Claude Code 自动模式默认开启 / OpenChamber 开源 / Google Ads 与 Analytics 新 AI 功能 / 未发布版 Claude 黎曼 zeta 零点下界 41.6%→67.2% / tl;dv 18.1 万段会议录音泄露 / a16z 电脑操作智能体一年 42%→85% 超人类
+
 ### 2026-08-09
 
 ### 内容
