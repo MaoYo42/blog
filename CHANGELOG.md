@@ -1,3 +1,8 @@
+### 2026-08-12
+
+### 内容
+- "每日科技速递 | 2026-08-12 -- AI · 科技 · 经济" -- ChatGPT 与 Gemini 双双突破 10 亿用户 / 英伟达开源 Nemotron 3.5 Lightning 单 GPU 可跑 / 消息称开发万亿参数开源模型 Nemotron 4 / 研究人员发现可读取 ChatGPT 等模型加密推理过程的 API 漏洞 / 蚂蚁百灵开源 Ling-3.0-tiny 推理仅激活 1.3B 参数 / 国内首部 GEO 可信传播团体标准发布 / Runway Seedance 2.5 支持 50 角色参考 / ChatGPT 桌面端支持导入其他智能体数据 / Google AMIE 首次实时临床视频问诊 / Databricks 开源 Metals v2 / Mojo 1.0 正式发布
+
 ### 2026-08-11
 
 ### 内容
