@@ -1,3 +1,8 @@
+### 2026-08-14
+
+### 内容
+- **今日开源热点与福利 | 2026-08-14** — GitHub Trending（cathrynlavery/diagram-design / macro-inc/macro / cactus-compute/needle / semantica-agi/semantica / NVIDIA-NeMo/Switchyard / unslothai/unsloth / anthropics/skills）；V2EX 热门可采集（local.ai / 秋招难找 / NAS 选购）、Linux.do 数据源暂不可用；福利（Steam《德波尼亚》限时免费 / Epic《沙巫之旅》喜加一 / Prime Gaming 8月第二批 / iOS 演讲教练终身版限免 / NVIDIA RTX 5080 抽奖）
+
 ### 2026-08-12
 
 ### 内容
