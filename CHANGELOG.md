@@ -1,3 +1,8 @@
+### 2026-08-15
+
+### 内容
+- "每日科技速递 | 2026-08-15 -- AI · 科技 · 经济" -- GLM-5.3 发布（743B 基座仅靠后训练 Scaling，编程开源第一、网络安全能力超预期并发现 Cursor 严重漏洞）/ SpaceX 600 亿美元完成收购 Cursor（并入全球最大 GPU 集群）/ OpenAI 与 Anthropic 价格战（GPT-5.6 最高降价 80%）/ 小红书开源 dots3-note Preview（280B/16B 激活、512K 上下文）/ 通义千问开源 Qwen3.8 系列 / DeepSeek V4 Pro 登陆硅基流动（1M 上下文）/ Gemini 3.7 Flash 全面上线 / Claude 文本水印机制（SynthID-Text，欧盟 AI 法案）/ 印尼首个大学 AI 中心落成 / OpenRouter 84% token 来自非前沿模型
+
 ### 2026-08-14
 
 ### 内容
