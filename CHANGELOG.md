@@ -1,3 +1,8 @@
+### 2026-08-17
+
+### 内容
+- **今日开源热点与福利 | 2026-08-17** — GitHub Trending（cordiverse/cordis / basecamp/omarchy / unslothai/unsloth / OpenCut-app/OpenCut / public-apis/public-apis / ToolJet/ToolJet / cactus-compute/needle）；V2EX 热门（AI API 中转站注册送 20 元 / 直播卖衣服月入十几万 / 2026 剃须刀推荐 / 扫描件文字提取 / claude 崩了 / typeless 平替）、Linux.do 数据源暂不可用；福利（Epic《Caravan SandWitch》喜加一 / Steam《德波尼亚》免费领 / GOG FRAMED Collection / Xbox Free Play Days 今日截止 / App Store 限免）
+
 ### 2026-08-16
 
 ### 内容
