@@ -3,6 +3,7 @@
 ### 内容
 - **今日开源热点与福利 | 2026-08-17** — GitHub Trending（cordiverse/cordis / basecamp/omarchy / unslothai/unsloth / OpenCut-app/OpenCut / public-apis/public-apis / ToolJet/ToolJet / cactus-compute/needle）；V2EX 热门（AI API 中转站注册送 20 元 / 直播卖衣服月入十几万 / 2026 剃须刀推荐 / 扫描件文字提取 / claude 崩了 / typeless 平替）、Linux.do 数据源暂不可用；福利（Epic《Caravan SandWitch》喜加一 / Steam《德波尼亚》免费领 / GOG FRAMED Collection / Xbox Free Play Days 今日截止 / App Store 限免）
 
+- “每日科技速递 | 2026-08-17 -- AI · 科技 · 经济” -- Stripe 超 70 亿美元收购 OpenRouter（溢价逾 5 倍）/ OpenAI 解散 Preparedness 团队 / Claude 大规模宕机 / Anthropic 自曝生物武器过滤器失效近一年（1.33 亿次对话未过滤）/ 英伟达收缩 OpenAI 数据中心担保（2500 亿→不足 1200 亿）/ Grok 99 美元打包 Cursor Ultra 与 xPremium+ / Higgsfield 融资 4 亿美元估值 54 亿 / Anthropic 智能体“思维病毒”研究 / 斯坦福 AI 指数：中国 84% vs 美国 38%；国内 Qwen 3.8 27B 开源发布 / DeepSeek API 峰谷定价今日生效（高峰翻倍）/ 多家银行推“算力贷” / 壁仞科技上半年营收预增超 18 倍 / 大豆大模型“丰菽”2.0 / 深圳“道路塌陷”AI 谣言辟谣 / 美团 CatPaw 覆盖 9 万员工 / 海尔 AI 家庭机器人旗舰店落地青岛
 ### 2026-08-16
 
 ### 内容
