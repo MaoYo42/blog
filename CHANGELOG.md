@@ -1,3 +1,7 @@
+### 2026-08-18
+
+### 内容
+- **今日开源热点与福利 | 2026-08-18** — GitHub Trending（harry0703/MoneyPrinterTurbo / usestrix/strix / nautechsystems/nautilus_trader / akitaonrails/ai-memory / jundot/omlx / immich-app/immich / cordiverse/cordis / agalwood/Motrix）；V2EX/Linux.do 数据源暂不可用（V2EX API 返回 HTML、Linux.do Cloudflare 验证）；福利（Steam《德波尼亚》限免至 8/21 / Epic《Project First Contact》今日最后一天 / PS Plus 8月二档三档会免开放领取）
 ### 2026-08-17
 
 ### 内容
