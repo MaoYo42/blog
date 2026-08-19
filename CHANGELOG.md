@@ -1,3 +1,8 @@
+### 2026-08-19
+
+### 内容
+- "每日科技速递 | 2026-08-19 -- AI · 科技 · 经济" -- Anthropic 年化收入破 650 亿美元（IPO 前夜）/ OpenAI 加入 PORTS-Pike 锁定 8GW 算力、因"关键网络能力"放缓模型开发 / Mojo 正式开源 / 宇树科技科创板上市（人形机器人第一股）/ GLM-5.3 API 上线并列开源第一 / Qwen3.8-27B 登顶智能指数 / ChatGPT for Teens / Claude 支持 Gmail 与 Drive / Cursor Origin 代码托管 / Groq 融资 3.5 亿转型 neocloud / 404 Media 曝光亚马逊购书扫描销毁
+
 ### 2026-08-18
 
 ### 内容
