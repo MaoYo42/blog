@@ -1,3 +1,8 @@
+### 2026-08-20
+
+### 内容
+- **今日开源热点与福利 | 2026-08-20** — GitHub Trending（harry0703/MoneyPrinterTurbo / usestrix/strix / nautechsystems/nautilus_trader / akitaonrails/ai-memory / mukul975/Anthropic-Cybersecurity-Skills / AlexsJones/llmfit / santifer/career-ops / jundot/omlx）；V2EX/Linux.do 数据源暂不可用（V2EX API 返回 HTML、Linux.do Cloudflare 验证）；福利（免费节点订阅每日更新 / yoyapai 免费节点合集与公共 DNS / CodeSandbox 0元 4核8G 免费 VPS）
+
 ### 2026-08-19
 
 ### 内容
