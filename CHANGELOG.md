@@ -1,3 +1,9 @@
+### 2026-08-21
+
+### 内容
+- "每日科技速递 | 2026-08-21 -- AI · 科技 · 经济" -- OpenAI CFO 确认最迟 2027 年上市（Anthropic 或今秋先挂牌）/ Claude Platform 全面上线 Computer Use、Skills API 与 Files API / Grok 4.6 登陆 AWS Bedrock（500K 上下文）/ 阿里发布 Qwen-UI-Agent / Mooncake 优化 RL Rollout 传输 / 宇树上市次日热度延续（首日涨 629%）/ Mistral Agentic Search / LFM2.5 DSpark 草稿模型 / AlloyDB ScaNN 扩至 100 亿向量 / Google 获 Marvell 122 亿美元权证 / 三星代工涨价最高 15% / Fractile 估值 65 亿（Anthropic 芯片订单）/ Microsoft 修补 CoSnitch 零点击漏洞 / Reconstruction 基准：前沿模型假设生成仅 3-15% / Apple 两项预训练研究
+- **今日开源热点与福利 | 2026-08-21** — GitHub Trending（modular/modular / mattpocock/skills / AprilNEA/OpenLogi / obra/superpowers / cursor/plugins / santifer/career-ops / akitaonrails/ai-memory / harry0703/MoneyPrinterTurbo）；V2EX 热门（Deepseek Harness 内测体验讨论）、Linux.do 数据源暂不可用（Cloudflare 验证）；福利（Epic 喜加一《Cardpocalypse》+《阿尔比恩 Online》史诗法师礼包 8/20–8/27 / Epic 开发商限免《Grow & Go: Cozy Deliveries》8/22 截止）
+
 ### 2026-08-20
 
 ### 内容
