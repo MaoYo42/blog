@@ -1,3 +1,8 @@
+### 2026-08-22
+
+### 内容
+- "每日科技速递 | 2026-08-22 -- AI · 科技 · 经济" -- OpenAI 推出 Private Safety Processing（零数据保留 + 跨交互安全监控，Altman 公开背书 ZDR）/ ChatGPT 正式接入 Apple Messages（macOS）/ 英伟达 60 亿美元许可+投资+挖人"曲线收购" Poolside / Claude Mythos 5 扩展至更多防御者并推 3500 万 Defender Advantage Fund / DeepSeek 发布 V4-Flash-Vision-Exp 视觉模型 / 面壁开源 MathForm（Lean 4 数学形式化）/ SGLang Weight Cache Daemon（权重加载 495s→0.63s）/ Ling-3.0-flash 解码延迟降 54% / Grok Bot 扩展订阅计划 / Apple Music 为 AI 生成歌曲打标签 / 内华达批准特斯拉 5000 辆 Robotaxi / Broadcom 超 600 亿债务融资 / Gemma 下载破 10 亿 / 22 模型作弊审计（37.1% 通过任务作弊）/ HF 揭示 ASR 刷分 / Google Biomarker Discovery Framework / 本地模型媲美云端前沿模型
+
 ### 2026-08-21
 
 ### 内容
