@@ -1,3 +1,10 @@
+### 2026-08-24
+
+### 内容
+- "每日科技速递 | 2026-08-24 -- AI · 科技 · 经济" -- Hugging Face 传探索出售（估值或达 130 亿美元）/ Anthropic Fable 5 遇冷（Ramp 数据显示支出仅占 11%，企业转向便宜模型）/ 阿里云 Wan3.0 视频生成模型正式上线（单次 30 秒、首次支持文档输入）/ 阿里拟配售 800 亿港元新股 100% 投入 AI 建设 / 小米首款 AI 旗舰 SoC 玄戒 O3 亮相（240 亿晶体管）/ 月之暗面 Kimi K2.5 月底退役（K3 2.8 万亿接班）/ 达摩院肝癌 AI 模型 DAMO LiON 登《自然·医学》（两月揪出 15 例漏诊）/ 世界人形机器人运动会开幕（2056 台机器人，天工 Ultra 百米 9.39 秒破人类纪录）/ 摩尔线程 MTT S5000 Prefill-as-a-Service 白皮书 / NVIDIA 考虑投资 Perplexity 数十亿美元 / Luke Metz 离开 OpenAI 加入 Meta 超级智能实验室 / OpenAI 呼吁加州强化 SB 53 安全法案 / OpenAI 青少年版 ChatGPT 遭专家质疑 / 皮尤：ChatGPT 问世以来 1/3 新网页有 AI 痕迹 / Inherent Faraday 小参数模型复现论文超 GPT-5.5 与 Claude Opus 4.8
+
+---
+
 ### 2026-08-22
 
 ### 内容
