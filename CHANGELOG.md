@@ -1,3 +1,10 @@
+### 2026-08-25
+
+### 内容
+- "每日科技速递 | 2026-08-25 -- AI · 科技 · 经济" -- 字节跳动发布 Agent 产品「豆包工作」并与飞书深度打通（30 天免费订阅）/ ResNet 作者任少卿创办具身智能公司（注册即独角兽，蔚来战略投资）/ 小米玄戒 O100 原型机与 AI Cube 首秀（Xiaomi MiMo 端侧 295 Tokens/s）/ 道交法修订草案：自动驾驶违法由车企担责 / 中消协发布 AI 消费提示（AI 客服不能免责）/ 生数科技提出通用世界模型五级发展路线 / 原力灵机 DM0.5 登顶 RoboDojo 且全开源 / Arm 36 年来首颗自研 AGI CPU 曝光（1000 亿晶体管、6TB 内存）/ NVIDIA Vera Rubin NVL72 智能体负载每瓦效率提升 30 倍 / Meta 开源 MetaRoCE + 发布 MTIA 300 训练芯片 / NVLink Fusion 接入定制 XPU / GPT-5.6 登陆 Kiro（任务成本降 82%）/ OpenAI 推 ChatGPT Work（20 美元/月起步）/ Mistral × HUMAIN 沙特数亿欧元主权 AI 合作 / WikiHow 起诉 OpenAI（1.1 万篇教程、1200 项版权）/ 纳德拉警示企业掌控"Token 资本" / Apple IVT 视频推理不增成本 / 丰田北美 50+ 生产智能体交付周期缩至 4 天 / LinkedIn"AI 垃圾"按钮浏览量降四成 / OpenAI 最迟 2027 年上市 / HF 揭示 ASR 刷分
+
+---
+
 ### 2026-08-24
 
 ### 内容
