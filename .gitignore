@@ -40,3 +40,6 @@ pnpm-workspace.yaml
 
 # Backup files
 backups/
+
+# Hermes agent local state
+.hermes/
