@@ -1,3 +1,18 @@
+### 2026-08-30
+
+### 内容
+- **今日开源热点与福利 | 2026-08-30** — GitHub Trending（tt-a1i/archify / K-Dense-AI/scientific-agent-skills / THU-MAIC/OpenMAIC / p-e-w/heretic / mvanhorn/last30days-skill / majd/ipatool）；V2EX/Linux.do 数据源暂不可用（接口超时）；福利（Epic 喜加二《呼吸边缘》+《家族传奇》截止 9/3 / NSO 试玩同乐会《牧场物语》今日截止 / Xbox Free Play Days《控制》终极版 +《饿狼传说：狼之城》免费）
+- **每日科技速递 | 2026-08-30 -- AI · 科技 · 经济** — 腾讯混元开源 Hy4 preview（770B 总参数、1M 上下文）/ 通义千问开源 Qwen3.8-Flash（Qwen4 架构预览，训练成本 1/9）/ 智谱开源 GLM-5.3 + GLM-5.3-Flash（国产芯片集群算力）/ 我国日均词元调用量破 500 万亿 / OpenAI 终止与 Cursor 合作（11/12 生效）/ 索尼华纳起诉 Anthropic 盗用版权音乐 / Anthropic 让 Claude 自主训练模型 / Uber 70% 代码 PR 由 Agent 接管 / 英伟达预计 2028 财年销售额 6730 亿美元超苹果 / OpenAI 发布 HF 事件技术报告 / 以色列假智库用 AI 引导 ChatGPT / Gemini 3.5 Transcribe 发布 / C2PA 相机认证 Android 可被攻破
+
+---
+
+### 2026-08-29
+
+### 内容
+- **今日开源热点与福利 | 2026-08-29** — GitHub Trending（tt-a1i/archify / K-Dense-AI/scientific-agent-skills / anthropics/claude-plugins-official / bilawalsidhu/gods-eye-view / abhigyanpatwari/GitNexus / JetBrains/go-modern-guidelines / calesthio/OpenMontage / abi/screenshot-to-code）；V2EX/Linux.do 数据源暂不可用（V2EX API 404、Linux.do Cloudflare 验证）；福利（Epic 喜加二《呼吸边缘》+《家族传奇》截止 9/3 / Steam 白送《Stones Keeper: King Aurelius》9/14 下架前 0 元入库 / App Store 8/29 共 26 款限免 / PixARK 免费周末）
+
+---
+
 ### 2026-08-25
 
 ### 内容
