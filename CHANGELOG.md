@@ -1,3 +1,10 @@
+### 2026-08-31
+
+### 内容
+- **今日开源热点与福利 | 2026-08-31** — GitHub Trending（THU-MAIC/OpenMAIC / K-Dense-AI/scientific-agent-skills / tt-a1i/archify / p-e-w/heretic / unclecode/crawl4ai / mvanhorn/last30days-skill / majd/ipatool）；V2EX/Linux.do 数据源暂不可用（V2EX 接口返回 HTML、Linux.do Cloudflare 拦截）；福利搜索源今日未返回有效数据
+
+---
+
 ### 2026-08-30
 
 ### 内容
