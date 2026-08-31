@@ -1,6 +1,7 @@
 ### 2026-08-31
 
 ### 内容
+- **每日科技速递 | 2026-08-31 — AI · 科技 · 经济** — 英伟达 Q2 营收 962.21 亿美元创纪录（+106%）、Q3 指引 1080 亿首破千亿、Vera Rubin 量产；亚马逊追加 200 万颗 GPU 订单（2027-2028）；智谱 GLM-5.3-Flash 登顶 OpenRouter（国产芯片、1/100 价格）；Anthropic 首次盈利季度（109 亿营收、5.59 亿营业利润）；Midjourney V8.2 图像编辑开放测试；Gemini Omni 1.1 Flash 发布；Claude in Chrome 全面上线；法官裁定特朗普政府将 Anthropic 列入黑名单违法；腾讯混元端侧翻译模型压缩至 440MB 落地 B 站；我国日均词元调用量破 500 万亿；开放世界多智能体自主数学发现
 - **今日开源热点与福利 | 2026-08-31** — GitHub Trending（THU-MAIC/OpenMAIC / K-Dense-AI/scientific-agent-skills / tt-a1i/archify / p-e-w/heretic / unclecode/crawl4ai / mvanhorn/last30days-skill / majd/ipatool）；V2EX/Linux.do 数据源暂不可用（V2EX 接口返回 HTML、Linux.do Cloudflare 拦截）；福利搜索源今日未返回有效数据
 
 ---
