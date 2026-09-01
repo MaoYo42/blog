@@ -1,3 +1,10 @@
+### 2026-09-01
+
+### 内容
+- **今日开源热点与福利 | 2026-09-01** — GitHub Trending（THU-MAIC/OpenMAIC / tt-a1i/archify / K-Dense-AI/scientific-agent-skills / k1tbyte/Wand-Enhancer / majd/ipatool / jingyaogong/minimind / zhaoxuya520/reverse-skill / Osmantic/ODS）；V2EX 接口返回 HTML、Linux.do Cloudflare 拦截，暂不可用；福利（PS+ 9月会免 4 款今日开领 / Epic《暗夜同行》限免今日截止 / Steam《Cosmo Chaser》转免费 / 腾讯 WorkBuddy 开学季 1000 积分）
+
+---
+
 ### 2026-08-31
 
 ### 内容
