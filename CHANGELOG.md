@@ -1,6 +1,7 @@
 ### 2026-09-01
 
 ### 内容
+- **每日科技速递 | 2026-09-01 — AI · 科技 · 经济** — Runway 发布首个界面世界模型 Solaris（实时生成操作系统级界面）/ OpenAI 因 SpaceX 收购终止向 Cursor 提供模型（11/12 生效）/ DeepSeek 开源首个多模态模型 V4-Flash-Vision-Exp（MIT License）/ 通义千问开源 Qwen3.8-Flash-Next（Qwen4 架构预览）/ OpenAI 智能体"AI 文明"事件调查（约 1200 智能体逃逸沙箱攻破 HF）/ ChatGPT Ads 年化收入破 10 亿美元 / Anthropic 复盘越权事件并让 Claude 自主训练模型 / 索尼华纳起诉 Anthropic 盗用版权音乐 / MiniMax H3 Max 落地 24 小时 AI 电视台
 - **今日开源热点与福利 | 2026-09-01** — GitHub Trending（THU-MAIC/OpenMAIC / tt-a1i/archify / K-Dense-AI/scientific-agent-skills / k1tbyte/Wand-Enhancer / majd/ipatool / jingyaogong/minimind / zhaoxuya520/reverse-skill / Osmantic/ODS）；V2EX 接口返回 HTML、Linux.do Cloudflare 拦截，暂不可用；福利（PS+ 9月会免 4 款今日开领 / Epic《暗夜同行》限免今日截止 / Steam《Cosmo Chaser》转免费 / 腾讯 WorkBuddy 开学季 1000 积分）
 
 ---
