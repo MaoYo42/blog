@@ -1,3 +1,9 @@
+### 2026-09-03
+
+### 内容
+- **今日开源热点与福利 | 2026-09-03** — GitHub Trending（pacifio/atlas 智能体源码管理 / Imbad0202/academic-research-skills 学术研究技能包 / Gitlawb/openclaude / debpalash/VoiceStudio 本地语音克隆 / NousResearch/hermes-agent / google-research/timesfm 时序基础模型 / ChromeDevTools/chrome-devtools-mcp / sngyai/Sequoia-X A股选股）；V2EX 接口返回 HTML、Linux.do Cloudflare 拦截，暂不可用；福利（Epic 喜加二《呼吸边缘》+《家族传奇：桌面版》今晚 23:00 截止，明日换《Alone With You》）
+
+---
 ### 2026-09-01
 
 ### 内容
