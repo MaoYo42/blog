@@ -1,3 +1,9 @@
+### 2026-09-04
+
+### 内容
+- **每日科技速递 | 2026-09-04 — AI · 科技 · 经济** — OpenAI 发布 GPT-6 Astra（首个达 Preparedness Framework 网络安全 Critical 门槛的模型：1.05M 上下文、ARC-AGI-3 99.9%、FrontierMath Tier 4 98%、OSWorld V2 72.6%，API $10/$50 每百万 Token，先向 Daybreak 网络安全客户开放）/ 英伟达 129.303 亿美元收购 Hugging Face（约 870.92 亿元，黄仁勋承诺维持开放平台）/ 阿里云 Wan3.0 全面开放（30 秒视频生成+一键文档转视频）/ 智谱 GLM Coding Plan 夜间免费畅用（9/3-9/20 每晚 23 点至次日 9 点）+入驻天猫旗舰店 / LMArena 第 35 周榜：GLM-5.3-Flash 首秀进代码榜前十、Qwen3.8-Max-0902 登顶前端榜 / Google 发 Gemini 3.8 Flash & Cyber + WeatherNext 3 / Meta Muse Spark 1.3（单日使用量登顶，美模型首次日活超 DeepSeek）/ IFM K2 Horizon 六款 Apache2.0 开源模型 / Claude 后台操作电脑 + Grok Bot 企业版 + Cursor Self-Hosted Machines / 美司法部介入 NYT 诉 OpenAI 主张训练属合理使用
+
+---
 ### 2026-09-03
 
 ### 内容
