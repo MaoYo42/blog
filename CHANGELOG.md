@@ -1,3 +1,9 @@
+### 2026-09-05
+
+### 内容
+- **今日开源热点与福利 | 2026-09-05** — GitHub Trending（Agent Skills 生态霸屏：blader/humanizer 去AI味技能 / NousResearch/hermes-agent / bannedbook/fanqiang / fmtlib/fmt / anthropics/skills 官方公开仓 / magnitudedev/magnitude / bikini/exploitarium）；V2EX API 404 改爬首页成功（GPT-6 Astra 刷屏：新的 O1 时刻 / Ultra 消耗大、ChatGPT 额度重置吐槽、技术就业讨论）；Linux.do Cloudflare 拦截暂不可用；福利（Epic 喜加一《Alone With You》免费永久入库 9/10 截止 / Steam《文明 7》35 周年免费畅玩周截止约 9/10-11）
+
+---
 ### 2026-09-04
 
 ### 内容
