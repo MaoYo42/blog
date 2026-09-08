@@ -1,6 +1,7 @@
 ### 2026-09-08
 
 ### 内容
+- **每日科技速递 | 2026-09-08 — AI · 科技 · 经济** — 最高法发布涉 AI 纠纷案件审理意见（5 部分 24 条：AI 换脸拟声侵害人格与声音权益、仿冒名人带货可主张惩罚性赔偿、自动驾驶事故责任划分）/ GPT-6 Astra 完成全量推送：所有 Plus 与 Business 用户可用，Altman 致歉并按缺失天数重置额度，同步上线 Microsoft Foundry / Mistral 完成 30 亿欧元 D 轮融资估值超 210 亿欧元（欧洲史上最大科技股权融资）/ Anthropic 被曝十一个月签署 5170 亿美元算力合同锁定至少 14.8 GW / OpenAI 承认德国 wiki 事件并启动对齐事故披露框架制定 / Claude 完成费马大定理形式化证明（超 1300 万行 Lean，迄今最大）/ GitHub Project HydraFusion 多模型运行时编排降本 / 英伟达股权投资组合达 990 亿美元两年增 45 倍 / 4 万亿美元 AI 数据中心债务浪潮研究
 - **今日开源热点与福利 | 2026-09-08** — GitHub Trending（AI Agent 工具链霸屏：microsoft/markitdown 文档转 Markdown / openai/skills Codex 技能目录 / bytedance/deer-flow 长周期 SuperAgent / heygen-com/hyperframes 写 HTML 渲染视频 / jo-inc/camofox-browser 反检测隐身无头浏览器 / lightpanda-io/browser Zig 轻量无头浏览器 / AutoHedge 自动对冲基金 / FckSignups 免注册工具合集）；V2EX（V1 API 恢复：失业焦虑与转码讨论刷屏 / 上海电信 720 元 300M 公网 IP 折腾记 / 小米澎程系列 / 阅读网站送码）；Linux.do Cloudflare 拦截仍不可用；福利（FckSignups 免注册网页工具清单 / V2EX 送码帖）
 
 ---
