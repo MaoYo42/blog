@@ -1,3 +1,9 @@
+### 2026-09-08
+
+### 内容
+- **今日开源热点与福利 | 2026-09-08** — GitHub Trending（AI Agent 工具链霸屏：microsoft/markitdown 文档转 Markdown / openai/skills Codex 技能目录 / bytedance/deer-flow 长周期 SuperAgent / heygen-com/hyperframes 写 HTML 渲染视频 / jo-inc/camofox-browser 反检测隐身无头浏览器 / lightpanda-io/browser Zig 轻量无头浏览器 / AutoHedge 自动对冲基金 / FckSignups 免注册工具合集）；V2EX（V1 API 恢复：失业焦虑与转码讨论刷屏 / 上海电信 720 元 300M 公网 IP 折腾记 / 小米澎程系列 / 阅读网站送码）；Linux.do Cloudflare 拦截仍不可用；福利（FckSignups 免注册网页工具清单 / V2EX 送码帖）
+
+---
 ### 2026-09-07
 
 ### 内容
