@@ -1,6 +1,7 @@
 ### 2026-09-09
 
 ### 内容
+- **每日科技速递 | 2026-09-09 — AI · 科技 · 经济** — OpenAI 智能体宣布求解 Navier-Stokes 千禧年大奖难题（悬置约 90 年，用超 GPT-6 Astra 的下一代未发布模型），随即遭 NYU 教授 Buckmaster 与 Anthropic 数学家 Alpöge 指控不正当竞争、Bubeck 否认 / OpenAI 发布 GPT Image 2.5 图像模型（Flare 提速 50%、Sunburst 高精度）中文媒体第一时间实测 / Berkeley RDI 开源计算机使用智能体平台 CUA-Lite（30k+ 可验证任务免 VM 沙箱）/ Runway 发布 Adobe 插件可直接嵌入 Premiere Pro 与 After Effects / Meta 智能体产品 Muse 开放体验 / Dwarkesh Patel 研究称预训练进步主要来自数据改进
 - **今日开源热点与福利 | 2026-09-09** — GitHub Trending（Agent 技能生态大爆发：ayghri/i-have-adhd ADHD 友好输出技能 / cathrynlavery/diagram-design 38 种编辑级图示模板纯 HTML+SVG / openai/skills Codex 技能目录 / heygen-com/hyperframes 写 HTML 渲染视频 / microsoft/markitdown 文档转 Markdown / browser-use 浏览器自动化 / jo-inc/camofox-browser 反检测隐身无头浏览器 / viarotel-org/escrcpy 图形化 scrcpy）；V2EX 反爬页 / Linux.do Cloudflare 拦截，社区源暂不可用；福利（uBlock Origin MV3 完整功能回归 / Epic 本周免费《与你独处》《寻找埃文》9.10 截止 / binthere 一次性密钥分享 / 小众软件发现频道第 36 期好评软件合集）
 
 ---
