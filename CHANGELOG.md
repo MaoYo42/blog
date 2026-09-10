@@ -1,3 +1,9 @@
+### 2026-09-10
+
+### 内容
+- **今日开源热点与福利 | 2026-09-10** — GitHub Trending（Agent 从通用框架下沉到垂直行业：ayghri/i-have-adhd ADHD 友好输出技能连续霸榜 / cathrynlavery/diagram-design 38 种编辑级图示模板 / TauricResearch/TradingAgents 多智能体金融交易框架 / rohitg00/ai-engineering-from-scratch 从零学 AI 工程 / pascalorg/editor 开源 3D 建筑编辑器带本地 CLI 与 MCP / earthtojake/text-to-cad CAD 技能库 / liquidslr/system-design-notes 系统设计笔记 / Tencent/teamai-cli 腾讯团队级 AI 命令行）；V2EX 经代理恢复（AI 中转站"世一稳"避雷 / 国产模型 qwen 豆包生产可用性之争 / 早睡早起为何成小众爱好 / 咸鱼小法庭机制 / 中文输入法推荐 / V2Echo iOS TestFlight 内测前 50 名赠 Pro 永久）；Linux.do 仍被 Cloudflare 拦截；福利（Epic 纪念碑谷与失落城堡限免进行中、今晚 23:00 轮换 Luftrausers + Astral Ascent、幽灵行者 2 于 9/11 加入 / uBlock Origin MV3 完整功能回归）
+
+---
 ### 2026-09-09
 
 ### 内容
