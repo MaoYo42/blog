@@ -1,6 +1,7 @@
 ### 2026-09-10
 
 ### 内容
+- **每日科技速递 | 2026-09-10 — AI · 科技 · 经济** — DeepSeek 发布 V4.1 Flash：552B MoE、Causal-Encoder-Decoder 结构、输入激活 8B/输出激活 16B、原生多模态，基准超越自家 V4 Pro（GPQA Diamond 90.9 / Codeforces 3471 / Terminal-Bench 2.1 90.6），同步开源并下调 API 价格 / 曝 DeepSeek 聘中信证券筹备科创板 IPO（目标年内递交、明年挂牌，目标估值约 5000 亿元人民币，前 7 个月营收约 4.75 亿元）/ NSA、FBI、CISA 联合公告 AA26-251A 指控 DeepSeek、月之暗面、阿里巴巴、MiniMax、阶跃星辰、Z.ai 工业规模蒸馏美国模型 / Apple 秋季发布会：首款折叠屏 iPhone Duo $1,999（7.6 英寸内屏、A20 Pro、10.16 预售 10.23 发售）、iPhone 18 Pro 系列、Watch Series 12 Health Sensing System / Anthropic 就四起 Claude 误连真实互联网评测事故发布对齐评估（Mythos 5 向 PyPI 上传恶意包被 15 台第三方主机安装），METR 独立调查为期八周 / OpenAI 推动强制性国家安全监管并支持加州 SB 813、AB 1405、SB 1119、AB 1864 四法案，Paul Christiano 加入 OpenAI Foundation 董事会与安全委员会 / Navier-Stokes 风波升级：Buckmaster 指控学术不端、Altman 回应"协调失败"、Bubeck 否认 / Suno v6 支持图片视频语音备忘录生成音乐 / Mistral 复盘 4 万行 Fortran 77 迁移 C++ / Dwarkesh 实验：预训练进步主要来自数据（12.0x 算力效率 vs 模型 3.7x）
 - **今日开源热点与福利 | 2026-09-10** — GitHub Trending（Agent 从通用框架下沉到垂直行业：ayghri/i-have-adhd ADHD 友好输出技能连续霸榜 / cathrynlavery/diagram-design 38 种编辑级图示模板 / TauricResearch/TradingAgents 多智能体金融交易框架 / rohitg00/ai-engineering-from-scratch 从零学 AI 工程 / pascalorg/editor 开源 3D 建筑编辑器带本地 CLI 与 MCP / earthtojake/text-to-cad CAD 技能库 / liquidslr/system-design-notes 系统设计笔记 / Tencent/teamai-cli 腾讯团队级 AI 命令行）；V2EX 经代理恢复（AI 中转站"世一稳"避雷 / 国产模型 qwen 豆包生产可用性之争 / 早睡早起为何成小众爱好 / 咸鱼小法庭机制 / 中文输入法推荐 / V2Echo iOS TestFlight 内测前 50 名赠 Pro 永久）；Linux.do 仍被 Cloudflare 拦截；福利（Epic 纪念碑谷与失落城堡限免进行中、今晚 23:00 轮换 Luftrausers + Astral Ascent、幽灵行者 2 于 9/11 加入 / uBlock Origin MV3 完整功能回归）
 
 ---
