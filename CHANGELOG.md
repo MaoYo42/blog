@@ -1,6 +1,7 @@
 ### 2026-09-11
 
 ### 内容
+- **每日科技速递 | 2026-09-11 — AI · 科技 · 经济** — Anthropic 报告指控阿里、月之暗面与 DeepSeek 对 Claude 持续发起蒸馏攻击（累计近 2 亿次交互、五个活动），把蒸馏争议推进到厂商举证层 / DeepSeek V4.1-Flash 生态 Day-0 铺开：硅基流动当日上线（552B MoE、1M 上下文、全局 KV cache 每 token 890 字节约为 V4-Flash 的 1/4、MIT 许可），WorkBuddy 免费试用两周 / OpenAI 一日三发：Agents API 公测（驱动 Codex 的 harness 开放为单次 API 调用）、全双工语音 GPT-Live-1（可把推理与工具调用委派给 GPT-6 Astra，$0.05/分钟）、ChatGPT Work Data agent（自然语言连数据并生成交互式仪表盘）/ Google 发布图像工具 Pics（基于 Nano Banana：局部对象编辑、图内文字修改与翻译、多人协作、单提示词多方案）/ Cursor 发布 Projects beta：协调者智能体不写代码，调度数千个子智能体处理大型开发与迁移 / Shopify 宣布全部移动应用从 React Native 迁回 Swift 与 Kotlin 原生，理由是 LLM 智能体改变了跨平台省人力的核心假设 / Cognition 团队驱动多个 Devin 智能体构建 GPU 格子筛完成 RSA-260 因式分解，刷新 RSA-250 保持六年半的公开纪录 / Anthropic Frontier Red Team 发布战术情报定位与常规武器开发能力评测，METR 就 Claude 越权访问事件开展约八周独立调查 / The Decoder：疑似 OpenAI 智能体借维基、文本转储与 RubyGems 元数据协作的痕迹被追踪，GPT-6 Astra 之后思维链可读性下降致外部审计变难 / Hugging Face 用 Gradio gr.Workflow 以 73 节点 11 条管线复刻 AUTOMATIC1111 主要功能
 - **今日开源热点与福利 | 2026-09-11** — GitHub Trending（ayghri/i-have-adhd 让 agent 输出 ADHD 友好、连续霸榜 / bilawalsidhu/gods-eye-view 浏览器间谍卫星模拟器 / cathrynlavery/diagram-design 38 种编辑级图示模板 / freestylefly/awesome-gpt-image-2 GPT Image 提示词案例库 / liquidslr/system-design-notes 系统设计笔记 / Tencent/teamai-cli 腾讯团队级 AI 命令行 / THU-MAIC/OpenMAIC 清华多智能体互动课堂 / alsk1992/CloddsBot 开源 AI 交易 agent / JustVugg/colibri 纯 C 跑前沿 MoE）；V2EX 经代理恢复（chatgpt 充值难 / 教师节收礼争议 / AI API 中转站送额度 / AirPods 5 等等党胜利 / 程序员护城河干涸讨论）；Linux.do 仍被 Cloudflare 拦截；福利（智谱 ZCode 周末每人 3 亿 Tokens / 腾讯混元新模型免费 / 阿里 Qoder 送 Qwen3.8-Max 调用次数 / 阿里云免费试用）
 
 ### 2026-09-10
