@@ -1,3 +1,8 @@
+### 2026-09-11
+
+### 内容
+- **今日开源热点与福利 | 2026-09-11** — GitHub Trending（ayghri/i-have-adhd 让 agent 输出 ADHD 友好、连续霸榜 / bilawalsidhu/gods-eye-view 浏览器间谍卫星模拟器 / cathrynlavery/diagram-design 38 种编辑级图示模板 / freestylefly/awesome-gpt-image-2 GPT Image 提示词案例库 / liquidslr/system-design-notes 系统设计笔记 / Tencent/teamai-cli 腾讯团队级 AI 命令行 / THU-MAIC/OpenMAIC 清华多智能体互动课堂 / alsk1992/CloddsBot 开源 AI 交易 agent / JustVugg/colibri 纯 C 跑前沿 MoE）；V2EX 经代理恢复（chatgpt 充值难 / 教师节收礼争议 / AI API 中转站送额度 / AirPods 5 等等党胜利 / 程序员护城河干涸讨论）；Linux.do 仍被 Cloudflare 拦截；福利（智谱 ZCode 周末每人 3 亿 Tokens / 腾讯混元新模型免费 / 阿里 Qoder 送 Qwen3.8-Max 调用次数 / 阿里云免费试用）
+
 ### 2026-09-10
 
 ### 内容
