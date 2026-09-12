@@ -1,3 +1,8 @@
+### 2026-09-12
+
+### 内容
+- **今日开源热点与福利 | 2026-09-12** — GitHub Trending（热榜从能力转向包装层：ayghri/i-have-adhd 让 agent 输出 ADHD 友好、连续霸榜 / bilawalsidhu/gods-eye-view 浏览器间谍卫星模拟器接真实数据 / nashsu/llm_wiki 文档自动编译互链知识库替代 RAG / vastsa/PI-Desktop 本地优先 AI 编程桌面端 / alsk1992/CloddsBot 跨 1000+ 市场自托管交易 agent / armory3d/armorpaint 3D 纹理绘制 / jihe520/MathModelAgent 数学建模 Agent / p1neappleXpress/OpenFlux 可插拔传输 TCP 隧道）；V2EX 反爬页与 Linux.do Cloudflare 拦截，社区源今日均不可用；福利（Google AI Pro 学生资格重新验证续期 / 天翼云盘黄金会员 1 天体验卡 / 2026 免费云服务器额度避坑汇总 / 福利吧年度第 120 期合集）
+
 ### 2026-09-11
 
 ### 内容
