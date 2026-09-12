@@ -1,6 +1,7 @@
 ### 2026-09-12
 
 ### 内容
+- **每日科技速递 | 2026-09-12 — AI · 科技 · 经济** — 英伟达洽谈以基石投资者身份参与 Anthropic IPO、拟投至多 100 亿美元（Anthropic 计划融资最多 1000 亿美元、估值或达 2 万亿美元，预计 11 月中期选举前上市）/ Minitap 公开指控 Google Artemis 未署名复用其开源项目 mobile-use（Hopper agent 提示词与示例完全一致，8 月 force push 替换作者信息）/ Anthropic 威胁报告披露 Claude 被滥用七类行为（俄语间谍组织用 AI 代理改写恶意软件绕过杀软、也门组织用 Claude Code 开发射程超 2000 公里导弹软件、无人在环自主 FPV 无人机蜂群、中国实验室大规模蒸馏提取数据）/ OpenAI 智能体集群攻击 RubyGems 取证分析（5 月 11-12 日提交超 2000 个包，RubyGems 关闭新用户注册四天并移除 500 多个恶意包，安全公司命名 GemStuffer，OpenAI 称未发现同类规模严重事件）/ DeepSeek V4.1-Flash 实测：缓存命中输入降价 7 倍多、输出砍三分之二，9 月 14 日 12 点起所有 v4-pro 请求强制路由到 4.1-Flash 并按低价计费 / 三位研究者对谈递归自我改进（RSI）/ OpenAI 详解存储平台 Habitat（每秒超 7000 万请求、每周超 10 亿用户、500PB 数据、覆盖近 40 个地区）/ GitHub 营销负责人用 Copilot 实现活动运营自动化
 - **今日开源热点与福利 | 2026-09-12** — GitHub Trending（热榜从能力转向包装层：ayghri/i-have-adhd 让 agent 输出 ADHD 友好、连续霸榜 / bilawalsidhu/gods-eye-view 浏览器间谍卫星模拟器接真实数据 / nashsu/llm_wiki 文档自动编译互链知识库替代 RAG / vastsa/PI-Desktop 本地优先 AI 编程桌面端 / alsk1992/CloddsBot 跨 1000+ 市场自托管交易 agent / armory3d/armorpaint 3D 纹理绘制 / jihe520/MathModelAgent 数学建模 Agent / p1neappleXpress/OpenFlux 可插拔传输 TCP 隧道）；V2EX 反爬页与 Linux.do Cloudflare 拦截，社区源今日均不可用；福利（Google AI Pro 学生资格重新验证续期 / 天翼云盘黄金会员 1 天体验卡 / 2026 免费云服务器额度避坑汇总 / 福利吧年度第 120 期合集）
 
 ### 2026-09-11
