@@ -1,3 +1,8 @@
+### 2026-09-13
+
+### 内容
+- **今日开源热点与福利 | 2026-09-13** — GitHub Trending（bilawalsidhu/gods-eye-view 浏览器间谍卫星模拟器接真实数据、今日 +2,265 断层第一 / melgarafael/DeskcommCRM 开源 AI 销售 OS 自托管 CRM / alsk1992/CloddsBot 覆盖 1000+ 市场的开源 AI 交易 agent / p1neappleXpress/OpenFlux 可插拔传输 TCP 隧道 / jihe520/MathModelAgent 数学建模 Agent 自动生成论文 / armory3d/armorpaint 3D 纹理绘制 / Shubhamsaboo/awesome-llm-apps 100+ AI 应用合集 / Sonarr PVR / nab138/iloader iOS 侧载 / yuliskov/SmartTube Android TV）；V2EX 经代理恢复正常（DeepSeek V4.1 Flash 是否"不说人话"与跑分-实测落差之争 / vibe coding 代码能否放心上线 / codex 额度重置 / .top 域名注册商扯皮 / 华为阔直板手机）；Linux.do 仍被 Cloudflare 人机校验拦截；福利（Epic 每周喜加一按周四轮换 / Steam 限时免费入库 / 方块游戏平台经典国产老游戏 / 国内云厂商大模型免费额度）
+
 ### 2026-09-12
 
 ### 内容
