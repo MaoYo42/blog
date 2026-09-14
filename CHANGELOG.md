@@ -1,3 +1,8 @@
+### 2026-09-14
+
+### 内容
+- **今日开源热点与福利 | 2026-09-14** — GitHub Trending（JustVugg/colibri 纯 C 零依赖跑前沿 MoE、专家流式读盘 / asgeirtj/system_prompts_leaks 各厂系统提示词合集 66k stars / calesthio/OpenMontage 开源 agent 视频生产系统 / bilawalsidhu/gods-eye-view 浏览器卫星情报模拟器接真实数据 / vxcontrol/pentagi 全自主 AI 渗透测试 / tech-leads-club/agent-skills AI 编程 agent 技能注册表 / ever-co/ever-gauzy 开源 ERP·CRM·HRM·ATS·PM / melgarafael/DeskcommCRM 自托管 AI 销售 OS 内嵌 WhatsApp）；V2EX 热门（陶哲轩等数学家反对 AI 与"失败的意义"之争 93 回复居首 / 北京无人机管控收紧 / 用 Astra 把家乡竹林老屋做成可游览网页 / 远程让 codex 干活的工具 / 跳出三贷之外的人生是否更自由 / claude 封号真实原因讨论）；Linux.do 连续多日被 Cloudflare 人机校验拦截，无数据；福利（Aiarty Image Enhancer 限时 7 天免费领正版授权 / Google AI Pro 一年免费资格 / 天翼云盘黄金会员 1 天体验卡 / 9 月 14 日免费节点订阅更新约 20.5M/S / 多站点大模型 API 免费额度）
+
 ### 2026-09-13
 
 ### 内容
