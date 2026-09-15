@@ -1,3 +1,8 @@
+### 2026-09-15
+
+### 内容
+- **今日开源热点与福利 | 2026-09-15** — GitHub Trending（JustVugg/colibri 纯 C 零依赖在自有硬件跑前沿 MoE、专家流式读盘，+2,173 断层第一 / debpalash/VoiceStudio 完全本地开源 ElevenLabs 替代：声音克隆·音色设计·视频配音·听写，+2,776 / alibaba/open-code-review 阿里开源代码审查工具：确定性流水线 + LLM 混合架构 / 666ghj/MiroFish 简洁通用群体智能引擎 / multimodal-art-projection/YuE YuE2 前沿音乐生成支持符号规划·零样本翻唱·agentic 编辑 / Panniantong/Agent-Reach 给 agent 装眼睛读搜 Twitter·Reddit·YouTube·GitHub·B站·小红书 / ruvnet/RuView 把普通 WiFi 信号变成实时空间智能·生命体征监测 / localsend/localsend 开源跨平台 AirDrop 替代 / TauricResearch/TradingAgents 多智能体金融交易框架 / dani-garcia/vaultwarden 自托管密码库 / asgeirtj/system_prompts_leaks 各厂系统提示词合集）；V2EX 经代理走 v1 API 恢复正常（婚房空关岳父母长住与产权边界之争居首 / AI 时代招人用人成本反升与试用期开除复盘 / 华为 P70 Pro vs iPhone 16 Pro 两年残值对比 / 15W 纯电还是混动与过年高速充电可行性 / 出海产品上线三月无流量的分发困境 / 论 AI 恐惧症——对莱顿宣言的驳斥 / 微信限制加好友后找替代品 / [V8AIX] 自建中转注册送 5 刀）；Linux.do 连续多日被 Cloudflare 人机校验拦截，无数据；福利（DeepSeek 服务端搜索通道返回空结果未外部补齐，改列可白嫖的自托管替代：VoiceStudio 本地语音克隆·localsend 跨平台互传·vaultwarden 自托管密码库·colibri 本地跑 MoE，另录 V2EX 社区中转送额度帖）
+
 ### 2026-09-14
 
 ### 内容
