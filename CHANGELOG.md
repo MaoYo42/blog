@@ -1,3 +1,8 @@
+### 2026-09-23
+
+### 内容
+- **今日开源热点与福利 | 2026-09-23** — GitHub Trending（google/ax 谷歌开源 agentic orchestration runtime，今日 +2,305 登顶 / anthropics/financial-services 官方金融服务参考实现，36,373 星 / mvt-project/mvt 移动设备取证工具因安全事件回榜 +441 / dream-num/univer 面向 AI Agent 的 Office Harness，表格·文档·幻灯片·画布·关系表·PDF 同一运行时 / agent-substrate/substrate Agent 核心系统 / superdesigndev/treg 自称 Agent 工具界 OpenRouter / browser-use/video-use 用编程 Agent 剪视频）；V2EX 热门（前期大量 AI coding 上线的项目越来越改不动、该不该重写居首 / 扫地大妈保安大爷用 AI Agent 能否替代程序员 / 健身房冲突事件复盘 / 上班看微信被领导谈话 / 润加两周年 / 日漫推荐 / 不肝不氪游戏推荐 / 手机是否贴膜）；Linux.do 仍被 Cloudflare 人机校验拦截，无数据；福利（文心快码 Comate 不限 Token 免费窗口 9/24 截止 / 文小言免费额度至 9/30 / NVIDIA NIM 免费推理额度 / 9 月移动流量日包多渠道白嫖 / V2EX 社区中转帖 Token Unlimited 晒单最高赠 20 美元与极智 API 注册送 5 美元）
+
 ### 2026-09-22
 
 ### 内容
