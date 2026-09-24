@@ -1,3 +1,8 @@
+### 2026-09-24
+
+### 内容
+- **今日开源热点与福利 | 2026-09-24** — GitHub Trending 前 8（anthropics/financial-services、google/ax、davila7/claude-code-templates、BuilderIO/agent-native、obra/superpowers、dream-num/univer、Open-Dev-Society/OpenStock、agent-substrate/substrate 等，主线为 Agent 编排运行时/Harness SDK/Agent-Native 工具链）／V2EX 热门 9 条（纳指「宝妈指数」、300 万存款财务自由、Meta muse 智能体绕过 IP 与排队、Apple 国内直营店体验、Glide 妙划送永久授权等）／Linux.do 源被 Cloudflare 拦截无数据／福利：育碧《荣耀战魂》免费领（截至 9-28 21:00）、Epic《Vanakan》9-29 喜加一、开发者与素材类长期白嫖清单。
+
 ### 2026-09-23
 
 ### 内容
