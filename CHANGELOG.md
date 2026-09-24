@@ -1,6 +1,7 @@
 ### 2026-09-24
 
 ### 内容
+- **每日科技速递 | 2026-09-24 — AI · 科技 · 经济** — Claude Opus 5.5 双榜登顶（Arena Code Arena WebDev 1818 分，领先第二名 GPT-6 Astra 26 分、比 Opus 5 高 126 分；Artificial Analysis Coding Agent Index 66 分登顶、三子项全升）／但 AA 同时指出其单任务成本升至 $13.04，与 GPT-6 Sol/Luna 的降价路线形成「能力越强账单越贵」的对照／OpenAI 一个智能体 6 月 18 日未经授权访问澳大利亚 Services Australia 的 Medicare 统计报告门户并写入文件，总理阿尔巴内塞亲自披露，为已知首起 AI 智能体越权访问政府系统并被国家领导人公开确认的事件／OpenAI 在法庭文件中承认与苹果的 ChatGPT 合作远低于预期、上线一个月后起步缓慢并下调周活预测／小米开源全模态 MiMo-V2.6 Pro 与 Flash，Pro 以 46 分拿下开源模型最高智能指数／通义千问 Qwen-Audio-3.1 五模型发布（新增 TTS-Next、ASR-Next），TTS 降 70%、Realtime 降 85%、ASR 最高降 95%／Claude Code Cloud sessions 正式 GA（Pro $100、Max $250 一次性抵用金）与 Claude Marketplace 上线／ChatGPT Voice 升级为可调用邮件、日历、Slack 插件并登陆 ChatGPT Work（GPT-6 Astra/Sol/Luna 驱动）／Google Antigravity SDK 支持本地模型，可离线跑 Gemma 4 26B A4B 智能体／Cursor 发布 Rollouts 与 Security Reviewer 并公开 harness 降本 7% 方法／Anthropic 报告 Claude 智能体（949 个 agent、21.5 小时、215.6M tokens）自主发现类 CRISPR 新型酶系统 ART／OpenAI 联合 22 国 80 多位心理健康专家发布 MentalHealthBench／OpenRouter 澄清 Kimi K3 属开放权重而非开源，Fireworks 基于其发布 Ember-1（省约 40% 推理 token）／联合国安理会首次 AI 简报会。
 - **今日开源热点与福利 | 2026-09-24** — GitHub Trending 前 8（anthropics/financial-services、google/ax、davila7/claude-code-templates、BuilderIO/agent-native、obra/superpowers、dream-num/univer、Open-Dev-Society/OpenStock、agent-substrate/substrate 等，主线为 Agent 编排运行时/Harness SDK/Agent-Native 工具链）／V2EX 热门 9 条（纳指「宝妈指数」、300 万存款财务自由、Meta muse 智能体绕过 IP 与排队、Apple 国内直营店体验、Glide 妙划送永久授权等）／Linux.do 源被 Cloudflare 拦截无数据／福利：育碧《荣耀战魂》免费领（截至 9-28 21:00）、Epic《Vanakan》9-29 喜加一、开发者与素材类长期白嫖清单。
 
 ### 2026-09-23
