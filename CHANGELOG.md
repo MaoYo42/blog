@@ -1,3 +1,8 @@
+### 2026-09-25
+
+### 内容
+- **今日开源热点与福利 | 2026-09-25** — GitHub Trending 前 8（HKUDS/CLI-Anything 让所有软件 Agent 原生化，50,342 星 / vectorize-io/hindsight Agent 记忆层，27,823 星 / dream-num/univer 面向 Agent 的 Office Harness 同一运行时 / mvt-project/mvt 移动设备取证工具回榜 / google/ax 谷歌开源 agentic orchestration runtime / FxEmbed 修复 X 与 Bluesky 嵌入预览 / NVIDIA Model-Optimizer 模型压缩统一库 / obra/superpowers Agentic Skills 框架与方法论；主线为 Agent 基础设施全套栈：编排运行时+记忆层+Office 基座+CLI 原生化+技能方法论）；V2EX 热门 9 条（离婚抚养费判定咨询居首 97 回复，节前「你们过节都发了什么」「贫穷的礼物」「中秋晒福利」占半数，另有自建代理服务器选型、Claude 账号被 suspend、Astra 与 Opus 5.5 选型对比）；Linux.do 仍被 Cloudflare 人机校验拦截，无数据；福利（Epic 当前可领 LISA: Definitive Edition 至 10-02 05:59 UTC、钢铁指挥官与 Astrea: Six Sided Oracles 至 10-01 15:00 UTC，10-01 起开放 System Shock 2: 25th Anniversary Remaster 与《深埋之星》；App Store 限免可跟什么值得买限免栏目与果粉查询每日同步）
+
 ### 2026-09-24
 
 ### 内容
