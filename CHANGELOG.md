@@ -1,3 +1,8 @@
+### 2026-09-26
+
+### 内容
+- **今日开源热点与福利 | 2026-09-26** — GitHub Trending 前 8（paperclipai/paperclip 开源 Agent 工作管理应用，85,033 星、今日 +2,109 登顶 / obra/superpowers Agentic Skills 框架与方法论，291,679 星 / mattpocock/skills 从 .agents 导出的工程师技能集，269,747 星 / anthropics/skills 官方 Agent Skills 公共仓库，178,331 星 / rohitg00/ai-engineering-from-scratch AI 工程从零路线，57,538 星 / vectorize-io/hindsight 会学习的 Agent 记忆层，29,847 星、今日 +1,653 / dream-num/univer 面向 Agent 的 Office Harness，18,460 星 / shy3130/tick-stock-panel 自托管 A 股选股监测量化工作台，5,137 星；另有 kubernetes-the-hard-way 回榜、derv82/wifit3 USB 专版 Wifite、androoAGI/starnet 本地优先桌面 Agent 工位；主线仍是 Agent 基础设施：编排+记忆+技能+方法论）；V2EX 热门 8 条（无需 Gemini Pro 完全免费注册 Muse 方法居首 81 回复，另有黑神话悟空在线版、LockSticky 永久会员码、中秋加班报道帖、Meta Muse 大陆注册教程、独立开发是否买 Claude Max、Opus 5.5 中秋贺卡）；Linux.do 仍被 Cloudflare 人机校验拦截，无数据；福利（Meta Muse 免费注册双帖教程、LockSticky 评论区送永久会员码、《黑神话：悟空》社区网页版）
+
 ### 2026-09-25
 
 ### 内容
