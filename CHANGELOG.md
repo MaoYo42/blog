@@ -1,3 +1,8 @@
+### 2026-09-27
+
+### 内容
+- **今日开源热点与福利 | 2026-09-27** — GitHub Trending 前 8（paperclipai/paperclip 开源 Agent 工作管理应用今日 +2,608 登顶 / vectorize-io/hindsight 可自我学习的 Agent 记忆层 +2,147 / dream-num/univer 面向 Agent 的 Office Harness 统一运行时 +849 / openbao/openbao 密钥证书敏感数据管理 +364 / NVIDIA/Model-Optimizer 量化·蒸馏·剪枝·NAS·投机解码统一优化库 +357 / block/buzz Rust 通信平台 +339 / mobile-next/mobile-mcp 移动自动化 MCP Server +168 / vscode·next.js·tensorflow 老面孔回榜；主线仍为 Agent 编排+记忆+技能+文档基座四件套）；V2EX 热门 7 条（「有人用 AI 赚到钱了吗」居首，Muse 注册方法与刷屏式注册次之，另有 Apple Pay 万事达被盗刷漏洞讨论、Gemini Spark 与 Cloud Browser 注册被封堵、脱离 Windows 保护、geoip=cn 识别、哥飞 SEO 流量帖、教育观点帖）；Linux.do 仍被 Cloudflare 人机校验拦截，无数据；福利（Epic 本周可领 Astrea 与 Mechabellum 至 10-01、《英雄联盟》十五周年限定皮肤与宝箱任务至 10-07、9 月 AI 免费额度密集窗口、Steam/App Store 限免每日同步）
+
 ### 2026-09-26
 
 ### 内容
