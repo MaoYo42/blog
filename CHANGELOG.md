@@ -1,3 +1,8 @@
+### 2026-09-30
+
+### 内容
+- **今日开源热点与福利 | 2026-09-30** — GitHub Trending 主线仍是智能体基础设施（debpalash/VoiceStudio 完全本地运行的开源 ElevenLabs 替代，语音克隆、音色设计、视频配音、听写、转写与有声书，覆盖 646 种语言/NVIDIA/OpenShell 面向自主 AI 智能体的安全私有运行时/vectorize-io/hindsight 会自我学习的 Agent 记忆层/paperclipai/paperclip 工作中 Agent 管理应用/t8y2/dbx 仅 25MB 的跨平台数据库客户端，支持 100+ 数据库并内置 AI 助手与 MCP Server/mvschwarz/openrig 把 Claude Code 与 Codex 编为一套系统的多智能体 harness/oblien/openship 自托管部署平台/averygan/reclip 轻量自托管媒体下载器），榜单结构为本地化+编排+记忆三条线并进；V2EX 热门接口今日返回风控 HTML、Linux.do 仍被 Cloudflare 人机校验拦截，两源连续多日无数据；福利（Epic 截至 10-01 可领 Astrea: Six-Sided Oracles 与 Mechabellum、9 月 AI 免费额度窗口临近到期、TokenNav 类中转站免费额度汇总、Steam/GOG/Indiegala 的 48 小时限免窗口跟踪）
+
 ### 2026-09-29
 
 ### 内容
