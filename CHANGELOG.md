@@ -1,3 +1,8 @@
+### 2026-10-01
+
+### 内容
+- **今日开源热点与福利 | 2026-10-01** - GitHub Trending 主线为可本地运行的 AI 智能体基础设施 (debpalash/VoiceStudio 完全本地运行的开源 ElevenLabs 替代, 5,604 stars, 今日 +3,483 / NVIDIA/OpenShell 面向自主 AI 智能体的安全私有运行时, +1,281 / t8y2/dbx 仅 25MB 跨平台数据库客户端, +1,138 / VectifyAI/PageIndex 无向量推理式 RAG 文档索引, +1,097 / mattpocock/skills 工程师技能集 +876 / DietrichGebert/ponytail 让 AI 像最懒资深工程师思考 +743 / mvschwarz/openrig 编排 Claude Code 与 Codex 的多智能体 harness +624 / harry0703/MoneyPrinterTurbo 一键生成短视频 19,958 stars; 另有 heygen-com/hyperframes, NawfalMotii79/PLFM_RADAR 开源相控阵雷达, colbymchenry/codegraph, openclaw/openclaw); V2EX 热门 9 条 ("让 AI 做网页总有一股 AI 味"居首, 节前最后一天双面情绪"10 月 1 去哪玩"与被裁员帖, 程序员创业, 闲鱼 SU7 押金纠纷, 买房老话题回潮); Linux.do 仍被 Cloudflare 人机校验拦截, 无数据; 福利 (Epic 限免 Astrea 与 Mechabellum 今日 10-01 到期, Steam 十月 5 项 Free-to-Keep 内容曝光, GOG DRM-Free 与 itch.io 限免同步跟踪)
+
 ### 2026-09-30
 
 ### 内容
