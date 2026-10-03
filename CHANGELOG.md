@@ -1,3 +1,8 @@
+### 2026-10-03
+
+### 内容
+- **今日开源热点与福利 | 2026-10-03** — GitHub Trending 延续智能体工具链主线并分化为四条：省 token 与提示效率（DietrichGebert/ponytail JavaScript +1,435「让智能体像最懒的资深工程师思考」、JuliusBrussee/caveman Go +209「明明少量 token 就够」）、技能与工作流（mattpocock/skills Shell +955、obra/superpowers Shell +556 技能框架与开发方法论、coreyhaines31/marketingskills JavaScript +140 面向 Claude Code 的营销技能）、工程化与安全（NVIDIA/OpenShell Rust +594 自主智能体安全私有运行时、mksglu/context-mode TypeScript +282 上下文窗口优化、pbakaus/impeccable JavaScript +722 让 AI harness 会做设计的设计语言规范）、媒体与数据接入（Panniantong/Agent-Reach Python +696 让智能体读取搜索 Twitter/Reddit/YouTube/GitHub/Bilibili、heygen-com/hyperframes TypeScript +580 写 HTML 渲染视频）；V2EX 热门接口今日返回风控 HTML、Linux.do 仍被 Cloudflare 人机校验拦截，两源连续多日无数据；福利（Epic 本周 3 款限免 BURIED STARS、System Shock 2: 25th Anniversary Remaster、Bridge Constructor Studio 含 Android/iOS 版，2026-10-08 23:00 截止；Steam Neighbors: Suburban Warfare 付费转免费；GOG 新增 Bounty Train 等 10-03 更新；Endor Awakens: Roguelite DRPG、Neon Knight: Vengeance From The Grave 属转收费前免费期，需优先领取）
+
 ### 2026-10-02
 
 ### 内容
