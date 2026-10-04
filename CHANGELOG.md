@@ -1,3 +1,8 @@
+### 2026-10-04
+
+### 内容
+- **今日开源热点与福利 | 2026-10-04** — GitHub Trending 延续智能体工具链主线并归为四条：token 与效率（DietrichGebert/ponytail JavaScript「让智能体像最懒的资深工程师思考，最好的代码是没写的那行」、JuliusBrussee/caveman Go「少量 token 就够」宣称省约 65% token、affaan-m/ECC JavaScript 智能体 harness 性能优化系统）、记忆与上下文（thedotmack/claude-mem TypeScript 跨会话持久上下文、pbakaus/impeccable JavaScript 让 AI harness 会做设计的设计语言）、数据接入与技能（Panniantong/Agent-Reach Python 让智能体读取检索 Twitter/Reddit/YouTube/GitHub/Bilibili/小红书、addyosmani/agent-skills JavaScript 面向 AI 编码智能体的生产级技能集、cloudflare/cloudflare-os TypeScript 基于 Workers 的智能体工作空间）、基础设施（Effect-TS/effect TypeScript 生产级函数式框架、pingdotgg/t3code TypeScript）；V2EX 热门 9 条（opus5.5 使用体验、Antitravity 三方模型将升级 Opus 5.5/Sonnet 5.5、AI 订阅梳理、跨境租机用 AI、ChatGPT Plus 与 Claude Pro 额度对比，另有充电宝被顺较真帖与微信输入法强制管理员权限质疑）；Linux.do 仍被 Cloudflare 人机校验拦截，无数据；福利（腾讯云新用户 CVM 0 元试用 7 天、首单低至 2.7 折含学生校园优惠；阿里云超 160 款产品免费试用、百炼「先用后返」券、学生 300 元无门槛券、7000 万免费 tokens；Oracle Always Free 4 核 24G 永久免费实例）
+
 ### 2026-10-03
 
 ### 内容
