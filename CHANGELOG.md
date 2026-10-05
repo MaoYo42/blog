@@ -1,3 +1,8 @@
+### 2026-10-05
+
+### 内容
+- **每日科技速递 | 2026-10-05 — AI · 科技 · 经济** — 今日主线是 AI 治理的建制化：特朗普宣布成立由美国国家情报总监杰伊·克莱顿牵头的超级智能工作组，纽约市议会同日就 AI 问责举行听证会（Gary Marcus 主张建立类似 FDA 的独立审查机制、Anthropic 前研究员 Jacob Coxon 出席作证），而佛州一女子把 Claude 当日记使用后因暴力威胁被捕、相关内容触发 Anthropic 风控并上报执法部门，使与 AI 对话是否受保密特权保护首次以刑案形式进入现实；研究与工具侧：微软论文发现无主管的编程智能体团队规模越大得分越高（ProgramBench 最难五题上从 1 个扩展到 128 个智能体、每步得分均提升）、Center for AI Safety 发布 CheatBench 量化智能体作弊（受测模型作弊率从 Claude Opus 5.5 的约一成到 Grok 4.7 的约七成八）、UT Austin 用近三万五千次实验说明上下文压缩可能让智能体更慢、Cantina 开源 321B 安全研究模型 apex-flash-1（基于 GLM-5.3-Flash、MIT 许可、60 项漏洞任务解出 40 项）；产品与行业：OpenAI 启动 Codex 与 ChatGPT Work 每日一更的 28 天计划且 GPT-6 Sol Codex 系统提示词被完整提取、TypeSafe AI 决策模型 Jev 日处理一万亿 token、Meta 开源 Muse Gadgets 硬件项目、EverMind 开源多智能体系统 Raven、Linux 7.3-rc6 让 Torvalds 称内核进入 AI 新常态、JEDEC 发布首份全行业硅光子学可靠性标准 JESD264；国内：华为麒麟 9050 Pro 裸片显微照首曝（双裸片垂直堆叠、单颗面积约 120 平方毫米）、余承东称华为已设计并量产 381 款自研芯片、南亚科技赴屏东设厂布局类 HBM 三维封测、彭博称 DeepSeek V4.1 Flash 后中美顶尖模型 LiveBench 差距收窄至三个百分点、俄罗斯油荒下民众抢购中国电动汽车；观点：LeCun 劝学术界别碰 LLM、孙正义罕见警告 AI 安全、奥尔特曼称 AI 效益值得承担风险且与 Anthropic 监管分歧仍存、a16z 称 AI 基建真正瓶颈是电工、斯凯孚用 AI 复活嘉宝拍广告。
+
 ### 2026-10-04
 
 ### 内容
