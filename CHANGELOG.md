@@ -1,3 +1,8 @@
+### 2026-10-06
+
+### 内容
+- **今日开源热点与福利 | 2026-10-06** — GitHub Trending 主线延续智能体工具链但已从「写代码」扩散到记忆、联网、视频、CAD 等外围能力层：thedotmack/claude-mem（TypeScript 96.7k，跨会话持久上下文，连续霸榜）、Panniantong/Agent-Reach（Python 91.9k，一个 CLI 读取检索 Twitter/Reddit/YouTube/GitHub/Bilibili/小红书、零 API 费用）、caddyserver/caddy（Go 77.1k，自动 HTTPS 的 HTTP/1-2-3 服务器重回热榜）、calesthio/OpenMontage（Python 64.1k，宣称全球首个开源智能体化视频生产系统，12 条流水线/100+ 工具/700+ 技能）、pingdotgg/t3code（TypeScript 25.6k）、earthtojake/text-to-cad（Python 17.4k，自然语言生成 CAD 模型）、boykopovar/AnyPS5（C++ 5.0k，PS5 可执行文件移植 Linux/Windows）、tester-army/e2e（TypeScript 4.9k，下一代端到端测试框架）；V2EX 热门 6 条（无法结婚生子后的人生支点、2 年 Claude 账号 10-5 凌晨被封、香港仓库管理 vs 日本永居、久坐提醒方案、注册美国公司用 Claude、codex 梯子流量消耗大）；Linux.do 仍被 Cloudflare 人机校验拦截，无数据；福利（Epic 本周限免 BURIED STARS、System Shock 2: 25th Anniversary Remaster、Bridge Constructor Studio 含 Android/iOS 版，2026-10-08 23:00 截止；Epic/Steam/GOG 十月免费游戏月历；Oracle Always Free 4 核 24G 永久免费、腾讯云新用户 0 元试用 7 天、阿里云 160+ 款产品免费试用与学生 300 元券）——注：今日 DeepSeek 服务端搜索接口无返回，福利以既有整理与公开月历为准
+
 ### 2026-10-05
 
 ### 内容
