@@ -1,3 +1,8 @@
+### 2026-10-10
+
+### 内容
+- **今日开源热点与福利 | 2026-10-10** — GitHub Trending 今日被「AI Agent 技能库」刷屏：morluto/rea（TypeScript，+14,927★）用 Agent 逆向原生二进制登顶，boykopovar/AnyPS5（C++，+5,868★）做 PS5 可执行文件跨平台移植，mattpocock/skills、cathrynlavery/diagram-design、addyosmani/agent-skills、anthropics/knowledge-work-plugins、twostraws/SwiftUI-Agent-Skill 等多款中英开发者整理的 agent 技能包集中上榜；V2EX 头部被两波送码占据——Vidzer macOS 首发送 30 个永久 Pro、PolyDrive Disk 免费赠（Finder 读写 NTFS/Linux 盘）；Linux.do 接口被 Cloudflare 拦截，本节跳过。
+
 ### 2026-10-06
 
 ### 内容
