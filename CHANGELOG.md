@@ -1,3 +1,8 @@
+### 2026-10-11
+
+### 内容
+- **今日开源热点与福利 | 2026-10-11** — GitHub Trending 延续「Agent 技能 + 逆向工程」双主线：morluto/rea（TypeScript 73,941★，今日 +25,793）用 Agent 逆向原生二进制继续霸榜，boykopovar/AnyPS5（C++ 27,005★，+5,805）做 PS5 可执行文件跨平台移植，storytold/artcraft（Rust 14,619★，+3,222）、mattpocock/skills（Shell 284,565★）、cathrynlavery/diagram-design（HTML 49,003★）、anthropics/knowledge-work-plugins（Python 28,836★）、hugohe3/ppt-master（Python 59,511★）、multica-ai/andrej-karpathy-skills（218,313★）构成技能包梯队，tensorflow / flutter / transformers / pytorch 老牌框架常驻；V2EX 热门 8 条（招行卡开 5 倍 max、小浣熊水浒卡闪光效果送码、Apple TV、硬件工程师焦虑、ChatGPT 转 Claude、家用 mac mini 跑 Claude 是否封号、语音输入法、男性脱毛）；Linux.do 接口仍被 Cloudflare 拦截，本节跳过；福利（Epic 本周限免《虎视眈眈》《泰拉景观》10-15 截止、10 月限免月历、Oracle Always Free 4 核 24G 永久免费）——今日 DeepSeek 服务端搜索接口无返回，福利以公开月历与网络检索为准。
+
 ### 2026-10-10
 
 ### 内容
