@@ -1,3 +1,8 @@
+### 2026-10-12
+
+### 内容
+- **今日开源热点与福利 | 2026-10-12** — GitHub Trending 主线仍是「Agent 逆向 + 真实数据产品」：morluto/rea（TypeScript 107,847★）用 Agent 从应用行为一路逆向下钻到原生二进制继续霸榜，chrislgarry/Apollo-11（Assembly 74,283★）阿波罗 11 号 AGC 原始源码回榜，bilawalsidhu/gods-eye-view（JavaScript 51,783★）做「数据是真的」的浏览器卫星情报模拟器，cathrynlavery/diagram-design（HTML 50,460★）为 Claude Code/Codex/Copilot/Cursor/Pi 提供 44 种图表设计技能，lyogavin/airllm（Jupyter 36,538★）单张 4GB 显存跑 70B 推理，boykopovar/AnyPS5（C++ 30,282★）做 PS5 可执行文件跨平台移植，storytold/artcraft（Rust 18,120★）是面向艺术家与影视的创意 crafting 引擎，pytorch/pytorch（Python 104,527★）常驻；V2EX 热门 8 条（内存涨价是否会拉高 Linux 装机率 81 回复、3 个月用掉 287 亿 token、麦当劳越来越贵、相亲自救贴、开源音乐播放器 NonsPlayer、星座与 MBTI、泡水饮品、招行 VISA 绑不上 Google Play），暗线是硬件涨价与 AI 用量成本焦虑；Linux.do 仍被 Cloudflare 人机校验拦截（403）无数据；福利（V2EX 优惠信息节点：Passcord iOS 行程记录 App 终身码 $19.99 抽 50 个、Aino 招 5 位新用户、芒果 AI 的 DeepSeek-4.1/Kimi/GLM 0.05 折送体验金、中转站新人 $10 与 1.9 折按量、CDN 云资源渠道折扣）——注：今日本机代理 127.0.0.1:7890 不可用，GitHub 与 V2EX 改直连成功，DeepSeek 服务端搜索脚本无返回，故福利改由 V2EX 优惠信息节点直取。
+
 ### 2026-10-11
 
 ### 内容
