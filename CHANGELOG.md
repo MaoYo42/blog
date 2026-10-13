@@ -1,3 +1,8 @@
+### 2026-10-13
+
+### 内容
+- **今日开源热点与福利 | 2026-10-13** — GitHub Trending 主线仍是「用 Agent 做重活」：morluto/rea（TypeScript 160,723★，今日 +45,327）用 Agent 从应用行为逆向到原生二进制继续霸榜；open-webui（Python 155,068★）、Alishahryar1/free-claude-code（Python 59,183★，13 亿+ 免费 token 跑 11 种 harness）、bilawalsidhu/gods-eye-view（JavaScript 53,766★，真实数据的浏览器卫星情报模拟器）、cathrynlavery/diagram-design（HTML 52,706★，44 种图表技能）、microsoft/BitNet（C++ 40,931★，1-bit LLM 推理）、lyogavin/airllm（Jupyter 37,583★，4GB 显存跑 2.8T）、mksglu/context-mode（TypeScript 27,340★，工具输出沙箱化削减 98% 上下文）、storytold/artcraft（Rust 22,228★）构成「Agent 基础设施占半壁」的榜单结构；V2EX 热门 10 条（AI 是否逐渐取代高水平程序员、Apple 上线 Switch to Safari 对比 Chrome、Grok/Cursor/X 会员合并订阅、Cursor 新套餐不支持 Alipay、N 卡支持 macOS 黑苹果回春、Mac 版 Excel 第三方替代、恒洁卫浴避坑、情绪帖三连），暗线是订阅体系动荡与国产 macOS 生态话题；Linux.do 仍被 Cloudflare 人机校验拦截（403）无数据；福利（Steam 今日截止《Pony Island》《Fireside Feelings》10-13、Epic 本周限免《TerraScape》《Out of Sight》10-15 与移动端 Bridge Constructor Studio 10-18、《恶魔城》40 周年 iOS/Android 限免 10-24、dogdrip 10-14 到期的 TamaSHOT2 等 App/壁纸限免、中国移动 10 月 24 个入口话费流量福利至 10-31、AI 厂商免费额度延续）——注：今日 DeepSeek 服务端搜索脚本无返回（ds-search.sh 空输出），V2EX 需走代理 127.0.0.1:7890 取 HTML 热榜页成功，linux.do 403，福利以公开限免月历与网络检索为准。
+
 ### 2026-10-12
 
 ### 内容
