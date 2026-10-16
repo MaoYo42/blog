@@ -1,3 +1,8 @@
+### 2026-10-16
+
+### 内容
+- **今日开源热点与福利 | 2026-10-16** — GitHub Trending 今日主线是「Agent 技能框架 + 省 token」：obra/superpowers（Shell 299,940★）agentic skills 框架与开发方法论登顶，affaan-m/ECC（JavaScript 280,443★）做 Agent Harness 性能优化（技能/本能/记忆/安全/研究五模块），morluto/rea（TypeScript 271,814★）用 Agent 从应用行为逆向下钻到原生二进制连续霸榜，JuliusBrussee/caveman（Go 112,598★）以「能用两个字就别用五个字」的代理层削减约 65% token 消耗，NationalSecurityAgency/ghidra（Java 88,826★）NSA 逆向框架回榜，ruvnet/ruflo（TypeScript 75,155★）做多智能体 swarm 编排，debpalash/VoiceStudio（Python 69,194★）是完全本地运行的开源 ElevenLabs 替代（语音克隆/音色设计/合成），K-Dense-AI/scientific-agent-skills（Python 50,533★）为科研向技能库；其余 anthropics/claude-plugins-official（Python 39,170★，Anthropic 官方 Claude Code 插件目录）、mksglu/context-mode（TypeScript 29,814★，工具输出沙箱化削减 98% 上下文）、xerj-org/xerj（Rust 5,728★，给 Agent 的数据搜索与自动索引）、lightseekorg/tokenspeed（Python 2,511★，光速 LLM 推理引擎）；V2EX 热门 7 条（三月女友与前任经济纠纷、教老婆开车、30 好几找不到能坚持的爱好、地摊小程序都能上架自研小程序对软件开发前景的破防、婚礼四大金刚「仪式感溢价消费」是否阶层跃升最大障碍、国庆被说肥头大耳决定减肥、中药败好感），技术硬帖缺席、主线是生活成本与职业焦虑；Linux.do 今日接口未返回数据（Cloudflare 人机校验拦截）；福利外部源今日全部不可用（ds-search.sh 空输出、web_search 无有效结果、V2EX 优惠信息节点 show.json 与 outdeals 页均取不到），改以今日热榜中可直接白嫖的开源工具替代（VoiceStudio 免费本地 TTS、Ghidra 免 IDA Pro、caveman 省 65% token 账单、两个免费技能库）——注：GitHub Trending 与 V2EX 热门 API 均需经代理 127.0.0.1:7890 抓取，直连 v2ex.com/api/v2/topics/hot.json 超时、linux.do 与 ds-search 均无数据。
+
 ### 2026-10-13
 
 ### 内容
