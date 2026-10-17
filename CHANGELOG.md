@@ -1,3 +1,8 @@
+### 2026-10-17
+
+### 内容
+- **今日开源热点与福利 | 2026-10-17** — GitHub Trending 今日主线是「Agent 技能包占场」：前十有六个在给编码代理装技能/压上下文/编排 swarm——obra/superpowers（Shell 300,701★，今日 +973）agentic skills 框架登顶，affaan-m/ECC（JavaScript 281,558★，+1,057）做 harness 五模块性能优化，ruvnet/ruflo（TypeScript 75,653★）多智能体 swarm 编排，mksglu/context-mode（TypeScript 30,251★）工具输出沙箱化削减约 98% 上下文，K-Dense-AI/scientific-agent-skills（Python 51,543★）科研技能库，anthropics/claude-plugins-official（Python 40,635★）官方插件目录；另有 debpalash/VoiceStudio（Python 71,302★，今日 +2,301 涨幅第一，完全本地 ElevenLabs 替代）、HKUDS/CLI-Anything（Python 53,532★，把传统 CLI 改造成 agent 原生接口）、cursor/plugins（TypeScript 11,981★）、android/skills（Kotlin 8,094★）；V2EX 热门 7 条（Bref 多平台媒体播放器发码、随机收听全球 3.5 万电台的网页电台、企微聊天与裸聊无异、旧数码产品如何处置、Codex 登录电话验证求助、如何评价 rea 逆向一切、特斯拉式对标梗），主线是折腾型自建工具与隐私/验证码倦怠；Linux.do 今日仍被 Cloudflare 人机校验拦截无数据；福利改由 Epic 官方 promotions 接口直取，得本周喜加二《Bad Cheese》（¥40）与《Agent A - 伪装游戏》（¥62），10/15 23:00 至 10/22 23:00 CST 可领、合计 ¥102——注：直连 v2ex.com/api/v2/topics/hot.json 超时，需走代理 127.0.0.1:7890 的 /api/topics/hot.json；ds-search.sh 空输出、GitHub REST API 无返回，故 stars 从 Trending 页面 stargazers 链接直取；linux.do 两次尝试均失败。
+
 ### 2026-10-16
 
 ### 内容
