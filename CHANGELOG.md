@@ -1,3 +1,8 @@
+### 2026-10-18
+
+### 内容
+- **今日开源热点与福利 | 2026-10-18** — GitHub Trending 今日主线是「给 Agent 装上记忆和手脚」：affaan-m/ECC（JavaScript 282,548★）agent harness 性能优化系统（技能/直觉/记忆/安全/研究优先五模块）居首，anthropics/claude-code（TypeScript 151,784★）终端 agentic 编码工具、stablyai/orca（TypeScript 95,459★）多 Agent 舰队工作台、debpalash/VoiceStudio（Python 73,457★）全本地 ElevenLabs 替代（声音克隆/音色设计/646 语言配音）、HKUDS/CLI-Anything（Python 54,084★）把传统 CLI 改造成 Agent 原生接口、K-Dense-AI/scientific-agent-skills（Python 52,277★，177 个科研技能 + 100+ 科学数据库）、MadsLorentzen/ai-job-search（Python 50,486★，本地求职框架）、anthropics/claude-plugins-official（Python 41,813★）官方插件目录、akitaonrails/ai-memory（Rust 9,940★，跨厂商 Agent 长期记忆与上下文交接）同榜；V2EX 热门 API 与 Linux.do 本次直连与走代理 127.0.0.1:7890 均失败（原 /api/v2/topics/hot.json 超时、linux.do 拒绝），社区板块本期缺数据；福利改由一次性 web_search 取得且时间窗明确——Bolt 周末免费 GLM 5.3 Flash（10/17 15:00–10/19 14:59 CST，6 小时分块计额、付费号 5 倍）为今日唯一在窗福利，WorkBuddy 因 DeepSeek 服务异常补发 500 积分（10/22 前手动领取），DeepSeek V4.1-Flash-1017 全量上线（Harness 首登送 6 元、Search/Fetch 免费至 11/1、权重 MIT 开源），AMD Radeon Cloud 中国区 8 个免费对话模型端点（不绑卡，仅限评测原型），OpenCode Zen 新增 DeepSeek V4.1 Flash Free 等零价模型，华为云 210 元无门槛券（报名大赛 + Devkit 插件口令，11/13 截止），排雷：AutoClaw 10/17–10/18 为空档（10/19 起新一期缩至 6000 万 Token）、腾讯元器 11/9 停服、豆包工作 30 天订阅首轮 10/17 起到期可续领一轮；注：ds-search.sh 无输出（脚本存在但返回空），trending stars 由 /stargazers 链接直取并二次校验。
+
 ### 2026-10-17
 
 ### 内容
