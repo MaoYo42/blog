@@ -1,3 +1,8 @@
+### 2026-10-19
+
+### 内容
+- **今日开源热点与福利 | 2026-10-19** — GitHub Trending 主线是「给 Agent 装记忆、技能、手脚」：stablyai/orca（TypeScript 96,738★）多 Agent 舰队工作台（可用自有订阅跑任意编码代理、桌面/移动/远程）、ruvnet/ruflo（TypeScript 76,556★）多智能体 swarm 编排 + 自适应记忆 + 原生对接 Claude Code/Codex/Hermes、debpalash/VoiceStudio（Python 73,457★）全本地 ElevenLabs 替代（克隆/音色设计/646 语言配音/有声书）、HKUDS/CLI-Anything（Python 54,628★）把传统 CLI 改造成 Agent 原生接口、MadsLorentzen/ai-job-search（Python 50,486★）本地求职框架、anthropics/claude-plugins-official（Python 42,736★）官方插件目录、cursor/plugins（TypeScript 12,767★）Cursor 插件规范、akitaonrails/ai-memory（Rust 10,534★）跨厂商 Agent 长期记忆与上下文交接；V2EX 热门 10 条并经代理取得（闲鱼暗语中枢、X 第三方客户端 Liquid Glass、Gemini vs GPT 日常体感、Claude 过验证升 5x、AI 发现睡不好原因、NSFW 出图 skill 等），呈现「工具体感 + 生活流」两分结构；Linux.do 直连与代理 127.0.0.1:7890 均被 Cloudflare 人机校验拦截，本期缺数据；福利由 Epic 官方 promotions 接口直取，本周仍为《Bad Cheese》（¥40）与《Agent A - 伪装游戏》（¥62），10/15 23:00 至 10/22 23:00 CST 可领、合计 ¥102，另列 DeepSeek Search/Fetch 免费至 11/1 与 WorkBuddy Intl 免费至 10/31（延续窗口），排雷腾讯元器 11/9 停服、AutoClaw 新一期缩至 6000 万 Token；注：ds-search.sh 连续两次空输出、web_search 零结果，故福利改走 Epic 接口；trending stars 取自 /stargazers 链接计数；配图 cover/20.webp（第 292 天 % 21 + 1）。
+
 ### 2026-10-18
 
 ### 内容
