@@ -1,3 +1,8 @@
+### 2026-10-20
+
+### 内容
+- **今日开源热点与福利 | 2026-10-20** — GitHub Trending 主线从「给 Agent 装技能」转向「给 Agent 减负和接活」：anomalyco/opencode（TypeScript 217,866★）开源编码 Agent 居首、Comfy-Org/ComfyUI（Python 139,781★）本地出图事实标准、stablyai/orca（TypeScript 98,352★，较昨日 +1,614★）多 Agent 舰队工作台、ruvnet/ruflo（TypeScript 77,221★）swarm 编排 + 自适应记忆、headroomlabs-ai/headroom（Python 76,273★）在工具输出/日志/文件/RAG 分块进入 LLM 前做压缩、MadsLorentzen/ai-job-search（Python 57,455★，一周自 5 万★出头涨起）本机求职框架、HKUDS/CLI-Anything（Python 55,274★）把传统 CLI 包装成 agent 原生接口、akitaonrails/ai-memory（Rust 11,392★）编码 CLI 长期记忆与会话交接、Kruk2/jasna（Python 2,929★）视频修复、withmarbleapp/os-taxonomy（JavaScript 6,165★）操作系统分类学；前十有六个在解决上下文成本、记忆丢失、多实例调度、旧工具不会用等运行时工程问题；V2EX 热门 API（/api/v2/topics/hot.json 与 /api/topics/hot.json 两版）直连与代理 127.0.0.1:7890 均超时、Linux.do latest 被 Cloudflare 拦截，社区板块本期缺数据且不臆测填充；福利由 Epic 官方 promotions 接口直取——在窗仍为《Bad Cheese》（¥40）与《Agent A - 伪装游戏》（¥62），10/15 23:00 至 10/22 23:00 CST 可领、合计 ¥102，下期 10/22 23:00 起为《Sker Ritual》与《Home - A Unique Horror Adventure》（至 10/29 23:00）；另经一次 web_search 补得 Cursor Pro 一年免费（MLH Hacktoberfest 活动，价值约 $240/年，不要求 .edu 邮箱）与淘宝双 11 今日 20:00 现货开售（红包/满减/店铺券/以旧换新可叠加）；注：ds-search.sh 本次空输出，故福利改走 Epic 接口 + 单次 web_search；trending stars 取自页面计数（第二数字为 forks，未混用）；配图 cover/21.webp（第 293 天 % 21 + 1）。
+
 ### 2026-10-19
 
 ### 内容
