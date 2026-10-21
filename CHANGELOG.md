@@ -1,3 +1,8 @@
+### 2026-10-21
+
+### 内容
+- **今日开源热点与福利 | 2026-10-21** — GitHub Trending 主线是「agent 的写法被重新设计」：anomalyco/opencode（TypeScript 218,985★，今日 +1,240）开源编码 agent 仍居首位；DietrichGebert/ponytail（JavaScript 169,792★，+1,208）让 agent 像「最懒的资深工程师」那样思考、以少写代码为目标；msitarzewski/agency-agents（Shell 162,395★，+562）一整套角色化 AI 代理机构；Comfy-Org/ComfyUI（Python 140,819★，+1,206）模块化扩散模型 GUI/API/后端；Graphify-Labs/graphify（Python 130,317★，+802）把代码库+文档+SQL schema+配置+PDF 转成可查询知识图谱、作为 Claude Code/Cursor/Codex/Gemini CLI 的 /graphify 技能；stablyai/orca（TypeScript 99,816★，+1,565）用自有订阅跑任意编码 agent 的舰队工作台（桌面/移动/远程）；ruvnet/ruflo（TypeScript 77,875★，+684）swarm 编排+自适应记忆；MadsLorentzen/ai-job-search（Python 60,746★，+3,861 今日涨幅第一）本机求职流水线（筛岗/改简历/cover letter/面试准备）；cloudflare/security-audit-skill（JavaScript 34,339★，+1,712）多阶段安全审计技能、结论须可独立复核且机器可读——「装技能」与「减输出」同日上榜，重心从能跑转向对不对、贵不贵。V2EX 热门 10 条经直连（/api/topics/hot.json）取得，呈 AI 工具成本与封号焦虑 + 生活流两分：AI 张大妈送 20 代币、招行信用卡、去海外还是留国内、卖房咨询、女儿练字吵架、密码管理工具、中转站 gpt0.16 倍率领鸡蛋、Claude 账号硬度、1000 美金开源软件 DeepSeek 1 美金做完（Day 6）、Claude 封号软件商业化；Linux.do latest 直连与代理 127.0.0.1:7890 均被 Cloudflare 人机校验拦截，本期缺数据且不臆测填充。福利由 Epic 官方 promotions 接口直取：在窗仍为《Bad Cheese》（¥40）与《Agent A - 伪装游戏》（¥62），10/15 23:00 至 10/22 23:00 CST 可领、合计 ¥102，下期 10/22 23:00 起为《Sker Ritual》与《Home - A Unique Horror Adventure》（至 10/29 23:00）；在架折扣《纪念碑谷》35%、《Eternal Threads》20%（均至 11/2）、《LISA: Definitive Edition》11/1 起 60%；国内经一次 web_search 补得中国移动 10 月话费流量 21 个活动（多数 10/31 截止，签到/直领/抽奖/充值四类）与某腾讯系竞技游戏免费皮肤活动（对局统计截至 10/21 23:59、领取截至 10/28 23:59，需 3 个不同英雄各胜 1 局）。注：ds-search.sh 本次零输出，福利改走 Epic 接口 + 单次 web_search；trending stars 取自 /stargazers 链接计数（第二数字为 forks，未混用）；配图 cover/1.webp（第 294 天 % 21 + 1）。
+
 ### 2026-10-20
 
 ### 内容
