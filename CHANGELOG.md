@@ -1,3 +1,8 @@
+### 2026-10-22
+
+### 内容
+- **今日开源热点与福利 | 2026-10-22** — GitHub Trending 主线是「给 Agent 装刹车和记账本」：DietrichGebert/ponytail（JavaScript 171,746★）让 agent 像最懒的资深工程师那样思考、对抗过度工程；Comfy-Org/ComfyUI（Python 141,565★）模块化扩散模型 GUI/API/后端；supabase/supabase（TypeScript 113,040★）Postgres 开发平台；stablyai/orca（TypeScript 101,363★）用自有订阅跑编码 agent 舰队的工作台；vllm-project/vllm（Python 94,907★）高吞吐推理服务引擎；headroomlabs-ai/headroom（Python 77,288★）在工具输出/日志/文件/RAG 分块进入 LLM 前做压缩；twentyhq/twenty（TypeScript 59,208★）面向 AI 的 Salesforce 开源替代；shiyu-coder/Kronos（Python 42,857★）金融市场序列基础模型；cloudflare/security-audit-skill（JavaScript 36,624★）多阶段安全审计技能、结论须可独立复核且机器可读；strelov1/freehire（Go 2,436★）求职搜索。V2EX 热门 10 条经直连 /api/topics/hot.json 取得（/api/v2 版超时），呈行业焦虑与生活流两分：前端要完了、Vibe 网页 AI 味重、前端学后端被代码劝退、电瓶车通勤配件、PHP 零日无人讨论、婚后不育分歧、旧车送妹妹怕老婆不同意、Vanto 苹果四端播放器送 200 份永久版、公共场合冲突、MFlare Cloudflare 用量菜单栏小工具送兑换码；Linux.do latest 与 top（period=daily）直连及代理 127.0.0.1:7890 均被 Cloudflare 人机校验拦截，本期缺数据且不臆测填充。福利：Epic 官方 promotions 接口显示在窗仍为《Bad Cheese》（¥40）与《Agent A - 伪装游戏》（¥62），10/15 23:00 至 10/22 23:00 CST、合计 ¥102，今晚 23:00 换档为《Sker Ritual》（有中文、支持 4 人联机）与《Home - A Unique Horror Adventure》（无中文）至 10/29 23:00；在架促销《纪念碑谷》《Eternal Threads》至 11/2；经一次 web_search 补得《闪耀暖暖》10/22 更新后「蘑幻绮境」联动活动登录即领寻迹罗盘×10（十连），至 11/4 23:59、兑换至 11/5 23:59。注：ds-search.sh 本次零输出，福利改走 Epic 接口 + 单次 web_search；trending stars 取自页面计数（未与 forks 混用）；配图 cover/2.webp（第 295 天 % 21 + 1）。
+
 ### 2026-10-21
 
 ### 内容
