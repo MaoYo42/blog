@@ -1,3 +1,8 @@
+### 2026-10-23
+
+### 内容
+- **今日开源热点与福利 | 2026-10-23** — GitHub Trending 主线是「给 Agent 装审计，也给它装刹车」：cloudflare/security-audit-skill（JavaScript 39,673★，今日 +2,979，涨幅第一）多阶段安全审计技能、结论须可独立复核且机器可读；DietrichGebert/ponytail（JavaScript 173,576★，+1,948）让 agent 像「最懒的资深工程师」那样思考、以少写代码为目标，反过度工程；Graphify-Labs/graphify（Python 133,018★，+1,408）把代码库+文档+SQL schema+配置+PDF 转成可查询知识图谱、作为 Claude Code/Cursor/Codex 的 /graphify 技能；anthropics/knowledge-work-plugins（Python 31,652★，+303）面向知识工作者的 Claude Cowork 插件开源仓库，官方下场做插件生态；php/php-src（C 41,192★，+287）因前一日 PHP2Shell 远程代码执行链（CVE-2026-109618/109619）重新被围观；supabase/supabase（TypeScript 113,510★，+693）Postgres 开发平台；luongnv89/claude-howto（Python 43,273★，+177）Claude Code 可视化实战指南；Meloong-Git/PCL（Visual Basic .NET 8,716★，+119）Minecraft 启动器 Plain Craft Launcher。V2EX 热门 10 条经代理 127.0.0.1:7890 走旧版 /api/topics/hot.json 取得（直连 /api/v2 返回 HTML），生活流压倒技术流：00 后结婚 10 个月老婆回娘家（533 回复）、朋友深陷感情骗局求支招（106）、未来突然失业的普遍焦虑（89）、根管治疗经验（75）、SuperShot 截图工具求评价（69）、吉列换舒适剃刀消费降级（66）、感情不顺帖的共同特点（57）、逆向小丑牌做成网页游戏（48）、三种薪资结构选择（44），技术相关仅两个。Linux.do latest 直连与代理均被 Cloudflare 人机校验拦截（Just a moment...），本期缺数据且不臆测填充。福利由 Epic 官方 freeGamesPromotions 接口（zh-CN/CN）直取：本周在窗为 Sker Ritual（¥78，有中文、支持 4 人联机）与 Home - A Unique Horror Adventure（¥15，无中文），10/22 23:00 至 10/29 23:00 CST 可领、合计 ¥93；下一档 10/29 23:00 起为《Sorry We're Closed》（¥78）至 11/5 23:00；在架折扣《纪念碑谷》-35%、《Eternal Threads》-20%、《Sorry We're Closed》-70%，均至 11/3 00:00 CST。注：ds-search.sh 本次返回的是限免追踪渠道建议（AppSliced/AppRaven、Epic 周四换档、Unsplash/OpenStax/Coursera/Libby 等正版免费源）而非当日具体活动，故福利主体改走 Epic 接口、渠道建议另列常驻项；trending stars 取自 /stargazers 链接计数（未与 forks 混用）；配图 cover/3.webp（第 296 天 % 21 + 1）。
+
 ### 2026-10-22
 
 ### 内容
