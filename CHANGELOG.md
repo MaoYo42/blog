@@ -1,3 +1,8 @@
+### 2026-10-28
+
+### 内容
+- **今日开源热点与福利 | 2026-10-28** — GitHub Trending 主线是「模型没进步，围栏在加固」：榜内七席（已剔除赞助位卡片）无一新模型，全是 Agent 周边。Nutlope/hallmark（CSS，39,100★，今日 +2,830）反 AI 塑料味设计技能连续第三天在榜并冲上新增第一，适配 Claude Code/Cursor/Codex；HKUDS/DeepTutor（Python，46,022★，+1,598）港大数据智能实验室的终身个性化辅导项目，榜内唯一教育类；makecindy/cindy（TypeScript，7,510★，+1,465）开箱即用开源 Agent；pbakaus/impeccable（Rust，90,631★，+1,449）让 AI harness 在 design 任务上更专业的设计语言，与 hallmark 构成「定标准—管落地」一对；JetBrains/thinkrail（TypeScript，4,067★，+1,204）JetBrains 官方轻量 vibe coding IDE，会按工作方式自我定制；gitroomhq/postiz-app（TypeScript，39,429★，+951）agentic 社媒排程；nightly-labs/openbot（TypeScript，2,498★，+777）local-first 桌面工作区，Codex/Claude/Grok 各占一席带任务队列常驻。读榜结论：前五两席为「让 AI 输出不那么难看」的设计技能、一席本地多模型工作台、一席大厂官方 IDE，注意力已从能力增量转向可用性与观感。社区：V2EX /api/v2/topics/hot.json 直连与走代理 127.0.0.1:7890 均返回 HTML 挑战页而非 JSON，Linux.do /latest.json 直连与代理均被 Cloudflare 人机校验拦截（Just a moment...），两站本期缺数据、未臆测填充。福利：Epic 本周真免（10/22 23:00–10/29 23:00 CST，合计 ¥93）为 Sker Ritual《斯盖尔仪式》（¥78，有中文、4 人联机）与 Home - A Unique Horror Adventure《归家》（¥15，无中文）；《Terraspace》开发者自发限免已于今日 04:00 截止、智谱 ZCode 免费 3 亿 GLM-5.3-Flash Tokens 已于今日 09:00 截止，两者一并标注避免白跑；下一档 10/29 23:00 起为《Sorry We're Closed》（¥78）至 11/5。核实说明：ds-search.sh 连续多期零输出（本次两次执行均返回空），福利改走单次 web_search（后端 ddgs 超时，由 keyless free tier 兜底）后交叉核对多来源；trending 星数取自 /stargazers 链接文本、今日新增取自「stars today」计数，未混用；页面含 sponsors/ 开头的赞助位卡片三条（obra、elayadesign、affaan-m），已从排名剔除以免伪高星；配图 cover/8.webp（第 301 天 % 21 + 1）。
+
 ### 2026-10-27
 
 ### 内容
