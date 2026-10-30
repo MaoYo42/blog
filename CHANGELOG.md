@@ -1,3 +1,8 @@
+### 2026-10-30
+
+### 内容
+- **今日开源热点与福利 | 2026-10-30** — GitHub Trending 主线是「Agent 的脚手架、记忆与审美」：榜内六席（已剔除 sponsors/ 赞助位卡片四条）无一新模型。pbakaus/impeccable（Rust，今日 +2,870）给编码 Agent 的设计词汇表，polish／bolder 推进、critique／audit 复核，居今日新增第一；HKUDS/DeepTutor（Python，+1,930）港大数据智能实验室的终身个性化辅导，榜内唯一教育类；togg53192-cmd/jailbreaks（+1,594）越狱提示词合集，纯内容型项目冲到新增第四；JetBrains/thinkrail（TypeScript，+1,117）JetBrains 官方轻量 vibe coding IDE；nightly-labs/openbot（TypeScript，+709）local-first 桌面工作区，Codex／Claude／Grok 各占一席带任务队列与 Agent 间协作；CopilotKit/OpenBot（TypeScript，+247）开源 AI 同事，各自分到一台带浏览器与文件的「电脑」，每动作先决策后记录、可接任意 AG-UI agent。赞助位里的 obra/superpowers（Shell，+1,034，Agent 技能框架）与 thedotmack/claude-mem（TypeScript，+336，跨会话持久记忆，明确支持 Claude Code／Codex／Gemini／Hermes／Copilot）方向一致，未计入排名。读榜结论：前六两席为设计与技能层、两席本地多模型工作台、一席大厂官方 IDE、一席内容库，能力增量让位于可控性与观感，该判断连续一周成立。社区：V2EX 旧版 /api/topics/hot.json 走代理 127.0.0.1:7890 取到 8 条（/api/v2 返回非 JSON），热度首位为「亲戚来上海找工作想在我家打地铺，老婆不乐意，我妈说我不懂人情世故」，其余含 [送码] 本地影音库 Inscura（Mac/Windows，含本地 AI 画面检索）、「被裁了，今天最后一天」、Android 纯自研内核 IPTV 播放器、「OpenAI 有个小福利 去领一下」、终端窗口管理器替代 tmux 讨论；技术流与生活流约四六开。Linux.do /latest.json 与 /top.json 直连、代理均被 Cloudflare 人机校验拦截，本期缺数据且不臆测填充。福利：Epic 官方 freeGamesPromotions 接口（zh-CN／CN）实测仅《Sorry We're Closed》（¥78）discountPrice=0，截止 2026-11-05T16:00Z（CST 11-06 00:00），上周《Sker Ritual》《Home》已于 10-29 23:00 CST 结束；OpenAI 福利仅记录 V2EX 热帖线索、未逐项实测，并提示第三方公益站勿绑支付、勿跑敏感数据。核实说明：ds-search.sh 本次执行为零输出（exit 0、无内容），福利改走 Epic 接口实测加一次 web_search 兜底；GitHub 页面已改为客户端渲染总星数，star 计数器在 HTML 中取不到，故本期仅使用「stars today」新增数、不混用总星；配图 cover/10.webp（第 303 天 % 21 + 1）。
+
 ### 2026-10-29
 
 ### 内容
