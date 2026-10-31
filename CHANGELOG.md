@@ -1,3 +1,8 @@
+### 2026-10-31
+
+### 内容
+- **今日开源热点与福利 | 2026-10-31** — GitHub Trending 主线仍是「给 Agent 立规矩」，榜内前十（已剔除 sponsors 赞助位）无任何模型类项目：pbakaus/impeccable（Rust，今日 +2,300）设计词汇表重回新增第一，polish／bolder 推进、critique／audit 复核；HKUDS/DeepTutor（Python，+2,282）港大终身个性化辅导；togg53192-cmd/jailbreaks（+2,055）越狱提示词合集；obra/superpowers（Shell，+1,259）Agent 技能框架与方法论；thedotmack/claude-mem（TypeScript，+1,140）跨会话持久上下文，明确支持 Claude Code／Codex／Gemini／Hermes／Copilot；Renhuai123/ziwei-doushu（TypeScript，+1,126）紫微斗数开源排盘引擎（倪海厦《天纪》体系，含四化系统与古籍原文数据）；pingdotgg/t3code（+930）；milind-soni/OpenMausBot（+895）开源 Grok Bot 替代带虚拟机。读榜结论：前十四席在技能／记忆／方法论层，两席本地工作台，一席官方 vibe coding IDE（JetBrains/thinkrail +722），能力增量继续让位于可控性与观感，该判断连续一周成立。社区本期三源齐活：V2EX 旧版 /api/topics/hot.json 经代理取得 7 条（/api/v2 仍返非 JSON），首位「就是想买，有人劝醒我么？」（摄影，184 回复），其余含「我没有任何办法用 Claude 了吗？」（137）、「第一次相亲的一点情况」（128）、PC Web 滚动条过细吐槽（114）、学英语工具推荐（macOS，79）、AppleTV 看不了优爱腾（66）；Linux.do /latest.json 本机 curl 被 Cloudflare 拦截，改 web_extract 服务端抓取成功，热门为【富可敌国】InitAPI 开业注册回帖送 $10、加群再送 $5（破甲 DeepSeek-V4.1-Flash 0.4x／低价版 0.1x，300 赞）、《秘密花园园丁邀请函》（357 回复／7 万浏览）、大学生 AI 重度用户平替方案、「被 claude 封号的都退款了吗」、「Google AI Ultra 5X 土区值不值得开」、官方 iOS App 更新至 1.0.3。福利：Epic 官方 freeGamesPromotions 接口（zh-CN／CN）实测仅《Sorry We're Closed》（¥78）discountPrice=0，promotionalOffers 显示 10-29T15:00Z 起至 11-05T16:00Z，即 CST 11-06 00:00 截止，本周无第二款同步免费；腾讯 WorkBuddy 公告称 Hy3 限免与 Hy4 preview 夜间限免延期至 10-31，今日为最后一天（来源 news.qq.com 2026-09-30 稿，标注以官方页面为准）；InitAPI 福利仅据 Linux.do 热门帖记录、未逐项实测，并提示第三方公益站勿绑支付、勿跑敏感数据。核实说明：ds-search.sh 本次仍为零输出（exit 0、无内容），福利改走 Epic 接口实测加一次 web_search 兜底；GitHub 页面仍为客户端渲染总星数，HTML 中取不到总星，故本期只用「stars today」、不混用总星；配图 cover/11.webp（第 304 天 % 21 + 1）。
+
 ### 2026-10-30
 
 ### 内容
