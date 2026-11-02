@@ -1,3 +1,8 @@
+### 2026-11-02
+
+### 内容
+- **今日开源热点与福利 | 2026-11-02** — 榜单回到「Agent 的装修队」：记忆层、游戏工作室、Grok Bot 替代品、离线听写各占一席，前十（已剔除 sponsors 赞助位）无一新模型。pingdotgg/t3code（TypeScript，今日 +3,094）介绍文案为空却连续第四期在榜、本周新增第一；thedotmack/claude-mem（TypeScript，+1,526）跨会话持久上下文，支持 Claude Code／Codex／Gemini／Copilot；Donchitos/Claude-Code-Game-Studios（Shell，+967）用 49 个 agent 加 72 条工作流技能把 Claude Code 改成游戏工作室；milind-soni/OpenMausBot（TypeScript，+922）开源 Grok Bot 替代品、自带可操作虚拟机；lightpanda-io/browser（Zig，+825）为 AI 与自动化设计的无头浏览器；shiyu-coder/Kronos（Python，+630）把 K 线当文本序列的金融市场基础模型；cjpais/Handy（Rust，+339）完全离线的语音转文字；public-apis/public-apis（Python，+324）老牌免费 API 合集。读榜结论：前五三席在解决「Agent 记不住、管不住、不像团队」，能力增量继续让位于工程化与可控性。社区本期两源中一源可用：V2EX 走代理抓 `?tab=hot` 页面（/api/v2 仍返非 JSON）取到 10 条，首位「没有人讨论影之刃零吗？」，其余含「现在的行情真的很冷」、ESP Mosaico 攻破嵌入式护城河的 AI 长帖、广州公交扫码成功率体感、Tibo 28 天挑战复盘、ChatGPT Pro 订阅开票报销、11 月网易云黑胶会员领取（天数随机）、Claude KYC 通过后是否临近封禁、ToDesk 精简版被控端需会员才能远程。Linux.do `/latest.json` 与 `/top.json` 直连、代理均返 403（Cloudflare 人机校验），本期缺数据且不臆测填充。福利以 Epic 官方 freeGamesPromotions 接口（zh-CN／CN）实测为准：本周真免仅《Sorry We're Closed》（¥78）一款，截止 2026-11-05T16:00Z 即 CST 11-06 00:00；纠正二手汇总误报——《LISA: Definitive Edition》（¥108）本周为 6 折 ¥64.80 非免费，《Eternal Threads》（现 ¥12.40）与《纪念碑谷》（现 ¥11.55）亦为折扣且今日 16:00Z 到期；接档《浮游世界》（¥75）与《Idle Champions》CST 11-06 00:00 起、《幽灵行者 2》（¥169）12-10 起。另记 PS+ 11 月一档会免据媒体报道为《死亡岛 2》等三款、11-03 起领，标注为媒体口径未核对官方商店。核实说明：ds-search.sh 本次两次执行仍为零输出（exit 0、无内容），福利改走 Epic 接口实测、未用第二路 web_search；GitHub 榜单总星数为客户端渲染，故只用「stars today」、不混用总星；配图 cover/13.webp（第 306 天 % 21 + 1）。
+
 ### 2026-11-01
 
 ### 内容
