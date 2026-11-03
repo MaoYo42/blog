@@ -1,3 +1,8 @@
+### 2026-11-03
+
+### 内容
+- **今日开源热点与福利 | 2026-11-03** — GitHub Trending 今日主线是「给 Agent 配电脑」：vercel-labs/agent-desktop（Rust，+2,275）以 computer use CLI 冲到第二，允许智能体直接操作桌面应用而非截图识别；pingdotgg/t3code（TypeScript，+3,229）文案依旧为空却连续多期居首，新增第一；本地模型三席并进——JustVugg/colibri（C，+675，纯 C 零依赖、专家权重磁盘流式加载）、FlashML-org/FreeToken（Python，+653，数据中心级推理下桌面）、shiyu-coder/Kronos（Python，+857，把 K 线当语言的金融基础模型）；另有 hyprwm/Hyprland（C++，+509）、p-e-w/heretic（Python，+420，免训练去审查／降谄媚）、paperclipai/paperclip（TypeScript，+412，Agent 管理面板）。赞助位 thedotmack/claude-mem（+1,803）、Donchitos/Claude-Code-Game-Studios（+1,379）、D4Vinci/Scrapling（+706）、mattpocock/skills（+858）方向一致，未计入排名。读榜结论：能力增量让位于落地层——桌面可操作、模型可本地跑、记忆可延续，模型本体零上榜。社区两源中一源可用：V2EX 旧版 /api/topics/hot.json 经代理 127.0.0.1:7890 取到 10 条，首位「前公司老板找我回去救场」（职场，187 回复），其余含「你们除了上班娱乐方式有哪些」（生活 173）、「这辈子买过最贵的东西」（145）、「朋友一家定期献血」（144）、「agent 的代码到底审核不审核」（程序员 123，与榜单主题呼应）、「AI 普及后应把所有 Electron 重写为 native」（82）、指纹探测工具分享（65），另两条中转站推广帖（HyperAPI 评论留 ID 送 $10、双 11 新用户送 10 元）合计 170 余回复。Linux.do /latest.json 与 /top.json 直连、代理均返回 Cloudflare 挑战页（Just a moment...），本期缺数据且不臆测填充。福利以 Epic 官方 freeGamesPromotions 接口（zh-CN／CN）实测为准：本周真免仅《Sorry We're Closed》（原价 ¥78）一款，截止 2026-11-05T16:00Z 即 CST 11-06 00:00；其余带 promotionalOffers 条目 discountPrice 非 0，判定为折扣并从免费名单剔除；接档据此前排期为《浮游世界》（¥75）与 Idle Champions，CST 11-06 00:00 起。核实说明：ds-search.sh 本次执行为零输出（exit 0、无内容），福利改走 Epic 接口实测、未用第二路 web_search；GitHub 榜单总星数为客户端渲染，故只用「stars today」、不混用总星；配图 cover/14.webp（第 307 天 % 21 + 1）。
+
 ### 2026-11-02
 
 ### 内容
