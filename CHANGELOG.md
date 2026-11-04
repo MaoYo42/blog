@@ -1,3 +1,8 @@
+### 2026-11-04
+
+### 内容
+- **今日开源热点与福利 | 2026-11-04** — GitHub Trending 今日主线是「Agent 的脚手架」：vercel-labs/agent-desktop（Rust，+3,791）以给智能体用的 computer use CLI 断层登顶，昨日尚在榜内第二，今日增量翻倍；mattpocock/skills（Shell，+1,164，作者直接公开 .agents 目录的工程技能集）与 thedotmack/claude-mem（TypeScript，+1,139，跨会话持久记忆：抓取会话行为→AI 压缩→按需注入）分列二三，三席全部指向「Agent 缺的那几块拼图」。本地推理侧 JustVugg/colibri（C，+802）为 MoE 分层推理引擎，热专家驻 GPU（CUDA／Vulkan）、温的驻内存、冷的从 NVMe 流式读取；p-e-w/heretic（Python，+701）免训练去审查／抑 slop／降谄媚，延续上周在榜；floci-io/floci（Java，+482）自称「轻、软、永远免费」的 AWS Local Emulator 替代；anomalyco/hex（Rust，+410，mac／Windows／Linux 本地语音听写）与 spotify/portal-ai-plugins（TypeScript，+91，描述为空）各占一席；中文项目 Usagi-org/ai-goofish-monitor（Python，+228）以 Playwright＋AI 做闲鱼多任务实时／定时监控与智能分析并带后台 UI。读榜结论：连续两周「模型本体零上榜」判断继续成立，本期增量在于把 Agent 的记忆、操作、并行协作、本地仿真四个生态位分别补齐。社区两源中一源可用：V2EX /api/v2 两次超时，旧版 /api/topics/hot.json 经代理 127.0.0.1:7890 取到 8 条，首位「娶了一个这样的媳妇 我该如何自救？」，其余含「被 AI 狠狠辱骂了 🤡」（AI 已成情绪出口）、「如何在家复刻川渝火锅」、「uu 远程未来要付费了」与「有多少 Plus 用户想要退订 gpt 了？有什么替代方案么？」（订阅制疲劳两条同现，值得单独关注）、「亲戚聚餐，被当众问工资，怎么回答」、「我的 APP 创作出的壁纸在小红书有 100w 浏览量了！送终身码」、「小孩子看稍微暴力血腥一点的电影真的影响很大么」。Linux.do /latest.json 与 /top.json?period=daily 直连、代理均失败（两次超时／无返回），本期缺数据且不臆测填充。福利侧 ds-search.sh 本次执行为零输出（exit 0、无内容），按规程改走一次 web_search 兜底并标注为媒体／社区口径、未逐项实测：阿里云双十一大促（11-01 至 11-30）覆盖大模型资源包、AI 智能体、视频生成、云服务器与 AI 建站；阿里云免费试用开放 160+ 款产品（含 ECS、轻量应用服务器、数据库、AI 能力与免费 tokens 额度）；百度智能云算力补贴申请有效期至 2026-11-30 24:00；Oracle Cloud 永久免费 4 核 24G ARM 实例仍为长期选项（需外卡验证，注册门槛高）。并提示免费套餐普遍有配置／流量上限、超额计费，须设账单提醒并清理闲置资源。核实说明：GitHub 榜单总星数为客户端渲染，HTML 中取不到总星，故只用「stars today」、不混用总星；本期未取得 Epic 免费游戏接口数据，故未列游戏免单，避免沿用过期刊面；配图 cover/1.webp（第 308 天 % 21 + 1）。
+
 ### 2026-11-03
 
 ### 内容
