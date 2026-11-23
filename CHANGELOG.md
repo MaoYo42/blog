@@ -1,3 +1,8 @@
+### 2026-11-24
+
+### 内容
+- **今日开源热点与福利 | 2026-11-24** — 榜单主线是「给 Agent 备货」：按今日新增 star（GitHub 总星数为客户端渲染、HTML 取不到，故只用日增、不混用总星）排序，XiaoYouChR/Ghost-Downloader-3（Python，+1,078）集大成下载器连续第三期居首或紧邻榜首，firecrawl/firecrawl（TypeScript，+920）以单个 API 打通 550+ 数据源的抓取层列第二，zhouxiaoka/autoclip（Python，+908）长视频一键切短视频并出字幕封面文案紧随，jingyaogong/minimind（Python，+828）两小时训 64M 模型第四，mvanhorn/last30days-skill（Python，+790）跨 Reddit／X／YouTube／HN／Polymarket 做 30 天带出处调研、HKUDS/CLI-Anything（Python，+783）把任意 CLI 封装为 Agent 原生接口分列五六；另有 Tracer-Cloud/opensre（Python，+438）CI/CD 可靠性 Agent、google-labs-code/stitch-skills（TypeScript，+425）、cursor/plugins（TypeScript，+395）在榜，openvinotoolkit/openvino（C++，+183）与 nginx/nginx（C，+174）两个老牌基建回榜；5 个 sponsors 赞助位（elementalsouls +2,037／obra +838／cathrynlavery +624／mjmirza +755／toeverything +593）已剔除、未计入排名。读榜结论：前六有四席在解决「Agent 能摸到东西、能查得到东西」，模型本体连续第三期未进前十。社区侧 V2EX `/api/v2/topics/hot.json` 返 HTML、改旧版 `/api/topics/hot.json` 经代理 127.0.0.1:7890 取到 10 条，职业焦虑成集群：「劝大家不要再开发了」「三年后还有多少程序员能靠写代码活着」「2027 年准备转行」「程序员转行拼豆店」四条同现，订阅与风控两条为「gemini pro 登录 Antigravity 提示地区不可用」「我的 Claude 从未被封过」，另有熊市免 5 定投纳指／红利低波 ETF 与生活帖（恋爱六年坦白、拒绝蹭车、三颗智齿是否一起拔）；Linux.do `/latest.json` 直连与代理均返 Cloudflare「Just a moment...」挑战页，缺数据未臆测。福利侧 ds-search.sh 本次执行为零输出（exit 0、无内容），按规程改走一次 web_search 兜底并标注为社区／媒体聚合口径、未逐项实测：OpenAI 学术研究者计划 11-23 起开放新一轮申请（前 5 万份直接获批、含申请人 + 最多 2 位合作者的 ChatGPT Plus）、中国电信社区在传免费 4 核 8G 云电脑（运营商拉新、需实名）、火山引擎 11.11 AI 智选 2500 万 Tokens（新户 50 万／模型 + 实名每日刷新，提醒设用量上限或开安心体验模式）、Claude Pro/Max/Ultra/Team 一次全量额度重置（截止 2026-12-10 14:00 PT 即 CST 12-11 06:00、须手动领）；避坑项记阿里 Qoder 免费档自 11-19 起停领每日 Credits，旧教程会白折腾。核实说明：头条图片按既有公式取 cover/14.webp（第 328 天 % 21 + 1）；本期未取得 Epic 免费游戏接口数据，故不列游戏免单，避免沿用过期刊面。
+
 ### 2026-11-22
 
 ### 内容
