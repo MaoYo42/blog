@@ -1,3 +1,8 @@
+### 2026-11-25
+
+### 内容
+- **今日开源热点与福利 | 2026-11-25** — 榜单主线是「把 Agent 能碰到的东西全装备上」：按今日新增 star 排序（GitHub 总星数为客户端渲染、HTML 取不到，故只用日增、不混用总星），XiaoYouChR/Ghost-Downloader-3（Python，+1,102）集大成下载器居首，HKUDS/CLI-Anything（Python，+1,075）把任意软件 CLI 封装为 Agent 原生接口列第二，firecrawl/firecrawl（TypeScript，+990）以单 API 打通 550+ 数据源列第三，zhouxiaoka/autoclip（Python，+981）长视频一键切短视频并出字幕封面文案第四，jingyaogong/minimind（Python，+727）两小时训 64M 模型第五，mvanhorn/last30days-skill（Python，+695）跨 Reddit／X／YouTube／HN／Polymarket 做 30 天带出处调研第六，Tracer-Cloud/opensre（Python，+408）为 CI/CD 可靠性 Agent、google-labs-code/stitch-skills（TypeScript，+401）为 Stitch MCP 技能库分列七八；另 openvinotoolkit/openvino（C++，+187）与 nginx/nginx（C，+158）两个老牌基建在榜；5 个 sponsors 赞助位（elementalsouls +1,833／obra +1,006／mjmirza +936／cathrynlavery +794／toeverything +589）已按往期口径剔除、未计入排名。读榜结论：前八无一在训更大模型，七席在解决「Agent 够得着、拿得回、交得出」，本轮热度属工具链而非模型。社区侧 V2EX `/api/topics/hot.json` 直连超时后经代理 127.0.0.1:7890 取到 9 条：首位「养猫两个月关系越来越糟」，其余含「2026 年我的常用 Mac 软件分享」「北京 35+ 前端失业一个月，想去干转转上门回收」「有多少人通过 AI 赚到工作以外额外的钱」「Apple ID 刚刚被盗刷」「为什么我开不了 99.99 刀的 Gemini AI Pro」等；文中点出「35+ 失业」与「靠 AI 赚外快」两条同现、以及年关前盗刷事故增多两个信号。Linux.do `/latest.json` 直连与代理均返 Cloudflare 人机校验页，缺数据未臆测。福利侧 ds-search.sh 本次执行为零输出（exit 0、无内容），按规程改走一次 web_search 兜底并标注未逐项实测：Epic 本周真免为《深渊之印》（Mark of the Deep，国区原价 ¥55），窗口至 2026-11-26T16:00Z 即 CST 11-27 00:00，与两家第三方免费日历交叉核对一致，下周预告《面包和年糕》（Bread & Fred，¥47，11-27 起）；Amazon Prime Gaming 可领 Kiborg（至 12-02）、Squirrel with a Gun（至 12-09）、Caravan SandWitch（至 12-16）；学生向记 Google AI Plus 12 个月试用（SheerID＋个人 Gmail＋绑支付，到期自动转付费）、JetBrains Student Pack、GitHub Student Developer Pack，并提示第三方低价 Gemini／Claude 订阅的共享号与封禁风险。核实说明：Amazon 与学生向条目为聚合口径、未逐项实测；配图 cover/15.webp（第 329 天 % 21 + 1）。
+
 ### 2026-11-24
 
 ### 内容
